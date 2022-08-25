@@ -1,0 +1,6 @@
+ACCOMPLISHED:
+
+- Created a txt file for the tagalog and ilokano bible source
+- Opened the data file in python
+- Parsed the data file
+- Created a dictionary of the ilokano and tagalog bibles using pandas
