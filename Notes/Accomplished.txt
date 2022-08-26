@@ -4,3 +4,4 @@ ACCOMPLISHED:
 - Opened the data file in python
 - Parsed the data file
 - Created a dictionary of the ilokano and tagalog bibles using pandas
+- Created a method that will remove the punctuations
