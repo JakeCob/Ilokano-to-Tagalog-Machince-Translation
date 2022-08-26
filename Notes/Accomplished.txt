@@ -5,3 +5,4 @@ ACCOMPLISHED:
 - Parsed the data file
 - Created a dictionary of the ilokano and tagalog bibles using pandas
 - Created a method that will remove the punctuations
+- Created Ilokano_Story dataset by using a sentence splitter
