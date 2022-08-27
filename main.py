@@ -17,9 +17,10 @@ dict_bible = pd.DataFrame({
     'tagalog': parsedTagalog
 })
 
-# Printing the first 5 elements of the dictionary
-# dict_bible.head()
+dict_bible['ilokano_nopunc'] = dict_bible['ilokano'].apply(lambda x: clean_data.remove_punct(x))
+dict_bible['tagalog_nopunc'] = dict_bible['tagalog'].apply(lambda x: clean_data.remove_punct(x))
 
-dict_bible['ilokano_clean'] = dict_bible['ilokano'].apply(lambda x: clean_data.remove_punct(x))
-dict_bible['tagalog_clean'] = dict_bible['tagalog'].apply(lambda x: clean_data.remove_punct(x))
+dict_bible['ilokano_tokenized'] = dict_bible['ilokano_nopunc'].apply(lambda x: clean_data.tokenize(x.lower()))
+dict_bible['tagalog_tokenized'] = dict_bible['tagalog_nopunc'].apply(lambda x: clean_data.tokenize(x.lower()))
+
 print(dict_bible)
