@@ -6,3 +6,5 @@ ACCOMPLISHED:
 - Created a dictionary of the ilokano and tagalog bibles using pandas
 - Created a method that will remove the punctuations
 - Created Ilokano_Story and Tagalog_Story dataset
+- Created a remove stopwords method
+- added GENESIS 2
