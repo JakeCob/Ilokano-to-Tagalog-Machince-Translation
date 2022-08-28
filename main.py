@@ -23,4 +23,6 @@ dict_bible['tagalog_nopunc'] = dict_bible['tagalog'].apply(lambda x: clean_data.
 dict_bible['ilokano_tokenized'] = dict_bible['ilokano_nopunc'].apply(lambda x: clean_data.tokenize(x.lower()))
 dict_bible['tagalog_tokenized'] = dict_bible['tagalog_nopunc'].apply(lambda x: clean_data.tokenize(x.lower()))
 
+dict_bible['tagalog_nostopwords'] = dict_bible['tagalog_tokenized'].apply(lambda x: clean_data.remove_stopwords(x))
+
 print(dict_bible)
