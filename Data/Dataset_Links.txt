@@ -1,6 +1,9 @@
-BIBLE DATASET
-TAGALOG - https://christos-c.com/bible/
-ILOKANO - https://www.bible.com/bible/782/GEN.1.RIPV
+COMPLETE TAGALOG BIBLE DATASET
+https://christos-c.com/bible/
+
+BIBLE
+TAGALOG - https://www.bible.com/bible/2196/GEN.30.ABTAG
+ILOKANO - https://www.bible.com/bible/2192/GEN.30.TB1973
 
 STORY DATASET
 TAGALOG - human translation
