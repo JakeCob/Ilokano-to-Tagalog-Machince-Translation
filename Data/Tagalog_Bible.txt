@@ -1,60 +1,507 @@
-GENESIS 1
+GENESIS 
 Nilalang ng Dios ang sanglibutan.
-1Nang pasimula ay nilikha ng Dios ang langit at ang lupa.
-2At ang lupa ay walang anyo at walang laman; at ang kadiliman ay sumasa ibabaw ng kalaliman; at ang Espiritu ng Dios ay sumasa ibabaw ng tubig.
-3At sinabi ng Dios Magkaroon ng liwanag; at nagkaroon ng liwanag.
-4At nakita ng Dios ang liwanag na mabuti, at inihiwalay ng Dios ang liwanag sa kadiliman.
-5At tinawag ng Dios ang liwanag na Araw, at tinawag niya ang kadiliman na Gabi. At nagkahapon at nagkaumaga ang unang araw.
-6At sinabi ng Dios, Magkaroon ng isang kalawakan sa gitna ng tubig, at mahiwalay ang tubig sa kapuwa tubig.
-7At ginawa ng Dios ang kalawakan, at inihiwalay ang tubig na nasa ilalim ng kalawakan, sa tubig na nasa itaas ng kalawakan: at nagkagayon.
-8At tinawag ng Dios ang kalawakan na Langit. At nagkahapon at nagkaumaga ang ikalawang araw.
-9At sinabi ng Dios, Mapisan ang tubig na nasa silong ng langit sa isang dako, at lumitaw ang katuyuan, at nagkagayon.
-10At tinawag ng Dios ang katuyuan na Lupa, at ang kapisanan ng tubig ay tinawag niyang mga Dagat: at nakita ng Dios na mabuti.
-11At sinabi ng Dios, Sibulan ang lupa ng damo, pananim na nagkakabinhi, at punong kahoy na namumunga ayon sa kaniyang pagkakahoy, na taglay ang kaniyang binhi sa ibabaw ng lupa, at nagkagayon.
-12At ang lupa ay sinibulan ng damo, pananim na nagkakabinhi, ayon sa kaniyang pagkapananim, at ng punong kahoy na namumunga, na taglay ang kaniyang binhi, ayon sa kaniyang pagkakahoy, at nakita ng Dios na mabuti.
-13At nagkahapon at nagkaumaga ang ikatlong araw.
-14At sinabi ng Dios, Magkaroon ng mga tanglaw sa kalawakan ng langit upang maghiwalay ng araw sa gabi; at maging pinakatanda, at pinakabahagi ng panahon, ng mga araw at ng mga taon:
-15At maging pinakatanglaw sa kalawakan ng langit, upang tumanglaw sa ibabaw ng lupa: at nagkagayon.
-16At nilikha ng Dios ang dalawang malaking tanglaw; ang malaking tanglaw ay upang magpuno sa araw, at ang maliit na tanglaw ay upang magpuno sa gabi: nilikha rin niya ang mga bituin.
-17At mga inilagay ng Dios sa kalawakan ng langit, upang tumanglaw sa ibabaw ng lupa,
-18 At upang magpuno sa araw at sa gabi, at upang maghiwalay ng liwanag sa kadiliman: at nakita ng Dios na mabuti.
-19At nagkahapon at nagkaumaga ang ikaapat na araw.
-20At sinabi ng Dios, Bukalan ng sagana ang tubig ng mga gumagalaw na kinapal na may buhay, at magsilipad ang mga ibon sa itaas ng lupa sa luwal na kalawakan ng himpapawid.
-21At nilikha ng Dios ang malalaking hayop sa dagat, at ang bawa't may buhay na kinapal na gumagalaw, na ibinukal na sagana ng tubig, ayon sa kanikaniyang uri at ang lahat na may pakpak na ibon, ayon sa kanikaniyang uri: at nakita ng Dios na mabuti.
-22At mga binasbasan ng Dios, na sinabi, Kayo'y magpalaanakin, at magpakarami, at inyong punuin ang tubig sa mga dagat, at magpakarami ang mga ibon sa lupa.
-23At nagkahapon at nagkaumaga ang ikalimang araw.
-24At sinabi ng Dios, Bukalan ang lupa ng mga may buhay na kinapal, ayon sa kanikaniyang uri ng hayop at ng mga kinapal na umuusad, at ng mga ganid sa lupa, ayon sa kanikaniyang uri: at nagkagayon.
-25At nilikha ng Dios ang ganid sa lupa ayon sa kaniyang uri, at ang hayop ayon sa kaniyang uri, at ang bawa't umuusad sa ibabaw ng lupa ayon sa kanikaniyang uri: at nakita ng Dios na mabuti.
-26At sinabi ng Dios, Lalangin natin ang tao sa ating larawan, ayon sa ating wangis: at magkaroon sila ng kapangyarihan sa mga isda sa dagat, at sa mga ibon sa himpapawid, at sa mga hayop, at sa buong lupa, at sa bawa't umuusad, na nagsisiusad sa ibabaw ng lupa.
-27At nilalang ng Dios ang tao ayon sa kaniyang sariling larawan, ayon sa larawan ng Dios siya nilalang; nilalang niya sila na lalake at babae.
-28 At sila'y binasbasan ng Dios, at sa kanila'y sinabi ng Dios, Kayo'y magpalaanakin, at magpakarami, at kalatan ninyo ang lupa, at inyong supilin; at magkaroon kayo ng kapangyarihan sa mga isda sa dagat, at sa mga ibon sa himpapawid, at sa bawa't hayop na gumagalaw sa ibabaw ng lupa.
-29At sinabi ng Dios, Narito, ibinigay ko sa inyo ang bawa't pananim na nagkakabinhi, na nasa ibabaw ng balat ng lupa, at ang bawa't punong kahoy na may bunga ng punong kahoy na nagkakabinhi; sa inyo'y magiging pagkain:
-30 At sa bawa't hayop sa lupa, at sa bawa't ibon sa himpapawid; at sa bawa't nagsisiusad sa ibabaw ng lupa na may buhay ay ibinigay ko ang lahat na pananim na sariwa na pinakapagkain; at nagkagayon.
-31 At nakita ng Dios ang lahat ng kaniyang nilikha, at, narito, napakabuti. At nagkahapon at nagkaumaga ang ikaanim na araw.
-GENESIS 2
+Nang pasimula ay nilikha ng Dios ang langit at ang lupa.
+At ang lupa ay walang anyo at walang laman; at ang kadiliman ay sumasa ibabaw ng kalaliman; at ang Espiritu ng Dios ay sumasa ibabaw ng tubig.
+At sinabi ng Dios Magkaroon ng liwanag; at nagkaroon ng liwanag.
+At nakita ng Dios ang liwanag na mabuti, at inihiwalay ng Dios ang liwanag sa kadiliman.
+At tinawag ng Dios ang liwanag na Araw, at tinawag niya ang kadiliman na Gabi. At nagkahapon at nagkaumaga ang unang araw.
+At sinabi ng Dios, Magkaroon ng isang kalawakan sa gitna ng tubig, at mahiwalay ang tubig sa kapuwa tubig.
+At ginawa ng Dios ang kalawakan, at inihiwalay ang tubig na nasa ilalim ng kalawakan, sa tubig na nasa itaas ng kalawakan: at nagkagayon.
+At tinawag ng Dios ang kalawakan na Langit. At nagkahapon at nagkaumaga ang ikalawang araw.
+At sinabi ng Dios, Mapisan ang tubig na nasa silong ng langit sa isang dako, at lumitaw ang katuyuan, at nagkagayon.
+At tinawag ng Dios ang katuyuan na Lupa, at ang kapisanan ng tubig ay tinawag niyang mga Dagat: at nakita ng Dios na mabuti.
+At sinabi ng Dios, Sibulan ang lupa ng damo, pananim na nagkakabinhi, at punong kahoy na namumunga ayon sa kaniyang pagkakahoy, na taglay ang kaniyang binhi sa ibabaw ng lupa, at nagkagayon.
+At ang lupa ay sinibulan ng damo, pananim na nagkakabinhi, ayon sa kaniyang pagkapananim, at ng punong kahoy na namumunga, na taglay ang kaniyang binhi, ayon sa kaniyang pagkakahoy, at nakita ng Dios na mabuti.
+At nagkahapon at nagkaumaga ang ikatlong araw.
+At sinabi ng Dios, Magkaroon ng mga tanglaw sa kalawakan ng langit upang maghiwalay ng araw sa gabi; at maging pinakatanda, at pinakabahagi ng panahon, ng mga araw at ng mga taon:
+At maging pinakatanglaw sa kalawakan ng langit, upang tumanglaw sa ibabaw ng lupa: at nagkagayon.
+At nilikha ng Dios ang dalawang malaking tanglaw; ang malaking tanglaw ay upang magpuno sa araw, at ang maliit na tanglaw ay upang magpuno sa gabi: nilikha rin niya ang mga bituin.
+At mga inilagay ng Dios sa kalawakan ng langit, upang tumanglaw sa ibabaw ng lupa,
+At upang magpuno sa araw at sa gabi, at upang maghiwalay ng liwanag sa kadiliman: at nakita ng Dios na mabuti.
+At nagkahapon at nagkaumaga ang ikaapat na araw.
+At sinabi ng Dios, Bukalan ng sagana ang tubig ng mga gumagalaw na kinapal na may buhay, at magsilipad ang mga ibon sa itaas ng lupa sa luwal na kalawakan ng himpapawid.
+At nilikha ng Dios ang malalaking hayop sa dagat, at ang bawa't may buhay na kinapal na gumagalaw, na ibinukal na sagana ng tubig, ayon sa kanikaniyang uri at ang lahat na may pakpak na ibon, ayon sa kanikaniyang uri: at nakita ng Dios na mabuti.
+At mga binasbasan ng Dios, na sinabi, Kayo'y magpalaanakin, at magpakarami, at inyong punuin ang tubig sa mga dagat, at magpakarami ang mga ibon sa lupa.
+At nagkahapon at nagkaumaga ang ikalimang araw.
+At sinabi ng Dios, Bukalan ang lupa ng mga may buhay na kinapal, ayon sa kanikaniyang uri ng hayop at ng mga kinapal na umuusad, at ng mga ganid sa lupa, ayon sa kanikaniyang uri: at nagkagayon.
+At nilikha ng Dios ang ganid sa lupa ayon sa kaniyang uri, at ang hayop ayon sa kaniyang uri, at ang bawa't umuusad sa ibabaw ng lupa ayon sa kanikaniyang uri: at nakita ng Dios na mabuti.
+At sinabi ng Dios, Lalangin natin ang tao sa ating larawan, ayon sa ating wangis: at magkaroon sila ng kapangyarihan sa mga isda sa dagat, at sa mga ibon sa himpapawid, at sa mga hayop, at sa buong lupa, at sa bawa't umuusad, na nagsisiusad sa ibabaw ng lupa.
+At nilalang ng Dios ang tao ayon sa kaniyang sariling larawan, ayon sa larawan ng Dios siya nilalang; nilalang niya sila na lalake at babae.
+At sila'y binasbasan ng Dios, at sa kanila'y sinabi ng Dios, Kayo'y magpalaanakin, at magpakarami, at kalatan ninyo ang lupa, at inyong supilin; at magkaroon kayo ng kapangyarihan sa mga isda sa dagat, at sa mga ibon sa himpapawid, at sa bawa't hayop na gumagalaw sa ibabaw ng lupa.
+At sinabi ng Dios, Narito, ibinigay ko sa inyo ang bawa't pananim na nagkakabinhi, na nasa ibabaw ng balat ng lupa, at ang bawa't punong kahoy na may bunga ng punong kahoy na nagkakabinhi; sa inyo'y magiging pagkain:
+At sa bawa't hayop sa lupa, at sa bawa't ibon sa himpapawid; at sa bawa't nagsisiusad sa ibabaw ng lupa na may buhay ay ibinigay ko ang lahat na pananim na sariwa na pinakapagkain; at nagkagayon.
+At nakita ng Dios ang lahat ng kaniyang nilikha, at, narito, napakabuti. At nagkahapon at nagkaumaga ang ikaanim na araw.
+GENESIS 
 Nilalang ang lalake at inilagay sa Eden. Nilalang ang babae mula sa lalake.
-1At nayari ang langit at ang lupa, at ang lahat na natatanaw sa mga iyon.
-2 At nang ikapitong araw ay nayari ng Dios ang kaniyang gawang ginawa; at nagpahinga ng ikapitong araw sa madlang gawa niyang ginawa.
-3At binasbasan ng Dios ang ikapitong araw at kaniyang ipinangilin, sapagka't siyang ipinagpahinga ng Dios sa madlang gawang kaniyang nilikha at ginawa.
-4 Ito ang pinangyarihan ng langit at ng lupa, nang likhain noong araw, na gawin ng Panginoong Dios ang lupa't langit.
-5At wala pa sa lupang kahoy sa parang, at wala pang anomang pananim na tumutubo sa parang: (sapagka't hindi pa pinauulanan ng Panginoong Dios ang lupa) at wala pang taong magbukid ng lupa,
-6Nguni't may isang ulap na napaitaas buhat sa lupa at dinilig ang buong ibabaw ng lupa.
-7At nilalang ng Panginoong Dios ang tao sa alabok ng lupa, at hiningahan ang kaniyang mga butas ng ilong ng hininga ng buhay; at ang tao ay naging kaluluwang may buhay.
-8At naglagay ang Panginoong Dios ng isang halamanan sa Eden, sa dakong silanganan: at inilagay niya roon ang taong kaniyang nilalang.
-9At pinatubo ng Panginoong Dios sa lupa ang lahat na punong kahoy na nakalulugod sa paningin, at mabubuting kanin; gayon din ang punong kahoy ng buhay sa gitna ng halamanan, at ang punong kahoy ng pagkakilala ng mabuti at masama.
-10At may isang ilog na lumabas sa Eden na dumilig sa halamanan; at mula roo'y nabahagi at nagapat na sanga.
-11Ang pangalan ng una ay Pison: na siyang lumiligid sa buong lupain ng Havilah, na doo'y may ginto;
-12At ang ginto sa lupang yao'y mabuti; mayroon din naman doong bedelio at batong onix.
-13At ang pangalan ng ikalawang ilog ay Gihon; na siyang lumiligid sa buong lupain ng Cush.
-14At ang pangalan ng ikatlong ilog ay Hiddecel, na siyang umaagos sa tapat ng Asiria. At ang ikaapat na ilog ay ang Eufrates.
-15At kinuha ng Panginoong Dios ang lalake at inilagay sa halamanan ng Eden, upang kaniyang alagaan at ingatan.
-16At iniutos ng Panginoong Dios sa lalake, na sinabi, Sa lahat ng punong kahoy sa halamanan ay makakakain ka na may kalayaan:
-17Datapuwa't sa kahoy ng pagkakilala ng mabuti at masama ay huwag kang kakain; sapagka't sa araw na ikaw ay kumain niyaon ay walang pagsalang mamamatay ka.
-18At sinabi ng Panginoong Dios, Hindi mabuti na ang lalake ay magisa; siya'y ilalalang ko ng isang katulong niya.
-19At nilalang ng Panginoong Dios sa lupa ang lahat ng hayop sa parang at ang lahat ng ibon sa himpapawid; at pinagdadala sa lalake upang maalaman kung anong itatawag niya sa mga iyon: at ang bawa't itinawag ng lalake sa bawa't kinapal na may buhay ay yaon ang naging pangalan niyaon.
-20At pinanganlan ng lalake ang lahat ng mga hayop, at ang mga ibon sa himpapawid, at ang bawa't ganid sa parang; datapuwa't sa lalake ay walang nasumpungang maging katulong niya.
-21At hinulugan ng Panginoong Dios ng di kawasang himbing ang lalake, at siya'y natulog: at kinuha ang isa sa kaniyang mga tadyang at pinapaghilom ang laman sa dakong yaon:
-22At ang tadyang na kinuha ng Panginoong Dios sa lalake ay ginawang isang babae, at ito'y dinala niya sa lalake.
-23At sinabi ng lalake, Ito nga'y buto ng aking mga buto at laman ng aking laman: siya'y tatawaging Babae, sapagka't sa Lalake siya kinuha.
-24 Kaya't iiwan ng lalake ang kaniyang ama at ang kaniyang ina, at makikipisan sa kaniyang asawa: at sila'y magiging isang laman.
-25At sila'y kapuwa hubad, ang lalake at ang kaniyang asawa, at sila'y hindi nagkakahiyaan.
+At nayari ang langit at ang lupa, at ang lahat na natatanaw sa mga iyon.
+At nang ikapitong araw ay nayari ng Dios ang kaniyang gawang ginawa; at nagpahinga ng ikapitong araw sa madlang gawa niyang ginawa.
+At binasbasan ng Dios ang ikapitong araw at kaniyang ipinangilin, sapagka't siyang ipinagpahinga ng Dios sa madlang gawang kaniyang nilikha at ginawa.
+Ito ang pinangyarihan ng langit at ng lupa, nang likhain noong araw, na gawin ng Panginoong Dios ang lupa't langit.
+At wala pa sa lupang kahoy sa parang, at wala pang anomang pananim na tumutubo sa parang: (sapagka't hindi pa pinauulanan ng Panginoong Dios ang lupa) at wala pang taong magbukid ng lupa,
+Nguni't may isang ulap na napaitaas buhat sa lupa at dinilig ang buong ibabaw ng lupa.
+At nilalang ng Panginoong Dios ang tao sa alabok ng lupa, at hiningahan ang kaniyang mga butas ng ilong ng hininga ng buhay; at ang tao ay naging kaluluwang may buhay.
+At naglagay ang Panginoong Dios ng isang halamanan sa Eden, sa dakong silanganan: at inilagay niya roon ang taong kaniyang nilalang.
+At pinatubo ng Panginoong Dios sa lupa ang lahat na punong kahoy na nakalulugod sa paningin, at mabubuting kanin; gayon din ang punong kahoy ng buhay sa gitna ng halamanan, at ang punong kahoy ng pagkakilala ng mabuti at masama.
+At may isang ilog na lumabas sa Eden na dumilig sa halamanan; at mula roo'y nabahagi at nagapat na sanga.
+Ang pangalan ng una ay Pison: na siyang lumiligid sa buong lupain ng Havilah, na doo'y may ginto;
+At ang ginto sa lupang yao'y mabuti; mayroon din naman doong bedelio at batong onix.
+At ang pangalan ng ikalawang ilog ay Gihon; na siyang lumiligid sa buong lupain ng Cush.
+At ang pangalan ng ikatlong ilog ay Hiddecel, na siyang umaagos sa tapat ng Asiria. At ang ikaapat na ilog ay ang Eufrates.
+At kinuha ng Panginoong Dios ang lalake at inilagay sa halamanan ng Eden, upang kaniyang alagaan at ingatan.
+At iniutos ng Panginoong Dios sa lalake, na sinabi, Sa lahat ng punong kahoy sa halamanan ay makakakain ka na may kalayaan:
+Datapuwa't sa kahoy ng pagkakilala ng mabuti at masama ay huwag kang kakain; sapagka't sa araw na ikaw ay kumain niyaon ay walang pagsalang mamamatay ka.
+At sinabi ng Panginoong Dios, Hindi mabuti na ang lalake ay magisa; siya'y ilalalang ko ng isang katulong niya.
+At nilalang ng Panginoong Dios sa lupa ang lahat ng hayop sa parang at ang lahat ng ibon sa himpapawid; at pinagdadala sa lalake upang maalaman kung anong itatawag niya sa mga iyon: at ang bawa't itinawag ng lalake sa bawa't kinapal na may buhay ay yaon ang naging pangalan niyaon.
+At pinanganlan ng lalake ang lahat ng mga hayop, at ang mga ibon sa himpapawid, at ang bawa't ganid sa parang; datapuwa't sa lalake ay walang nasumpungang maging katulong niya.
+At hinulugan ng Panginoong Dios ng di kawasang himbing ang lalake, at siya'y natulog: at kinuha ang isa sa kaniyang mga tadyang at pinapaghilom ang laman sa dakong yaon:
+At ang tadyang na kinuha ng Panginoong Dios sa lalake ay ginawang isang babae, at ito'y dinala niya sa lalake.
+At sinabi ng lalake, Ito nga'y buto ng aking mga buto at laman ng aking laman: siya'y tatawaging Babae, sapagka't sa Lalake siya kinuha.
+Kaya't iiwan ng lalake ang kaniyang ama at ang kaniyang ina, at makikipisan sa kaniyang asawa: at sila'y magiging isang laman.
+At sila'y kapuwa hubad, ang lalake at ang kaniyang asawa, at sila'y hindi nagkakahiyaan.
+GENESIS 
+Ang tukso at ang pagsuway ni Adam at ni Eva.
+Ang ahas nga ay lalong tuso kay sa alin man sa mga hayop sa parang na nilikha ng Panginoong Dios
+At sinabi niya sa babae, Tunay bang sinabi ng Dios, Huwag kayong kakain sa alin mang punong kahoy sa halamanan?
+At sinabi ng babae sa ahas, Sa bunga ng mga punong kahoy sa halamanan ay makakakain kami:
+Datapuwa't sa bunga ng punong kahoy na nasa gitna ng halamanan ay sinabi ng Dios, Huwag kayong kakain niyaon, ni huwag ninyong hihipuin, baka kayo'y mamatay.
+At sinabi ng ahas sa babae, Tunay na hindi kayo mamamatay:
+Sapagka't talastas ng Dios na sa araw na kayo'y kumain niyaon ay madidilat nga ang inyong mga mata, at kayo'y magiging parang Dios, na nakakakilala ng mabuti at masama.
+At nang makita ng babae, na ang bunga ng punong kahoy ay mabuting kanin, at nakalulugod sa mga mata, at kahoy na mananasa upang magpapantas sa tao, ay pumitas siya ng bunga niyaon at kinain; at binigyan din niya ang kaniyang asawang kasama niya, at ito'y kumain.
+At nadilat kapuwa ang kanilang mga mata, at kanilang nakilalang sila'y mga hubad; at sila'y tumahi ng mga dahon ng puno ng igos, at kanilang ginawang panapi.
+At narinig nila ang tinig ng Panginoong Dios na lumalakad sa halamanan sa kulimlim ng araw: at nagtago ang lalake at ang kaniyang asawa sa harapan ng Panginoong Dios sa pagitan ng mga punong kahoy sa halamanan.
+At tinawag ng Panginoong Dios ang lalake at sa kaniya'y sinabi, Saan ka naroon?
+At sinabi niya, Narinig ko ang iyong tinig sa halamanan, at ako'y natakot, sapagka't ako'y hubad; at ako'y nagtago.
+At sinabi niya, Sinong nagsabi sa iyong ikaw ay hubad
+nakakain ka ba ng bunga ng punong kahoy, na iniutos ko sa iyong huwag mong kanin?
+At sinabi ng lalake, Ang babaing ibinigay mong aking kasamahin, ay siyang nagbigay sa akin ng bunga ng punong kahoy at aking kinain.
+At sinabi ng Panginoong Dios sa babae, Ano itong iyong ginawa
+At sinabi ng babae, Dinaya ako ng ahas, at ako'y kumain.
+At sinabi ng Panginoong Dios sa ahas, Sapagka't ginawa mo ito, ay sumpain ka ng higit sa lahat ng hayop, at ng higit sa bawa't ganid sa parang; ang iyong tiyan ang ilalakad mo, at alabok ang iyong kakanin sa lahat ng mga araw ng iyong buhay:
+At papagaalitin ko ikaw at ang babae, at ang iyong binhi at ang kaniyang binhi: ito ang dudurog ng iyong ulo, at ikaw ang dudurog ng kaniyang sakong.
+Sinabi niya sa babae, Pararamihin kong lubha ang iyong kalumbayan at ang iyong paglilihi; manganganak kang may kahirapan; at sa iyong asawa ay pahihinuhod ang iyong kalooban, at siya'y papapanginoon sa iyo.
+At kay Adam ay sinabi, Sapagka't iyong dininig ang tinig ng iyong asawa, at kumain ka ng bunga ng punong kahoy na aking iniutos sa iyo na sinabi, Huwag kang kakain niyaon; sumpain ang lupa dahil sa iyo; kakain ka sa kaniya sa pamamagitan ng iyong pagpapagal sa lahat ng mga araw ng iyong buhay;
+Ang isisibol niyaon sa iyo ay mga tinik at mga dawag; at kakain ka ng pananim sa parang;
+Sa pawis ng iyong mukha ay kakain ka ng tinapay, hanggang sa ikaw ay mauwi sa lupa; sapagka't diyan ka kinuha: sapagka't ikaw ay alabok at sa alabok ka uuwi.
+At tinawag na Eva ng lalake ang kaniyang asawa, sapagka't siya ang naging ina ng lahat ng mga nabubuhay.
+At iginawa ng Panginoong Dios si Adam at ang kaniyang asawa ng mga kasuutang balat at sila'y dinamitan.
+Pinalayas sila sa Eden.
+At sinabi ng Panginoong Dios, Narito't ang tao'y naging parang isa sa atin, na nakakakilala ng mabuti at ng masama; at baka ngayo'y iunat ang kaniyang kamay at pumitas naman ng bunga ng punong kahoy ng buhay, at kumain at mabuhay magpakailan man:
+Kaya pinalayas siya ng Panginoong Dios sa halamanan ng Eden, upang kaniyang bukirin ang lupaing pinagkunan sa kaniya.
+Ano pa't itinaboy ang lalake; at inilagay sa silanganan ng halamanan ng Eden ang mga Querubin at ang isang nagniningas na tabak na umiikot, upang ingatan ang daang patungo sa kahoy ng buhay.
+GENESIS 
+Si Cain at si Abel.
+At nakilala ng lalake si Eva na kaniyang asawa; at siya'y naglihi at ipinanganak si Cain, at sinabi, Nagkaanak ako ng lalake sa tulong ng Panginoon.
+At sa muli ay ipinanganak ang kaniyang kapatid na si Abel
+At si Abel ay tagapagalaga ng mga tupa; datapuwa't si Cain ay mangbubukid ng lupa.
+At nangyari nang lumalakad ang panahon ay nagdala si Cain ng isang handog na mga bunga ng lupa sa Panginoon.
+At nagdala rin naman si Abel ng mga panganay ng kaniyang kawan at ng mga taba ng mga yaon
+At nilingap ng Panginoon si Abel at ang kaniyang handog:
+Datapuwa't hindi nilingap si Cain at ang kaniyang handog
+At naginit na mainam si Cain, at namanglaw ang kaniyang mukha.
+At sinabi ng Panginoon kay Cain, Bakit ka naginit
+at bakit namanglaw ang iyong mukha?
+Kung ikaw ay gumawa ng mabuti, di ba ikaw mamarapatin
+at kung hindi ka gumawa ng mabuti, ay nahahandusay ang kasalanan sa pintuan: at sa iyo'y pahihinuhod ang kaniyang nasá, at ikaw ang papanginoonin niya.
+At yao'y sinabi ni Cain sa kaniyang kapatid na kay Abel
+At nangyari, nang sila'y nasa parang ay nagtindig si Cain laban kay Abel na kaniyang kapatid, at siya'y kaniyang pinatay.
+At sinabi ng Panginoon kay Cain, Saan naroon si Abel na iyong kapatid
+At sinabi niya, Aywan ko: ako ba'y tagapagbantay sa aking kapatid?
+At sinabi niya, Anong iyong ginawa
+ang tinig ng dugo ng iyong kapatid ay dumadaing sa akin mula sa lupa.
+At ngayo'y sinumpa ka sa lupa na siyang nagbuka ng bibig na tumanggap sa iyong kamay ng dugo ng iyong kapatid;
+Pagbubukid mo ng lupa, ay di na ibibigay mula ngayon sa iyo ang kaniyang lakas; ikaw ay magiging palaboy at hampas-lupa sa lupa.
+At sinabi ni Cain sa Panginoon, Ang aking kaparusahan ay higit kaysa mababata ko.
+Narito, ako'y iyong itinataboy ngayon mula sa ibabaw ng lupa, at sa iyong harapan ay magtatago ako; at ako'y magiging palaboy at hampas-lupa; at mangyayari, na sinomang makasumpong sa akin ay papatayin ako.
+At sinabi sa kaniya ng Panginoon, Dahil dito'y sinomang pumatay kay Cain ay makapitong gagantihan
+At nilagyan ng Panginoon ng isang tanda si Cain, baka siya'y sugatan ng sinomang makakasumpong sa kaniya.
+At umalis si Cain sa harapan ng Panginoon at tumahan sa lupain ng Nod, sa silanganan ng Eden.
+At nakilala ni Cain ang kaniyang asawa, at siya'y naglihi at ipinanganak si Enoc: at siya'y nagtayo ng isang bayan at tinawag ang bayan ayon sa pangalan ng kaniyang anak, Enoc.
+At naging anak ni Enoc si Irad; at naging anak ni Irad si Mehujael; at naging anak ni Mehujael si Metusael; at naging anak ni Metusael si Lamec.
+At si Lamec ay nagasawa ng dalawa; ang pangalan ng isa'y Ada, at ang pangalan ng ikalawa ay Zilla.
+At naging anak ni Ada si Jabal: na siyang naging magulang ng nangagsisitahan sa mga tolda at may mga hayop.
+At ang pangalan ng kaniyang kapatid ay Jubal: na siyang naging magulang ng lahat na tumutugtog ng alpa at ng flauta.
+At tungkol kay Zilla, ay ipinanganak naman niya si Tubal-Cain na mamamanday ng lahat na kagamitang patalim na tanso at bakal: at ang kapatid na babae ni Tubal-Cain ay si Naama.
+At sinabi ni Lamec sa kaniyang mga asawa:
+Ada at Zilla pakinggan ninyo ang aking tinig:
+Kayong mga asawa ni Lamec ay makinig ng aking salaysay:
+Sapagka't pumatay ako ng isang tao, dahil sa ako'y sinugatan,
+At ng isang binata, dahil sa ako'y hinampas.
+Kung makapitong gagantihan si Cain, tunay na si Lamec ay makapitong pung pito.
+Panganganak kay Set.
+At nakilalang muli ni Adam ang kaniyang asawa; at nanganak ng isang lalake, at tinawag ang kaniyang pangalan na Set; sapagka't aniya'y binigyan ako ng Dios ng ibang anak na kahalili ni Abel; sapagka't siya'y pinatay ni Cain.
+At nagkaanak naman si Set ng isang lalake; at tinawag ang kaniyang pangalan na Enos
+Noon ay pinasimulan ng mga tao ang pagtawag sa pangalan ng Panginoon.
+GENESIS 
+Ito ang aklat ng mga lahi ni Adam
+Nang araw na lalangin ng Dios ang tao, sa wangis ng Dios siya nilalang;
+Lalake at babae silang nilalang; at sila'y binasbasan, at tinawag na Adam ang kanilang pangalan, nang araw na sila'y lalangin.
+At nabuhay si Adam ng isang daan at tatlong pung taon, at nagkaanak ng isang lalaking kaniyang wangis na hawig sa kaniyang larawan; at tinawag ang kaniyang pangalan na Set:
+At ang mga naging araw ni Adam, pagkatapos na maipanganak si Set, ay walong daang taon: at nagkaanak ng mga lalake at mga babae.
+At ang lahat na araw na ikinabuhay ni Adam ay siyam na raan at tatlong pung taon; at siya'y namatay.
+Mga inanak ni Set.
+At nabuhay si Set ng isang daan at limang taon at naging anak niya si Enos.
+At nabuhay si Set pagkatapos na maipanganak si Enos ng walong daan at pitong taon; at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Set ay siyam na raan at labing dalawang taon: at siya'y namatay.
+At nabuhay si Enos ng siyam na pung taon, at naging anak si Cainan:
+At nabuhay si Enos, pagkatapos na maipanganak si Cainan, ng walong daan at labing limang taon; at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Enos ay siyam na raan at limang taon, at siya'y namatay.
+At nabuhay si Cainan ng pitong pung taon, at naging anak si Mahalaleel:
+At nabuhay si Cainan, pagkatapos na maipanganak si Mahalaleel, ng walong daan at apat na pung taon, at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Cainan, siyam na raan at sangpung taon, at namatay.
+At nabuhay si Mahalaleel ng anim na pu't limang taon, at naging anak si Jared:
+At nabuhay si Mahalaleel, pagkatapos na maipanganak si Jared, ng walong daan at tatlong pung taon, at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Mahalaleel ay walong daan at siyam na pu't limang taon: at namatay.
+At nabuhay si Jared ng isang daan at anim na pu't dalawang taon, at naging anak si Enoc:
+At nabuhay si Jared, pagkatapos na maipanganak si Enoc, ng walong daang taon, at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Jared ay siyam na raan at anim na pu't dalawang taon: at namatay.
+At nabuhay si Enoc na anim na pu't limang taon, at naging anak si Matusalem:
+At lumakad si Enoc na kasama ng Dios, pagkatapos na maipanganak si Matusalem na tatlong daang taon, at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Enoc ay tatlong daan at anim na pu't limang taon:
+At lumakad si Enoc na kasama ng Dios: at di siya nasumpungan, sapagkat kinuha ng Dios.
+At nabuhay si Matusalem ng isang daan at walong pu't pitong taon; at naging anak si Lamec:
+At nabuhay si Matusalem pagkatapos na maipanganak si Lamec, ng pitong daan at walong pu't dalawang taon; at nagkaanak ng mga lalake at mga babae;
+At ang lahat na naging araw ni Matusalem ay siyam na raan at anim na pu't siyam na taon: at siya'y namatay.
+At nabuhay si Lamec ng isang daan at walong pu't dalawang taon, at nagkaanak ng isang lalake:
+At tinawag ang kaniyang pangalan na Noe, na sinabi, Ito nga ang aaliw sa atin tungkol sa ating gawa at sa pinagpagalan ng ating mga kamay, dahil sa lupang sinumpa ng Panginoon.
+At nabuhay si Lamec, pagkatapos na maipanganak si Noe, ng limang daan at siyam na pu't limang taon, at nagkaanak ng mga lalake at mga babae:
+At ang lahat na naging araw ni Lamec ay pitong daan at pitong pu't pitong taon: at namatay.
+At si Noe ay may limang daang taon: at naging anak ni Noe si Sem, si Cham, at si Japhet.
+GENESIS 
+At nangyari, nang magpasimula na dumami ang mga tao sa balat ng lupa, at mangagkaanak ng mga babae,
+Na nakita ng mga anak ng Dios, na magaganda ang mga anak na babae ng mga tao; at sila'y nangagsikuha ng kanikaniyang asawa sa lahat ng kanilang pinili.
+At sinabi ng Panginoon, Ang aking Espiritu ay hindi makikipagpunyagi sa tao magpakailan man, sapagka't siya ma'y laman: gayon ma'y magiging isang daan at dalawang pung taon ang kaniyang mga araw.
+Ang mga higante ay nasa lupa ng mga araw na yaon, at pagkatapos din naman na makasiping ang mga anak ng Dios sa mga anak na babae ng tao, at mangagkaanak sila sa kanila: ang mga ito rin ang naging makapangyarihan nang unang panahon na mga lalaking bantog.
+At nakita ng Panginoon na mabigat ang kasamaan ng tao sa lupa, at ang buong haka ng mga pagiisip ng kaniyang puso ay pawang masama lamang na parati.
+At nagsisi ang Panginoon na kaniyang nilalang ang tao sa lupa, at nalumbay sa kaniyang puso.
+At sinabi ng Panginoon, Lilipulin ko ang tao na aking nilalang sa ibabaw ng lupa; ang tao at gayon din ang hayop, at ang mga umuusad at ang mga ibon sa himpapawid; sapagka't pinagsisisihan ko na aking nilalang sila.
+Datapuwa't si Noe ay nakasumpong ng biyaya sa mga mata ng Panginoon.
+Si Noe at ang kaniyang mga anak.
+Ito ang mga lahi ni Noe
+Si Noe ay lalaking matuwid at sakdal noong kapanahunan niya: si Noe ay lumalakad na kasama ng Dios.
+At nagkaanak si Noe ng tatlong lalake: si Sem, si Cham, at si Japhet.
+At sumama ang lupa sa harap ng Dios, at ang lupa ay napuno ng karahasan.
+At tiningnan ng Dios ang lupa, at, narito sumama; sapagka't pinasama ng lahat ng tao ang kanilang paglakad sa ibabaw ng lupa.
+Si Noe ay pinagawa ng Daong.
+At sinabi ng Dios kay Noe, Ang wakas ng lahat ng tao ay dumating sa harap ko; sapagka't ang lupa ay napuno ng karahasan dahil sa kanila; at, narito, sila'y aking lilipuling kalakip ng lupa.
+Gumawa ka ng isang sasakyang kahoy na gofer; gagawa ka ng mga silid sa sasakyan, at iyong sisiksikan sa loob at sa labas ng sahing.
+At ganitong paraan gagawin mo: tatlong daang siko ang haba ng sasakyan, limang pung siko ang luwang, at tatlong pung siko ang taas.
+Gagawa ka ng isang durungawan sa sasakyan; at wawakasan mo ng isang siko sa dakong itaas; at ang pintuan ng sasakyan ay ilalagay mo sa tagiliran; gagawin mong may lapag na lalong mababa, pangalawa at pangatlo.
+At ako, narito, ako'y magpapadagsa ng isang baha ng tubig sa ibabaw ng lupa, upang lipulin sa silong ng langit ang lahat ng laman na may hininga ng buhay; ang lahat na nasa lupa ay mangamamatay.
+Datapuwa't pagtitibayin ko ang aking tipan sa iyo; at ikaw ay lululan sa sasakyan, ikaw, at ang iyong mga anak na lalake, at ang iyong asawa, at ang mga asawa ng iyong mga anak na kasama mo.
+At sa bawa't nangabubuhay, sa lahat ng laman ay maglululan ka sa loob ng sasakyan ng dalawa sa bawa't uri upang maingatan silang buhay, na kasama mo; lalake at babae ang kinakailangan.
+Sa mga ibon ayon sa kanikanilang uri, at sa mga hayop ayon sa kanikanilang uri, sa bawa't nagsisiusad, ayon sa kanikanilang uri, dalawa sa bawa't uri, ay isasama mo sa iyo, upang maingatan silang buhay.
+At magbaon ka ng lahat na pagkain na kinakain, at imbakin mo sa iyo; at magiging pagkain mo at nila.
+Gayon ginawa ni Noe; ayon sa lahat na iniutos sa kaniya ng Dios, ay gayon ang ginawa niya.
+GENESIS 
+At sinabi ng Panginoon kay Noe, Lumulan ka at ang iyong buong sangbahayan sa sasakyan; sapagka't ikaw ay aking nakitang matuwid sa harap ko sa panahong ito.
+Sa bawa't malinis na hayop ay kukuha ka ng tigpipito, ng lalake at ng kaniyang babae; at sa mga hayop na hindi malinis ay dalawa, ng lalake at ng kaniyang babae;
+Gayon din naman sa mga ibon sa himpapawid tigpipito, ng lalake at ng babae; upang ingatang binhing buhay sa ibabaw ng buong lupa.
+Sapagka't pitong araw pa, at pauulanan ko na ang ibabaw ng lupa ng apat na pung araw at apat na pung gabi, at aking lilipulin ang lahat ng may buhay na aking nilikha sa balat ng lupa.
+At ginawa ni Noe ayon sa lahat na iniutos sa kaniya ng Panginoon.
+Pagsakay sa Daong.
+At may anim na raang taon si Noe nang ang baha ng tubig ay dumagsa sa ibabaw ng lupa.
+At lumulan sa sasakyan si Noe at ang kaniyang mga anak, at ang kaniyang asawa, at ang mga asawa ng kaniyang mga anak, dahil sa tubig ng baha.
+Sa mga hayop na malinis, at sa mga hayop na hindi malinis, at sa mga ibon at sa bawa't umuusad sa ibabaw ng lupa,
+Ay dalawa't dalawang dumating kay Noe sa sasakyan, na lalake at babae ayon sa iniutos ng Dios kay Noe.
+Pagbuhos ng Baha.
+At nangyari na pagkaraan ng pitong araw, na ang tubig ng baha ay umapaw sa ibabaw ng lupa.
+Sa ikaanim na raang taon ng buhay ni Noe, nang ikalawang buwan, sa ikalabing pitong araw ng buwan, nang araw ding yaon, ay nangasira ang lahat ng bukal ng lubhang kalaliman, at ang mga durungawan ng langit ay nabuksan.
+At umulan sa ibabaw ng lupa ng apat na pung araw at apat na pung gabi.
+Nang araw ding yaon, ay lumulan sa sasakyan si Noe, at si Sem, at si Cham, at si Japhet, na mga anak ni Noe, at ang asawa ni Noe, at ang tatlong asawa ng kaniyang mga anak na kasama nila;
+Sila, at ang bawa't hayop gubat ayon sa kanikanilang uri, at lahat ng hayop na maamo ayon sa kanikanilang uri, at bawa't umuusad sa ibabaw ng lupa ayon sa kanikanilang uri, at bawa't ibon ayon sa kanikanilang uri, lahat ng sarisaring ibon.
+At nagsidating kay Noe sa sasakyan na dalawa't dalawa, ang lahat ng hayop na may hinga ng buhay.
+At ang mga nagsilulan, ay lumulang lalake at babae, ng lahat na laman, gaya ng iniutos sa kaniya ng Dios: at kinulong siya ng Panginoon.
+At tumagal ang baha ng apat na pung araw sa ibabaw ng lupa; at lumaki ang tubig at lumutang ang sasakyan, at nataas sa ibabaw ng lupa.
+At dumagsa ang tubig at lumaking mainam sa ibabaw ng lupa; at lumutang ang sasakyan sa ibabaw ng tubig.
+At dumagsang lubha ang tubig sa ibabaw ng lupa: at inapawan ang lahat na mataas na bundok na nasa silong ng buong langit.
+Labing limang siko ang lalim na idinagsa ng tubig; at inapawan ang mga bundok.
+At namatay ang lahat ng lamang gumagalaw sa ibabaw ng lupa, ang mga ibon at gayon din ang hayop, at ang hayop gubat, at ang bawa't nagsisiusad na umuusad sa ibabaw ng lupa, at ang bawa't tao.
+Ang bawa't may hinga ng diwa ng buhay sa kanilang ilong, lahat na nasa lupang tuyo ay namatay.
+At nilipol ang bawa't may buhay na nasa ibabaw ng lupa, ang tao at gayon din ang hayop, at ang mga umuusad at ang mga ibon sa himpapawid; at sila'y nalipol sa lupa: at ang natira lamang, ay si Noe at ang mga kasama niya sa sasakyan.
+At tumagal ang tubig sa ibabaw ng lupa, ng isang daan at limang pung araw.
+GENESIS 
+Pagliit ng tubig.
+At naalaala ng Dios si Noe, at ang lahat ng may buhay, at ang lahat ng hayop na kasama niya sa sasakyan: at nagpahihip ang Dios ng isang hangin sa ibabaw ng lupa, at humupa ang tubig;
+Natakpan din ang mga bukal ng kalaliman at ang mga dungawan ng langit, at napigil ang ulan sa langit;
+At humupang patuloy ang tubig sa lupa; at kumati ang tubig pagkaraan ng isang daan at limang pung araw.
+At sumadsad ang sasakyan nang ikapitong buwan, nang ikalabing pitong araw ng buwan, sa ibabaw ng mga bundok ng Ararat.
+At ang tubig ay nagpatuloy ng paghupa hanggang sa ikasangpung buwan: nang ikasangpung buwan, nang unang araw ng buwan, ay nakita ang mga taluktok ng mga bundok.
+Ang uwak at ang kalapati.
+At nangyari, pagkaraan ng apat na pung araw, na binuksan ni Noe ang dungawan ng sasakyan na kaniyang ginawa:
+At siya'y nagpalipad ng isang uwak, at ito'y nagparoo't parito hanggang sa natuyo ang tubig sa lupa.
+At nagpalipad siya ng isang kalapati, upang tingnan kung humupa na ang tubig sa ibabaw ng lupa.
+Datapuwa't hindi nakasumpong ang kalapati ng madapuan ng talampakan ng kaniyang paa, at nagbalik sa kaniya sa sasakyan, sapagka't ang tubig ay nangasa ibabaw pa ng buong lupa: at iniunat ang kaniyang kamay at hinawakan, at ipinasok niya sa sasakyan.
+At naghintay pa ng muling pitong araw; at muling pinalipad ang kalapati sa labas ng sasakyan;
+At ang kalapati ay nagbalik sa kaniya ng dakong hapon; at, narito't may dalang isang dahong sariwa ng olivo sa tuka: sa gayon ay naunawa ni Noe na humupa na ang tubig sa lupa.
+At naghintay pang muli siya ng pitong araw; at pinalipad ang kalapati; at hindi na muling nagbalik pa sa kaniya.
+At nangyari, nang taong ikaanim na raan at isa, nang unang buwan, nang unang araw ng buwan, ay natuyo ang tubig sa ibabaw ng lupa: at inalis ni Noe ang takip ng sasakyan at tumanaw siya, at, narito't ang ibabaw ng lupa ay tuyo.
+At nang ikalawang buwan nang ikadalawang pu't pitong araw ng buwan, ay natuyo ang lupa.
+At nagsalita ang Dios kay Noe, na sinasabi,
+Lumunsad ka sa sasakyan, ikaw at ang iyong asawa, at ang iyong mga anak, at ang mga asawa ng iyong mga anak na kasama mo.
+Ilabas mong kasama mo ang bawa't may buhay na kasama mo sa lahat ng laman, ang mga ibon, at ang mga hayop, at ang bawa't nagsisiusad na umuusad sa ibabaw ng lupa; upang magsipanganak ng sagana sa lupa, at magpalaanakin, at mangagsidami sa ibabaw ng lupa.
+At lumunsad si Noe, at ang kaniyang mga anak, at ang kaniyang asawa, at ang mga asawa ng kaniyang mga anak na kasama niya:
+Ang bawa't hayop, bawa't umuusad, at bawa't ibon, anomang gumagalaw sa ibabaw ng lupa ayon sa kanikaniyang angkan ay nangagsilunsad sa sasakyan.
+At ipinagtayo ni Noe ng isang dambana ang Panginoon; at kumuha sa lahat na malinis na hayop, at sa lahat na malinis na ibon, at nagalay ng mga handog na susunugin sa ibabaw ng dambana.
+At sinamyo ng Panginoon ang masarap na amoy; at nagsabi ang Panginoon sa sarili, Hindi ko na muling susumpain ang lupa, dahil sa tao, sapagka't ang haka ng puso ng tao ay masama mula sa kaniyang pagkabata; ni hindi ko na muling lilipulin pa ang lahat na nabubuhay na gaya ng aking ginawa.
+Samantalang ang lupa ay lumalagi, ay hindi maglilikat ang paghahasik at pagaani, at ang lamig at init, at ang tagaraw at taginaw, at ang araw at gabi.
+GENESIS 
+Pinagpala ng Dios si Noe.
+At binasbasan ng Dios si Noe at ang kaniyang mga anak, at sa kanila'y sinabi, Kayo'y magpalaanakin, at magpakarami at inyong kalatan ang lupa.
+At ang takot sa inyo at sindak sa inyo ay mapapasa bawa't hayop sa lupa, at sa bawa't ibon sa himpapawid; lahat ng umuusad sa lupa, at lahat ng isda sa dagat, ay ibinibigay sa inyong kamay.
+Bawa't gumagalaw na nabubuhay ay magiging pagkain ninyo; gaya ng mga sariwang pananim na lahat ay ibinibigay ko sa inyo.
+Ngunit ang lamang may buhay, na siya niyang dugo, ay huwag ninyong kakanin.
+At tunay na hihingan ko ng sulit ang inyong dugo, ang dugo ng inyong mga buhay: sa kamay ng bawa't ganid ay hihingan ko ng sulit; at sa kamay ng tao, sa kamay ng bawa't kapatid ng tao ay hihingan ko ng sulit ang buhay ng tao.
+Ang magbubo ng dugo ng tao, sa pamamagitan ng tao ay mabububo ang kaniyang dugo: sapagka't sa larawan ng Dios nilalang ang tao.
+At kayo'y magpalaanakin at magpakarami; magsilago kayo ng sagana sa lupa, at kayo'y magsidami riyan.
+At nagsalita ang Dios kay Noe, at sa kaniyang mga anak na kasama niya, na sinasabi,
+At ako, narito, aking pinagtitibay ang aking tipan sa inyo, at sa inyong binhi na susunod sa inyo;
+At sa bawa't nilikhang may buhay na kasama ninyo, ang mga ibon, ang hayop at bawa't ganid sa lupa na kasama ninyo; sa lahat ng lumunsad sa sasakyan pati sa bawa't ganid sa lupa.
+At aking pagtitibayin ang aking tipan sa inyo; ni hindi ko na lilipulin ang lahat ng laman sa pamamagitan ng tubig ng baha; ni hindi na magkakaroon pa ng bahang gigiba ng lupa.
+At sinabi ng Dios, Ito ang tanda ng tipang ginawa ko sa inyo, at sa bawa't kinapal na may buhay na kasama ninyo sa buong panahon:
+Ang aking bahaghari ay inilalagay ko sa alapaap, at siyang magiging tanda ng tipan ko at ng lupa.
+At mangyayari, pagka ako'y magbababa ng isang alapaap sa ibabaw ng lupa, na makikita ang bahaghari sa alapaap.
+At aalalahanin ko ang aking tipan, na inilagda ko sa akin at sa inyo, at sa bawa't kinapal na may buhay sa lahat ng laman; at ang tubig ay hindi na magiging bahang lilipol ng lahat ng laman.
+At ang bahaghari ay pasa sa alapaap, at aking mamasdan, upang aking maalaala, ang walang hanggang tipan ng Dios at ng bawa't kinapal na may buhay sa lahat ng lamang nasa ibabaw ng lupa.
+At sinabi ng Dios kay Noe, Ito ang tanda ng tipang inilagda ko sa akin at sa lahat ng laman na nasa ibabaw ng lupa.
+At ang mga anak ni Noe na nagsilunsad sa sasakyan ay si Sem, at si Cham at si Japhet: at si Cham ay siyang ama ni Canaan.
+Ang tatlong ito ay mga anak ni Noe: at sa mga ito'y nakalatan ang buong lupa.
+At nagpasimula si Noe na maging mangbubukid, at naglagay ng isang ubasan.
+At uminom ng alak at nalango; at siya'y nahubaran sa loob ng kaniyang tolda.
+At si Cham na ama ni Canaan ay nakakita ng kahubaran ng kaniyang ama, at isinaysay sa kaniyang dalawang kapatid na nangasa labas.
+At kumuha si Sem at si Japhet ng isang balabal, at isinabalikat nilang dalawa, at lumakad ng paurong, at tinakpan ang kahubaran ng kanilang ama; at ang mukha nila ay patalikod, at hindi nila nakita ang kahubaran ng kanilang ama.
+At nagising si Noe sa kaniyang pagkalango sa alak, at naalaman ang ginawa sa kaniya ng kaniyang bunsong anak.
+Ang sumpa sa Canaan.
+At sinabi,
+Sumpain si Canaan!
+Siya'y magiging alipin ng mga alipin sa kaniyang mga kapatid.
+At sinabi niya,
+Purihin ang Panginoon, ang Dios ni Sem!
+At si Canaan ay maging alipin niya.
+Pakapalin ng Dios si Japhet.
+At matira siya sa mga tolda ni Sem;
+At si Canaan ay maging alipin niya.
+At nabuhay si Noe pagkaraan ng bahang gumunaw, ng tatlong daan at limang pung taon.
+At ang lahat ng naging araw ni Noe ay siyam na raan at limang pung taon: at namatay.
+GENESIS 
+Ang lahi ng mga Anak ni Noe.
+Ito nga ang sali't saling lahi ng mga anak ni Noe: si Sem, si Cham, at si Japhet: at sila'y nangagkaanak pagkaraan ng bahang gumunaw.
+Ang mga anak ni Japhet; si Gomer, at si Magog, at si Madai, at si Javan, at si Tubal, at si Meshech, at si Tiras.
+At ang mga anak ni Gomer: si Azkenaz, at si Rifat, at si Togarma.
+At ang mga anak ni Javan; si Elisa, at si Tarsis, si Cittim, at si Dodanim.
+Sa mga ito nangabahagi ang mga pulo ng mga bansa, sa kanilang mga lupain, na bawa't isa'y ayon sa kanikaniyang wika; ayon sa kanikanilang angkan, sa kanikanilang bansa.
+At ang mga anak ni Cham; si Cush, at si Mizraim, at si Phut, at si Canaan.
+At ang mga anak ni Cush; si Seba, at si Havila, at si Sabta, at si Raama, at si Sabtech: at ang mga anak ni Raama; si Sheba, at si Dedan.
+At naging anak ni Cush si Nimrod: siyang napasimulang maging makapangyarihan sa lupa.
+Siya'y makapangyarihang mangangaso sa harap ng Panginoon kaya't karaniwang sabihin: Gaya ni Nimrod, na makapangyarihang mangangaso sa harap ng Panginoon.
+At ang pinagsimulan ng kaniyang kaharian ay ang Babel, at ang Erech, at ang Accad, at ang Calneh, sa lupain ng Shinar.
+Buhat sa lupaing yaon ay napasa Asiria at itinayo ang Ninive, at ang Rehobotir, at ang Calah,
+At ang Ressen, sa pagitan ng Ninive at ng Calah (na siyang malaking bayan).
+At naging anak ni Mizraim si Ludim, at si Anamim, at si Lehabim, at si Naphtuhim.
+At si Pathrusim, at si Casluim (na siyang pinagbuhatan ng mga Filisteo), at ang Caphtorim.
+At naging anak ni Canaan si Sidon, na kaniyang panganay, at si Heth.
+At ang Jebuseo, at ang Amorrheo, at ang Gergeseo;
+At ang Heveo, at ang Araceo, at ang Sineo.
+At ang Aradio, at ang Samareo at ang Amatheo: at pagkatapos ay kumalat ang mga angkan ng Cananeo.
+At ang hangganan ng Cananeo ay mula sa Sidon, kung patungo sa Gerar, hanggang sa Gaza; kung patungo sa Sodoma at Gomorra, at Adma, at Zeboim hanggang Lasa.
+Ito ang mga anak ni Cham, ayon sa kanikanilang angkan, ayon sa kanikanilang wika, sa kanikanilang mga lupain, sa kanilang mga bansa.
+At nagkaroon din naman ng mga anak si Sem, na ama ng lahat ng mga anak ni Heber, na siya ring lalong matandang kapatid ni Japhet.
+Ang mga anak ni Sem; si Elam, at si Assur, at si Arphaxad, at si Lud, at si Aram.
+At ang mga anak ni Aram: si Uz, at si Hul, at si Gether, at si Mas.
+At naging anak ni Arphaxad si Sala; at naging anak ni Sala si Heber.
+At nagkaanak si Heber ng dalawang lalake; ang pangalan ng una'y Peleg; sapagka't sa mga araw niya'y nahati ang lupa; at ang pangalan ng kaniyang kapatid ay Joctan.
+At naging anak ni Joctan si Almodad, at si Sheleph, at si Hazarmavet, at si Jerah;
+At si Hadoram, at si Uzal, at si Dicla.
+At si Obal, at si Abimael, at si Sheba.
+At si Ophir, at si Havila, at si Jobad: lahat ng ito ay mga naging anak ni Joctan.
+At ang naging tahanan nila ay mula sa Mesa, kung patungo sa Sephar, na siyang bundok sa silanganan.
+Ito ang mga anak ni Sem, ayon sa kanikanilang angkan, ayon sa kanikanilang wika, sa kanikanilang lupain, ayon sa kanikanilang bansa.
+Ito ang mga angkan ng mga anak ni Noe, ayon sa kanikanilang lahi, sa kanikanilang bansa: at sa mga ito nangabahagi ang mga bansa pagkatapos ng bahang gumunaw.
+GENESIS 
+Ang tore ni Babel.
+At ang buong lupa ay iisa ang wika at iisa ang salita.
+At nangyari, na, sa kanilang paglalakbay sa silanganan, ay nakasumpong sila ng isang kapatagan sa lupain ng Sinar; at sila'y nanahan doon.
+At nagsangusapang, Halikayo
+tayo'y gumawa ng mga laryo, at ating lutuing mabuti
+At inari nilang bato ang laryo at ang betun ay inaring argamasa.
+At nagsipagsabi, Halikayo
+Magtayo tayo ng isang bayan natin at ng isang moog, na ang taluktok niyaon ay aabot hanggang sa langit, at magtaglay tayo ng isang ngalan; baka tayo'y mangalat sa ibabaw ng buong lupa.
+Pagkakaroon ng iba't ibang wika.
+At bumaba ang Panginoon upang tingnan ang bayan at ang moog, na itinayo ng mga anak ng mga tao.
+At sinabi ng Panginoon, Narito, sila'y iisang bayan at silang lahat ay may isang wika; at ito ang kanilang pinasimulang gawin: at, ngayon nga'y walang makasasawata sa anomang kanilang balaking gawin.
+Halikayo
+tayo'y bumaba at diyan din ay ating guluhin ang kanilang wika, na anopa't sila'y huwag magkatalastasan sa kanilang salita.
+Ganito pinanabog sila ng Panginoon mula riyan, sa ibabaw ng buong lupa; at kanilang iniwan ang pagtatayo ng bayan.
+Kaya ang pangalang itinawag ay Babel; sapagka't doon ginulo ng Panginoon ang wika ng buong lupa: at mula roon ay pinanabog sila ng Panginoon sa ibabaw ng buong lupa.
+Mga inanak ni Sem.
+Ito ang sali't saling lahi ni Sem
+May isang daan taon si Sem at naging anak si Arphaxad, dalawang taon pagkatapos ng bahang gumunaw,
+At nabuhay si Sem, pagkatapos na maipanganak si Arphaxad, ng limang daang taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Arphaxad, ng tatlong pu't limang taon, at naging anak si Sala.
+At nabuhay si Arphaxad pagkatapos na maipanganak si Sala, ng apat na raan at tatlong taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Sala ng tatlong pung taon, at naging anak si Heber:
+At nabuhay si Sala pagkatapos na maipanganak si Heber, ng apat na raan at tatlong taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Heber ng tatlong pu't apat na taon, at naging anak si Peleg:
+At nabuhay si Heber pagkatapos na maipanganak si Peleg, ng apat na raan at tatlong pung taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Peleg ng tatlong pung taon, at naging anak si Reu:
+At nabuhay si Peleg pagkatapos na maipanganak si Reu, ng dalawang daan at siyam na taon; at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Reu ng tatlong pu't dalawang taon, at naging anak si Serug:
+At nabuhay si Reu pagkatapos na maipanganak si Serug, ng dalawang daan at pitong taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Serug ng tatlong pung taon, at naging anak si Nachor:
+At nabuhay si Serug pagkatapos maipanganak si Nachor, ng dalawang daang taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Nachor ng dalawang pu't siyam na taon, at naging anak si Thare:
+At nabuhay si Nachor pagkatapos na maipanganak si Thare, ng isang daan at labing siyam na taon, at nagkaanak ng mga lalake at mga babae.
+At nabuhay si Thare ng pitong pung taon, at naging anak si Abram, si Nachor at si Haran.
+Ang sangbahayan ni Thare.
+At si Sarai ay baog; siya'y walang anak.
+At ang mga naging araw ni Thare ay dalawang daan at limang taon: at namatay si Thare sa Haran.
+GENESIS 
+Sinabi nga ng Panginoon kay Abram, Umalis ka sa iyong lupain, at sa iyong mga kamaganak, at sa bahay ng iyong ama, na ikaw ay pasa lupaing ituturo ko sa iyo:
+At gagawin kitang isang malaking bansa, at ikaw ay aking pagpapalain, at padadakilain ko ang iyong pangalan; at ikaw ay maging isang kapalaran:
+At pagpapalain ko ang mga magpapala sa iyo, at susumpain ko ang mga susumpa sa iyo: at pagpapalain sa iyo ang lahat ng angkan sa lupa.
+Kaya't yumaon si Abram, ayon sa sinalita sa kaniya ng Panginoon; at si Lot ay sumama sa kaniya: at si Abram ay may pitong pu't limang taon, nang umalis sa Haran.
+Isinama ni Abram si Sarai na kaniyang asawa, at si Lot na anak ng kaniyang kapatid, at ang lahat ng pagaaring kanilang natipon at ang mga taong kanilang nakuha sa Haran; at nagsialis upang pasa lupain ng Canaan; at dumating sa lupain ng Canaan.
+At naglakbay sa lupain si Abram hanggang sa dako ng Sichem, hanggang sa punong encina ng More
+At noo'y nasa lupaing yaon ang Cananeo,
+At napakita ang Panginoon kay Abram, at nagsabi, Sa iyong lahi ay ibibigay ko ang lupaing ito: at siya'y nagtayo roon ng isang dambana sa Panginoon na napakita sa kaniya.
+At mula roon ay lumipat siya sa bundok na nasa silanganan ng Bethel, at doon niya itinayo ang kaniyang tolda, na nasa kalunuran ang Bethel, at nasa silanganan ang Hai: at siya'y nagtayo roon ng dambana sa Panginoon, at sinambitla ang pangalan ng Panginoon.
+At si Abram ay naglakbay na nagtuloy sa dakong Timugan.
+At nagkagutom sa lupaing yaon: at bumaba si Abram na nasok sa Egipto, upang manirahan doon; sapagka't mahigpit ang kagutom sa lupain.
+At nangyari, nang siya'y malapit nang papasok sa Egipto, ay sinabi niya kay Sarai na kaniyang asawa, Narito, ngayon, talastas kong ikaw ay magandang babae sa tingin:
+At mangyayari na pag makikita ka ng mga Egipcio, ay kanilang sasabihin, Ito'y kaniyang asawa; at ako'y kanilang papatayin, datapuwa't kanilang ililigtas kang buhay.
+Isinasamo ko sa iyo, na sabihin mong ikaw ay aking kapatid, upang ako'y mapabuti dahil sa iyo, at upang ang kaluluwa ko'y mabuhay dahil sa iyo.
+At nangyari, nang pumasok si Abram sa Egipto, nakita ng mga Egipcio, na ang babae ay napakaganda.
+At nakita siya ng mga prinsipe ni Faraon, at kanilang pinuri siya kay Faraon: at dinala ang babae sa bahay ni Faraon.
+At pinagpakitaan nito ng magandang loob si Abram dahil sa kaniya: at nagkaroon si Abram ng mga tupa, at ng mga baka, at ng mga asno, at ng mga aliping lalake at mga alilang babae, at ng mga asna, at ng mga kamelyo,
+At sinalot ng Panginoon si Faraon at ang kaniyang sangbahayan, ng malaking pagsalot dahil kay Sarai na asawa ni Abram.
+At tinawag ni Faraon si Abram, at sinabi, Ano itong ginawa mo sa akin
+Bakit hindi mo ipinahayag sa akin na siya'y iyong asawa?
+Bakit sinabi mong siya'y aking kapatid
+na ano pa't siya'y aking kinuha upang maging asawa: ngayon nga'y nariyan ang iyong asawa; siya'y kunin mo at yumaon ka.
+At nagbilin si Faraon sa mga tao tungkol sa kaniya: at siya'y kanilang inihatid sa daan, at ang kaniyang asawa, at ang lahat ng kaniyang pagaari.
+GENESIS 
+Pagbalik sa Canaan.
+At umahon sa Timugan si Abram mula sa Egipto, siya at ang kaniyang asawa, at ang lahat ng kaniyang tinatangkilik, at si Lot na kaniyang kasama.
+At si Abram ay totoong mayaman sa hayop, sa pilak, at sa ginto.
+At nagpatuloy si Abram ng kaniyang paglalakbay mula sa Timugan hanggang sa Bethel, hanggang sa dakong kinaroroonan noong una ng kaniyang tolda sa pagitan ng Bethel at ng Hai;
+Sa dako ng dambana na kaniyang ginawa roon nang una: at sinambitla doon ni Abram ang pangalan ng Panginoon.
+At si Lot man na kinasama ni Abram ay may tupahan at bakahan, at mga tolda.
+At sila'y hindi makayanan ng lupain, na sila'y manahan na magkasama: sapagka't napakarami ang kanilang pagaari, na ano pa't hindi maaring manirahang magkasama.
+Paghiwalay kay Lot.
+At nagkaroon ng pagtatalo ang mga pastor ng hayop ni Abram at ang mga pastor ng hayop ni Lot; at ang Cananeo at ang Pherezeo ay naninirahan noon sa lupain.
+At sinabi ni Abram kay Lot, Ipinamamanhik ko sa iyong huwag magkaroon ng pagtatalo, ikaw at ako, at ang mga pastor mo at mga pastor ko; sapagka't tayo'y magkapatid.
+Di ba ang buong lupain ay nasa harap mo
+Humiwalay ka nga sa akin, ipinamamanhik ko sa iyo: kung ikaw ay pasa sa kaliwa, ay pasa sa kanan ako: o kung ikaw ay pasa sa kanan, ay pasa sa kaliwa ako.
+At itiningin ni Lot ang kaniyang mga mata, at natanaw niya ang buong kapatagan ng Jordan, na pawang patubigan na magaling sa magkabikabila, kung pasa sa Zoar, bago giniba ng Panginoon ang Sodoma at Gomorra, ay gaya ng halamanan ng Panginoon, gaya ng lupain ng Egipto.
+Kaya't pinili ni Lot sa kaniya ang buong kapatagan ng Jordan; at si Lot ay naglakbay sa silanganan: at sila'y kapuwa naghiwalay.
+Tumahan si Abram sa lupain ng Canaan; at si Lot ay tumahan sa mga bayan ng kapatagan, at inilipat ang kaniyang tolda hanggang sa Sodoma.
+Ang mga tao nga sa Sodoma ay masasama at mga makasalanan sa harap ng Panginoon.
+At sinabi ng Panginoon kay Abram, pagkatapos na makahiwalay si Lot sa kaniya, Itingin mo ngayon ang iyong mga mata, at tumanaw ka mula sa dakong iyong kinalalagyan, sa dakong hilagaan, at sa dakong timugan, at sa dakong silanganan, at sa dakong kalunuran:
+Sapagka't ang buong lupaing iyong natatanaw ay ibibigay ko sa iyo, at sa iyong binhi magpakaylan man.
+At gagawin kong parang alabok ng lupa ang iyong binhi: na ano pa't kung mabibilang ng sinoman ang alabok ng lupa ay mabibilang nga rin ang iyong binhi.
+Magtindig ka, lakarin mo ang lupain, ang hinabahaba at niluwang-luwang niyan; sapagka't ibibigay ko sa iyo.
+At binuhat ni Abram ang kaniyang tolda, at yumaon at tumahan sa mga punong encina ni Mamre na nasa Hebron, at siya'y nagtayo roon ng dambana sa Panginoon.
+GENESIS 
+At nangyari sa mga kaarawan ni Amraphel, hari sa Sinar, ni Ariok hari sa Elasar, ni Chedorlaomer hari sa Elam, at ni Tidal na hari ng mga Goiim,
+Na ang mga ito ay nakipagbaka laban kay Bera hari sa Sodoma, at laban kay Birsha hari sa Gomorra, kay Shinab hari sa Adma, at kay Shemeber, hari sa Zeboim, at sa hari sa Bela (na si Zoar).
+Lahat ng ito'y nagkatipon sa libis ng Siddim (na siyang Dagat na Alat).
+Labingdalawang taong nagsipaglingkod kay Chedorlaomer, at sa ikalabingtatlong taon ay nagsipaghimagsik.
+At sa ikalabingapat na taon ay dumating si Chedorlaomer at ang mga haring kasama niya, at sinaktan ang mga Refaim sa Ashteroth-Carnaim, at ang mga Zuzita sa Ham, at ang mga Emita sa Shave-ciriataim.
+At ang mga Horeo sa kanilang kabundukan ng Seir, hanggang Elparan na nasa tabi ng ilang.
+At sila'y nangagbalik at nagsiparoon sa Enmispat (na siyang Cades), at kanilang sinaktan ang buong lupain ng mga Amalecita at pati ng mga Amorrheo na nagsisitahan sa Hazezon-tamar.
+At nagsilabas ang hari sa Sodoma, at ang hari sa Gomorra, at ang hari sa Adma, at ang hari sa Zeboim, at ang hari sa Bela (na dili iba't si Zoar); at sila'y humanay ng pakikipagbaka laban sa kanila sa libis ng Siddim;
+Laban kay Chedorlaomer, hari sa Elam, at kay Tidal na hari ng mga Goiim at kay Amraphel, hari sa Shinar, at kay Arioch, hari sa Elasar; apat na hari laban sa lima.
+At ang libis ng Siddim ay puno ng hukay ng betun; at nagsitakas ang mga hari sa Sodoma at sa Gomorra, at nangahulog doon, at ang natira ay nagsitakas sa kabundukan.
+At kanilang sinamsam ang lahat ng pagaari ng Sodoma at Gomorra, at ang lahat nilang pagkain, at nagsiyaon.
+At dinala nila si Lot, na anak ng kapatid ni Abram, na nananahan sa Sodoma at ang kaniyang mga pagaari at sila'y nagsiyaon.
+Si Lot ay iniligtas ni Abram.
+At dumating ang isang nakatanan, at ibinalita kay Abram na Hebreo; na tumatahan nga sa mga puno ng encina ni Mamre na Amorrheo, kapatid ni Eschol, at kapatid ni Aner; at ang mga ito ay kakampi ni Abram.
+At pagkarinig ni Abram, na nabihag ang kaniyang kapatid ay ipinagsama ang kaniyang mga subok na lalake, na mga ipinanganak sa kaniyang bahay, na tatlong daan at labing walo, at kanilang hinabol sila hanggang sa Dan.
+At sila'y nangagpangkatpangkat sa kinagabihan, laban sa kaaway, siya at ang kaniyang mga alipin, at kanilang sinaktan sila, at hinabol nila sila hanggang sa Hobah, na nasa kaliwa ng Damasco.
+At iniuwi niya ang lahat ng pagaari; at iniuwi rin niya si Lot na kaniyang kapatid, at ang kaniyang mga pagaari, at gayon din ang mga babae at ang bayan.
+At nilabas na sinalubong siya ng hari sa Sodoma pagkatapos na siya'y magbalik na mula sa pagpatay kay Chedorlaomer, at sa mga haring kasama niya sa libis ng Shave (na siyang libis ng hari).
+Pinagpala ni Melquisedec si Abram.
+At si Melquisedec, na hari sa Salem, ay naglabas ng tinapay at alak; at siya'y saserdote ng Kataastaasang Dios.
+At binasbasan niya siya na sinabi, Pagpalain si Abram ng Kataastaasang Dios, na may-ari ng langit at ng lupa:
+At purihin ang Kataastaasang Dios, na nagbigay ng iyong mga kaaway sa iyong kamay
+At binigyan siya ni Abram ng ikasangpung bahagi ng buong samsam.
+At sinabi ng hari sa Sodoma kay Abram, Ibigay mo sa akin ang mga tao at kunin mo sa ganang iyo ang mga pagaari.
+At sinabi ni Abram sa hari sa Sodoma, Itinaas ko ang aking kamay sa Panginoong Dios na Kataastaasan, na may ari ng langit at ng lupa.
+Isinumpa kong hindi ako kukuha maging isang sinulid, o maging isang panali ng pangyapak, o ng anomang nauukol sa iyo, baka iyong sabihin, Pinayaman ko si Abram:
+Liban na lamang ang kinain ng mga binata at ang bahagi ng mga lalaking kinasama ko; si Aner, si Eschol, at si Mamre, ay pakunin mo ng kanilang bahagi.
+GENESIS 
+Ang pangako ng Dios kay Abram.
+Pagkatapos ng mga bagay na ito ay dumating ang salita ng Panginoon kay Abram sa pangitain na nagsasabi, Huwag kang matakot, Abram: ako ang iyong kalasag, at ang iyong ganting pala na lubhang dakila.
+At sinabi ni Abram, Oh Panginoong Dios, anong ibibigay mo sa akin, kung ako'y nabubuhay na walang anak at ang magaari ng aking bahay ay itong taga Damascong si Eliezer?
+At sinabi ni Abram, Narito, hindi mo ako binigyan ng anak at, narito't isang ipinanganak sa aking bahay ang siyang tagapagmana ko.
+At, narito, ang salita ng Panginoon ay dumating sa kaniya, na nagsabi, Hindi ang taong ito ang magiging tagapagmana mo; kundi lalabas sa iyong sariling katawan ang magiging tagapagmana mo.
+At siya'y inilabas at sinabi, Tumingala ka ngayon sa langit, at iyong bilangin ang mga bituin, kung mabibilang mo: at sa kaniya'y sinabi, Magiging ganiyan ang iyong binhi.
+At sumampalataya siya sa Panginoon; at ito'y ibinilang na katuwiran sa kaniya.
+At sinabi sa kaniya, Ako ang Panginoon na nagpaalis sa iyo sa Ur ng mga Caldeo, upang ibigay sa iyo ang lupaing ito na manahin mo.
+At sinabi niya, Oh Panginoong Dios, paanong pagkakilala ko na aking mamanahin?
+At sinabi sa kaniya, Magdala ka rito sa akin ng isang dumalagang bakang tatlong taon ang gulang, at ng isang babaing kambing na tatlong taon ang gulang, at ng isang lalaking tupang tatlong taon ang gulang, at ng isang inakay na batobato at ng isang inakay na kalapati.
+At dinala niya ang lahat ng ito sa kaniya, at pinaghati niya sa gitna, at kaniyang pinapagtapattapat ang kalakalahati; datapuwa't hindi hinati ang mga ibon.
+At binababa ng mga ibong mangdadagit ang mga bangkay, at binubugaw ni Abram.
+At nang lulubog na ang araw, ay nakatulog si Abram ng mahimbing; at, narito, ang isang kasindaksindak na malaking kadiliman ay sumakaniya.
+At sinabi ng Dios kay Abram, Tunay na pakatalastasin mo, na ang iyong binhi ay magiging taga ibang bayan sa lupaing hindi kanila, at mangaglilingkod sa mga yaon; at pahihirapang apat na raang taon.
+At yaon namang bansang kanilang paglilingkuran ay aking hahatulan: at pagkatapos ay aalis silang may malaking pagaari.
+Datapuwa't ikaw ay payapang pasa sa iyong mga magulang; at ikaw ay malilibing sa mabuting katandaan.
+At sa ikaapat na salin ng iyong binhi, ay magsisipagbalik rito: sapagka't hindi pa nalulubos ang katampalasanan ng mga Amorrheo.
+At nangyari, na paglubog ng araw, at pagdilim, na narito, ang isang hurnong umuusok, at ang isang tanglaw na nagniningas na dumaan sa gitna ng mga hinating hayop.
+Nang araw na yaon, ang Panginoon ay nakipagtipan kay Abram, na nagsabi, Sa iyong binhi ibinigay ko ang lupaing ito, mula sa ilog ng Egipto hanggang sa malaking ilog, na ilog Eufrates.
+Ang mga Cineo, at ang mga Ceneceo, at ang mga Cedmoneo,
+At ang mga Heteo, at ang mga Pherezeo, at ang mga Refaim,
+At ang mga Amorrheo, at ang mga Cananeo, at ang mga Gergeseo, at ang mga Jebuseo.
+GENESIS 
+Si Sarai at si Agar.
+Si Sarai nga na asawa ni Abram ay hindi nagkaanak sa kaniya; at siya'y may isang alilang babae na taga Egipto, na nagngangalang Agar.
+At sinabi ni Sarai kay Abram, Narito, ngayon, ako'y hinadlangan ng Panginoon na ako'y magkaanak; ipinamamanhik ko sa iyong sumiping ka sa aking alilang babae; marahil ay magkakaanak ako sa pamamagitan niya
+At dininig ni Abram ang sabi ni Sarai.
+At kinuha ni Sarai na asawa ni Abram, si Agar na taga Egipto, na kaniyang alila, pagkaraan ng sangpung taon na makatahan si Abram sa lupain ng Canaan, at ibinigay kay Abram na kaniyang asawa upang maging asawa niya.
+At siya'y sumiping kay Agar, at naglihi: at nang makita niyang siya'y naglihi, ay niwalang halaga niya ang kaniyang panginoong babae sa kaniyang paningin.
+At sinabi ni Sarai kay Abram, Ang aking pagkaapi ay sumaiyo: idinulot ko ang aking alila sa iyong sinapupunan; at nang makita niyang siya'y naglihi, ay niwalan akong kabuluhan sa kaniyang paningin: ang Panginoon ang humatol sa akin at sa iyo.
+Datapuwa't sinabi ni Abram kay Sarai, Narito, ang iyong alila ay nasa iyong kamay; gawin mo sa kaniya ang iyong minamagaling sa iyong paningin
+At dinuwahagi siya ni Sarai, at si Agar ay tumakas mula sa kaniyang harap.
+At nasumpungan siya ng anghel ng Panginoon sa tabi ng isang bukal ng tubig sa ilang, sa bukal na nasa daang patungo sa Shur.
+At sinabi, Agar, alila ni Sarai, saan ka nanggaling
+at saan ka paroroon
+at kaniyang sinabi, Ako'y tumatakas mula sa harap ni Sarai na aking panginoon.
+At sinabi sa kaniya ng anghel ng Panginoon, Magbalik ka sa iyong panginoon, at pahinuhod ka sa kaniyang mga kamay.
+At sinabi sa kaniya ng anghel ng Panginoon, Pararamihin kong mainam ang iyong binhi, na hindi mabibilang dahil sa karamihan.
+At sinabi sa kaniya ng anghel ng Panginoon, Narito't ikaw ay nagdadalang-tao at ikaw ay manganganak ng isang lalake; at ang itatawag mo sa kaniyang ngalan ay Ismael, sapagka't dininig ng Panginoon ang iyong kadalamhatian.
+At siya'y magiging parang asnong bundok sa gitna ng mga tao; ang kaniyang kamay ay magiging laban sa lahat, at ang kamay ng lahat ay laban sa kaniya; at siya'y tatahan sa harap ng lahat niyang mga kapatid.
+At kaniyang tinawagan ang ngalan ng Panginoon na nagsalita sa kaniya, Ikaw ay Dios na nakakakita: sapagka't sinabi niya, Namasdan ko rin ba rito ang likuran niyaong nakakakita sa akin?
+Kaya't nginalanan ang balong yaon Balon ng Nabubuhay na nakakakita sa akin; narito't ito'y nasa pagitan ng Cades at Bered.
+Panganganak kay Ismael.
+At nanganak si Agar ng isang lalake kay Abram at ang itinawag ni Abram, na pangalan sa kaniyang anak na ipinanganak ni Agar, ay Ismael.
+At si Abram ay may walong pu't anim na taon nang ipanganak si Ismael ni Agar kay Abram.
+GENESIS 
+At nang si Abram ay may siyam na pu't siyam na taon, ay napakita ang Panginoon kay Abram, at sa kaniya'y nagsabi, Ako ang Dios na Makapangyarihan sa lahat lumakad ka sa harapan ko, at magpakasakdal ka.
+At ako'y makikipagtipan sa iyo at ikaw ay aking pararamihing mainam.
+At nagpatirapa si Abram: at ang Dios ay nakipagusap sa kaniya, na sinasabi,
+Tungkol sa akin, narito, ang aking tipan ay sumasaiyo, at ikaw ang magiging ama ng maraming bansa.
+At hindi na tatawagin ang pangalan mong Abram, kundi Abraham ang magiging iyong pangalan; sapagka't ikaw ay ginawa kong ama ng maraming bansa.
+At ikaw ay aking gagawing totoong palaanakin at papanggagalingin ko sa iyo ang mga bansa; at magbubuhat sa iyo ang mga hari.
+At aking papagtitibayin ang aking tipan sa iyo at sa iyong binhi pagkamatay mo sa buong kalahian nila, na tipang walang hanggan, na ako'y magiging iyong Dios, at ng iyong binhi, pagkamatay mo.
+At ibibigay ko sa iyo, at sa iyong binhi, pagkamatay mo, ang lupaing iyong mga pinaglakbayan, ang buong lupain ng Canaan, na pagaaring walang hanggan at ako ang magiging Dios nila.
+Ang tipan ng pagtutuli.
+At sinabi pa ng Dios kay Abraham, At tungkol sa iyo, iingatan mo ang aking tipan, iingatan mo at ng iyong binhi pagkamatay mo, sa buong kalahian nila.
+Ito ang aking tipan na inyong iingatan sa akin at sa inyo, at ng iyong binhi, pagkamatay mo; tutuliin ang bawa't lalake sa inyo.
+At kayo'y tutuliin sa laman ng inyong balat ng masama; at ito ang magiging tanda ng aking tipan sa inyo.
+At ang may walong araw ay tutuliin sa inyo, ang bawa't lalake sa buong kalahian ninyo; ang ipinanganak sa bahay, o ang binili ng salapi sa sinomang taga ibang lupa na hindi sa iyong lahi.
+Ang ipinanganak sa bahay at ang binili ng iyong salapi, ay dapat tuliin: at ang aking tipan ay sasa iyong laman na pinakatipang walang hanggan.
+At ang lalaking hindi tuli, na hindi tinuli ang laman ng kaniyang balat ng masama, ang taong yaon ay mahihiwalay sa kaniyang bayan; sinira niya ang aking tipan.
+Ang panganganak kay Isaac ay ipinangako.
+At sinabi ng Dios kay Abraham, Tungkol kay Sarai na iyong asawa, ay huwag mo nang tatawagin ang kaniyang pangalang Sarai, kundi Sara ang magiging kaniyang pangalan.
+At akin siyang pagpapalain, at saka sa kaniya'y bibigyan kita ng anak: oo, siya'y aking pagpapalain, at magiging ina ng mga bansa; ang mga hari ng mga bayan ay magmumula sa kaniya.
+Nang magkagayo'y nagpatirapa si Abraham, at nagtawa, at nasabi sa kaniyang sarili, Magkakaanak kaya siya na may isang daang taon na
+at manganak pa kaya si Sara na may siyam na pung taon na?
+At sinabi ni Abraham sa Dios, Kahimanawari, si Ismael ay mabuhay sa harapan mo!
+At sinabi ng Dios, Hindi, kundi ang iyong asawang si Sara ay magkakaanak sa iyo; at tatawagin mo ang kaniyang ngalang Isaac; at aking pagtitibayin ang aking tipan sa kaniya ng pinakatipang walang hanggan, sa kaniyang lahi pagkamatay niya.
+At tungkol kay Ismael, ay dininig din kita
+Nguni't ang aking tipan ay pagtitibayin ko kay Isaac na iaanak sa iyo ni Sara, sa tadhanang araw, sa taong darating.
+At nang matapos na makipagusap sa kaniya, ay napaitaas ang Dios mula sa piling ni Abraham.
+At ipinagsama ni Abraham si Ismael, na kaniyang anak, at ang lahat na ipinanganak sa kaniyang bahay, at ang lahat ng binili niya ng kaniyang salapi, ang lahat ng lalake sa mga lalaking kasangbahay ni Abraham, at tinuli ang laman ng kanilang balat ng masama ng araw ding yaon, ayon sa sinabi ng Dios sa kaniya.
+At si Abraham ay may siyam na pu't siyam na taon, nang tuliin ang laman ng kaniyang balat ng masama.
+At si Ismael ay may labing tatlong taon, nang tuliin ang laman ng kaniyang balat ng masama.
+Nang araw ding yaon tinuli si Abraham, at si Ismael na kaniyang anak.
+At lahat ng lalaking kasangbahay niya, maging ang mga ipinanganak sa bahay, at ang mga binili ng salapi sa taga ibang lupain, ay pinagtuling kasama niya.
