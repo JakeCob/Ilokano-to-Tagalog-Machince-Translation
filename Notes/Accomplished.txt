@@ -7,4 +7,4 @@ ACCOMPLISHED:
 - Created a method that will remove the punctuations
 - Created Ilokano_Story and Tagalog_Story dataset
 - Created a remove stopwords method
-- Updated Bible Dataset up to Genesis 30 (1079 Lines)
+- Updated Bible Dataset up to Genesis 34 (1247 Lines)
