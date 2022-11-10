@@ -14,7 +14,7 @@ PREFIX_SET = [
 'maki', 'panna', 'maka', 'naki', 'naka', 'nang', 'makapag',
 'mang', 'agan', 'agay', 'pananga', 'agam', 'nagpa', 'magpa', 
 'ipa', 'pag', 'pam', 'taga', 'i', 'napa', 'in', 'manang',
-'ma' # a translation for 'ma'
+'ma' 
 'para', 'pang', 'panag', 'nai', 'manag', 'man', 'kina',
 'nai', 'nai', 'nagpa'
 ]
