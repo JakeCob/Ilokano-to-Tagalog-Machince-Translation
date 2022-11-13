@@ -1,0 +1,172 @@
+PREFIX_SET = [
+'na', 'ag', 'ka', 'nag', 'im',
+'maki', 'panna', 'maka', 'naki', 'naka', 'nang', 'makapag',
+'mang', 'agan', 'agay', 'pananga', 'agam', 'nagpa', 'magpa', 
+'ipa', 'pag', 'pam', 'taga', 'i', 'napa', 'in', 'manang',
+'ma' # a translation for 'ma'
+'para', 'pang', 'panag', 'nai', 'manag', 'man', 'kina',
+'nai', 'nai', 'nagpa'
+]
+
+Adj_Prefix =[
+'ka', 
+'na' # a translation for 'ma'
+]
+
+INFIX_SET = []
+
+SUFFIX_SET = [
+'to', 'nto', 'ak' 'en'
+# no translation for syon, dor, ita, ing
+'na', 'an', 'm'
+]
+
+Adj_Suffix = [
+'an'
+]
+
+PREPO_SET = [
+    'tengnga',          
+    'rabaw', 'rabao', 'baba', 'babaen', 
+    'ngatuen', 'ngato', 'sirok', 'sidong',
+    'sango', 'sarang', 'saklang', 'sanguanan' 'likud', 
+    'ruar', 'uneg',
+    'baet', 'sango', 'umuna'
+    'ngudo', 'ungto', 'abay', 'igid'
+]
+
+CONJ_SET = [
+    'ken', 'ket', # no  translation for word 'bali' 
+    'gapu', 'ta', 'agsipud', 'laeng', 'ngem', 'nupay', 'nupay kasta'
+    'bayat', 'uray', 
+    'intono', 'no', 'ta', 'ngamin', 
+    'kaso', 'gapuna', 
+    'idi',
+    'nga', 
+    'ni',  'wenno', 
+    'para', 'tapno', 'agraman', 
+    'numpay kasta', 
+    'ken', 'ket', 'kabayatanna', 'bayat', 
+    'kada'
+]
+
+PER_PRONOUN = [
+    'siak', 'sika', 'isu', 'dakami', 'datayo', 'dakayo', 'kayo', 'da',
+    'dinak', 'diak', 'kaniak', # no translation for 'siyang' 
+    'kadakami', 'kami', # -kami translation is usually connected to another word i.e., 'Maragsakankami'
+    'kadakayo', 'dakayo', 'kayo', # -kayo translation is usually connected to another word i.e., 'Umaykayo'
+    'ida', 'da', # -da translation is usually connected to another word i.e., 'nagtultuloyda'
+    'ko', # -ko translation is usually connected to another word i.e., 'Kayatko'
+    # no translation for 'sakin'
+    'kukuami', 'kadatayo', 'kukuatayo', 'tayo', # -tayo translation is usually connected to another word i.e., 'Basaentayo'
+    # no translation for 'kong' and 'inyong'
+    'kata', 'mo', # -mo is usually connected to another word
+    'kenkuana', 'mi', # -mi translation is usually connected to another word i.e., 'Insuratmi'
+    'yo', 'nyo' # both are usually connected to another word
+    'na', # can stand alone and can be connected to another word
+]
+
+vowels = ['a', 'e', 'i', 'o', 'u']
+
+noun_dtmn_list = ["dagiti", "ti", "kadagiti", "ni", "ken", 'ket', "ni"] # Noun Determiners
+
+adv_dtmn_list = ["idi", "iti"]
+
+prepo_dtmn_list = ["ti", "adda", "addaak"]
+
+adv_time_list = ['madamdama', 'ita', 'kalman', 'inton bigat'] 
+
+
+Ilokano Sentence Syntax
+Payak na Karaniwang Pangungusap: VP + NP
+Payak na Di Karaniwang Pangungusap: NP + 'ket' + VP
+Tambalan na Karaniwang Pangungusap: VP + NP + ',' + VP + NP
+Hugnayan na Karaniwang Pangungusap:
+Hugnayan na Di Karaniwang Pangungusap:
+
+def ilo_adj(sentence, dtmn_list, prepo_list, pronoun_list):
+    """
+    This function tags if the specific word in the sentence is an adjective, and extracts it.
+    """
+    adj = []
+    prev_word = ""
+    prev2_word = ""
+    
+    for word in sentence:
+        """
+        marks if the word is already tagged
+        """
+        isDone = False
+        hasVerbAffixes = False
+        
+        """
+        gets the next word in the sentence
+        """
+        try:
+            next_word = sentence[sentence.index(word) + 1]
+        except (ValueError, IndexError):
+            next_word = None
+        
+        """
+        checks if the word is has an verb affix/es
+        """
+        try:
+            hasVerbAffixes = check_verb_affixes(word, prev2_word, prev_word, next_word, PREFIX_SET, INFIX_SET, SUFFIX_SET, isDone, hasVerbAffixes)
+        except (ValueError, IndexError):
+            hasVerbAffixes = False
+        
+        if word not in (dtmn_list + prepo_list + pronoun_list + CONJ_SET):
+            if word.startswith("na") and (next_word in noun_dtmn_list or next_word == 'a') and  not hasVerbAffixes and not isDone:
+                """
+                if the word is an adjective it has an adjective prefix 'na' and the next word is noun determiner
+                eg. napintas ti balay (maganda ang bahay)
+                eg. naimbag a bigat (magandang umaga)
+                """
+                adj.append(word)
+                isDone = True
+
+            if word.startswith("ka") and word.endswith("an"):
+               """
+               if the word is an adjective it has an adjective prefix 'ka' and adjective suffix 'an'
+               eg. kadakkelan (pinakamalaki)
+               """
+               adj.append(word)
+               isDone = True 
+
+            if word.endswith("ng") and not hasVerbAffixes and not isDone:
+                """
+                if the word ends with 'ng', then it is an adjective
+                eg. dalawang bahay
+                """
+                adj.append(word)
+                isDone = True
+                
+            if prev_word in ('ay', 'na') and not prev2_word.startswith('ika') and (not hasVerbAffixes or word.startswith('ma')) and not isDone: # tinanggal ko muna yung "and not hasVerbAffixes"
+                """
+                if the previous word is 'ay' or 'na', then it is an adjective
+                eg. salamin na parihaba
+                """
+                adj.append(word)
+                isDone = True
+            
+            
+        """
+        getting the previous word
+        """
+        prev_word = word
+        
+        
+        
+        """
+        getting the previous after the previous word
+        """
+        try:
+            prev2_word = sentence[sentence.index(word) - 1]
+        except (ValueError, IndexError):
+            prev2_word = None
+            
+    return adj
+# end of function
+
+dict_sm_il['Adjective'] = dict_sm_il['Tokenized'].apply(lambda x: ilo_adj(x, parsed_il_dtmn, PREPO_SET, PER_PRONOUN))
+dict_sm_il.head(30)
