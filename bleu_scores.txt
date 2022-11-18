@@ -194,5 +194,7 @@ Reference: ket ni jehova dios innalana ti tao ket insaadna iti minuyongan idiay 
 Machine Translation: at kinuha dagus panginoong ti dios ti tao at napanna sa a minuyongan dagus eden tapno kaniyang alagaan at ingatan
 BLEU Score: 0.45474717567044404
 
-Reference: ket ni jehova dios imbilinna idi tao a kinunana cadagiti amin a cayo iti minuyongan mangancanto a siwayawayaMachine Translation: at iniutos dagus panginoong ti dios sa lalake na kinunana sa lahat dagus punong ti mula sa a minuyongan ay daytoy ka na may kalayaanBLEU Score: 0.3390809034056987
+Reference: ket ni jehova dios imbilinna idi tao a kinunana cadagiti amin a cayo iti minuyongan mangancanto a siwayawaya
+Machine Translation: at iniutos dagus panginoong ti dios sa lalake na kinunana sa lahat dagus punong ti mula sa a minuyongan ay daytoy ka na may kalayaan
+BLEU Score: 0.3390809034056987
 
