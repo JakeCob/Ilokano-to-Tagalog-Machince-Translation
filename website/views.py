@@ -1,7 +1,7 @@
-from flask import Blueprint
+from flask import Blueprint, render_template, request, jsonify
 
 views = Blueprint('views', __name__)
 
 @views.route('/')
 def home():
-    return "Hello, World!"
+    return render_template('index.html')
