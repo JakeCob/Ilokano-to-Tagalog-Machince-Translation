@@ -35,7 +35,7 @@
       <span class="navbar-brand mb-0 h1" style="color: white;">ILOKANO-TAGALOG TRANSLATOR</span>
     </nav>
 
-    <form method="POST" action="/results">
+    <form method="POST" action="/">
       <div class="container">
         <div class="row">
           <div class="col-sm my-4">
@@ -48,7 +48,7 @@
                 id="id--system-input"
                 rows="20"
                 name="source_lang"
-              ></textarea>
+              >{{source}}</textarea>
             </div>
           </div>
   
@@ -64,11 +64,11 @@
               id="id--expected-output"
               rows="20"
               name="expected_op"
-            ></textarea>
+            >{{expected_op}}</textarea>
           </div>
   
           <div class="col-sm">
-            <fieldset disabled>
+            <fieldset>
               <h3 id="Output" class="fs-2 mt-4" style="text-align: center; color: white">
                 Ilokano
               </h3>
@@ -78,22 +78,22 @@
                   id="id--system-output"
                   rows="20"
                   name="system-output"
-                >{% block results %} {% endblock %}</textarea>
+                >{% for op_sen in op_sen_list %}{{op_sen + "\n"}}{% endfor %}</textarea>
               </div>
             </fieldset>
           </div>
   
           <div class="col-sm-2 position-relative me-5">
-            <fieldset disabled>
+            <fieldset>
               <div class="form-outline position-absolute top-50 end-0">
                 <label class="form-label" for="BLEU" style="color: white">BLEU Score</label>
                 <textarea type="text" id="BLEU" class="form-control" name="BLEU"
-                >{% block bleu_score %} {% endblock %}</textarea>
+                >{{ave_bleu}}</textarea>
               </div>
               <div class="form-outline position-absolute bottom-50 end-0">
                 <label class="form-label" for="TER" style="color: white">TER Score</label>
                 <textarea type="text" id="TER" class="form-control" name="TER"
-                >{% block ter_score %} {% endblock %}</textarea>
+                >{{temp_ter_score}}</textarea>
               </div>
             </fieldset>
           </div>
