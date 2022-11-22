@@ -35,68 +35,74 @@
       <span class="navbar-brand mb-0 h1" style="color: white;">ILOKANO-TAGALOG TRANSLATOR</span>
     </nav>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-sm">
-          <h2 id="Input" style="text-align: center; color: white">Ilokano</h2>
-          <div class="input-form-outline">
-            <textarea
-              class="form-control-input"
-              id="textAreaExample"
-              rows="20"
-              style="min-width: 100%; background-color:;"
-            ></textarea>
-          </div>
-          <button id="translate" class="btn btn-warning" style="color: yellow; background-color:#231709">Translate</button>
-          <button id="Compute" class="btn btn-warning"style="color: yellow; background-color:#231709" >Compute</button>
-        </div>
-
-        <div class="col-sm text-center">
-          <button id="switch-btn" class="btn" onclick="toggle();">
-            <span class="material-symbols-outlined"> sync_alt </span>
-          </button>
-          <h4 id="expected-output" style="text-align: center; color: white">
-            Expected output
-          </h4>
-          <textarea
-            class="form-control-expected-output"
-            id="textAreaExample"
-            rows="20"
-            style="min-width: 100%; background-color:;"
-           
-          ></textarea>
-        </div>
-
-        <div class="col-sm">
-          <fieldset disabled>
-            <h3 id="Output" style="text-align: center; color: white">
+    <form method="POST">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm my-4">
+            <h2 id="Input" style="text-align: center; color: white">
               Tagalog
-            </h3>
-            <div class="output-form-outline">
+            </h2>
+            <div class="input-form-outline">
               <textarea
-                class="form-control-output"
-                id="textAreaExample"
+                class="form-control-input"
+                id="id--system-input"
                 rows="20"
-                style="min-width: 100%; background-color:white;"
+                name="source_lang"
               ></textarea>
             </div>
-          </fieldset>
-        </div>
-
-        <div class="col-sm-2 position-relative">
-          <fieldset disabled>
-            <div class="form-outline position-absolute top-50 end-0">
-              <input type="text" id="BLEU" class="form-control" />
-              <label class="form-label" for="BLEU" style="color: white">BLEU Score</label>
-            </div>
-            <div class="form-outline position-absolute bottom-50 end-0">
-              <input type="text" id="TER" class="form-control" />
-              <label class="form-label" for="TER" style="color: white">TER Score</label>
-            </div>
-          </fieldset>
+          </div>
+  
+          <div class="col-sm text-center">
+            <button id="switch-btn" class="btn mt-4" onclick="toggle();">
+              <span class="material-symbols-outlined"> sync_alt </span>
+            </button>
+            <h4 id="expected-output" style="text-align: center; color: white">
+              Expected output
+            </h4>
+            <textarea
+              class="form-control-expected-output"
+              id="id--expected-output"
+              rows="20"
+              name="expected_op"
+            ></textarea>
+          </div>
+  
+          <div class="col-sm">
+            <fieldset disabled>
+              <h3 id="Output" class="fs-2 mt-4" style="text-align: center; color: white">
+                Ilokano
+              </h3>
+              <div class="output-form-outline">
+                <textarea
+                  class="form-control-output"
+                  id="id--system-output"
+                  rows="20"
+                  name="system-output"
+                >{% block results %} {% endblock %}</textarea>
+              </div>
+            </fieldset>
+          </div>
+  
+          <div class="col-sm-2 position-relative me-5">
+            <fieldset disabled>
+              <div class="form-outline position-absolute top-50 end-0">
+                <label class="form-label" for="BLEU" style="color: white">BLEU Score</label>
+                <textarea type="text" id="BLEU" class="form-control" name="BLEU"
+                >{% block bleu_score %} {% endblock %}</textarea>
+              </div>
+              <div class="form-outline position-absolute bottom-50 end-0">
+                <label class="form-label" for="TER" style="color: white">TER Score</label>
+                <textarea type="text" id="TER" class="form-control" name="TER"
+                >{% block ter_score %} {% endblock %}</textarea>
+              </div>
+            </fieldset>
+          </div>
+          
+          <button type="submit" id="translate" class="btn btn-warning text-lg-center text-dark fw-bolder fs-2">Translate</button>
         </div>
       </div>
-    </div>
+    </form>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script
@@ -107,6 +113,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-    <script src="static/script.js"></script>
+    <script 
+      type="text/javascript"
+      src="{{ url_for('static', filename='script.js') }}"
+    ></script>
   </body>
 </html>

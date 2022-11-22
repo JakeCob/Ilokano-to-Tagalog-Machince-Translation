@@ -46,3 +46,14 @@ color: yellow;
 background-color: #231709;
 border-radius: 25px;
 }
+
+textarea {
+    min-width: 100%; 
+    background-color: white; 
+    resize: none;
+}
+
+#translate {
+    background-color: yellow;
+    color: white;
+}
