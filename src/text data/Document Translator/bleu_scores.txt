@@ -1,13 +1,5 @@
-Reference: genesis
-Machine Translation: genesis
-BLEU Score: 1.0
+Reference: ti aramid ti dios
+Machine Translation: ti aramid ng ti dios
+BLEU Score: 0.7917595139785205
 
-Reference: ti aramid ti dios a namarsua
-Machine Translation: ti aramid ng ti dios ang a namarsua
-BLEU Score: 0.7584350609218483
-
-Reference: idi punganay ti dios pinarsuana dagiti langlangit ken ti daga
-Machine Translation: idi punganay ti pinarsuana ng ti dios ang langit at ang lupa
-BLEU Score: 0.6977782066265307
-
-Average BLEU Score: 0.8187377558494596
+Average BLEU Score: 0.7917595139785205
