@@ -1,10 +1,16 @@
 from flask import Blueprint, render_template, request, jsonify
+# import doc_trans_tl
 
 views = Blueprint('views', __name__)
 
 temp_sen_list = ['sentence 1', 'sentence 2', 'sentence 3']
 temp_bleu_score = 0.5
 temp_ter_score = 0.7
+
+
+def execute():
+    sysout = 'not yet connected to .py file'
+    return sysout
 
 
 @views.route('/', methods=['GET', 'POST'])
@@ -19,5 +25,5 @@ def home():
 
 @views.route('/results')
 def results():
-    return render_template('results.html', temp_sen_list = temp_sen_list, temp_bleu_score = temp_bleu_score, temp_ter_score = temp_ter_score)
+    return render_template('results.html', temp_sen_list = temp_sen_list, temp_bleu_score = temp_bleu_score, temp_ter_score = temp_ter_score, sysout= execute())
 
