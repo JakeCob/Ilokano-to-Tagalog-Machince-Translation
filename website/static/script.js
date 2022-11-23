@@ -36,3 +36,8 @@ function toggle() {
         }
     }
 }
+
+function changeContent() {
+    var x = document.getElementById('textArea');
+    x.value = "GeeksforGeeks";
+}
