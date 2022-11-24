@@ -1,5 +1,5 @@
-Reference: 
-Machine Translation: 
-BLEU Score: 0
+Reference: naimbag
+Machine Translation: mabuti
+BLEU Score: 0.045003287837387725
 
-Average BLEU Score: 0.0
+Average BLEU Score: 0.045003287837387725
