@@ -1,5 +1,6 @@
 import pandas as pd
 from nltk.translate.bleu_score import SmoothingFunction, sentence_bleu
+import sacrebleu
 
 
 def bleuScore(target_op, system_op):
@@ -43,3 +44,24 @@ def scoring_bleu(dict_tl_il_result):
         df.write("Average BLEU Score: " + str(average_bleu_score))
         
     return average_bleu_score
+# end of function
+
+
+def scoring_ter(dict_tl_il_result):
+    system_op_list = dict_tl_il_result['System Output'].tolist()
+    target_op_list = dict_tl_il_result['Target Output'].tolist()
+    
+    temp_index = 0
+    total_ter_score = 0
+    
+    for target_op in target_op_list:
+        system_op = system_op_list[temp_index]
+        
+        score = sacrebleu.corpus_ter(system_op, [target_op])
+        total_ter_score += score.score
+        
+        temp_index += 1
+    
+    average_ter_score = total_ter_score / len(target_op_list)
+    return average_ter_score
+# end of function
