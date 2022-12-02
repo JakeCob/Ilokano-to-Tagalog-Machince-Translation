@@ -39,3 +39,22 @@ pr_tl_list = dict_pr['Tagalog Preposition'].tolist()
 pr_il_list = dict_pr['Ilokano Preposition'].tolist()
 dt_tl_list = dict_dt['Tagalog Determiner'].tolist()
 dt_il_list = dict_dt['Ilokano Determiner'].tolist()
+
+
+"""
+    TF-IDF
+"""
+vb_tfidf_tl_list = dict_vb['Tagalog Verb TF-IDF'].tolist()
+vb_tfidf_il_list = dict_vb['Ilokano Verb TF-IDF'].tolist()
+nn_tfidf_tl_list = dict_nn['Tagalog Noun TF-IDF'].tolist()
+nn_tfidf_il_list = dict_nn['Ilokano Noun TF-IDF'].tolist()
+jj_tfidf_tl_list = dict_jj['Tagalog Adjective TF-IDF'].tolist()
+jj_tfidf_il_list = dict_jj['Ilokano Adjective TF-IDF'].tolist()
+rb_tfidf_tl_list = dict_rb['Tagalog Adverb TF-IDF'].tolist()
+rb_tfidf_il_list = dict_rb['Ilokano Adverb TF-IDF'].tolist()
+cc_tfidf_tl_list = dict_cc['Tagalog Conjunction TF-IDF'].tolist()
+cc_tfidf_il_list = dict_cc['Ilokano Conjunction TF-IDF'].tolist()
+pr_tfidf_tl_list = dict_pr['Tagalog Preposition TF-IDF'].tolist()
+pr_tfidf_il_list = dict_pr['Ilokano Preposition TF-IDF'].tolist()
+dt_tfidf_tl_list = dict_dt['Tagalog Determiner TF-IDF'].tolist()
+dt_tfidf_il_list = dict_dt['Ilokano Determiner TF-IDF'].tolist()
