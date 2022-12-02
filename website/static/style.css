@@ -1,52 +1,65 @@
-.material-symbols-outlined {
-    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+.mr-03{
+    margin-right: 3%;
 }
 
-.bs-example {
-    margin: 20px;
+.mr-05{
+    margin-right: 5%;
+}
+.mr-07{
+    margin-right: 7%;
 }
 
-.input-form-outline {
-    margin: 50px;
+.mr-1{
+    margin-right: 10%;
 }
 
-.output-form-outline {
-    margin: 50px;
+.ml-1{
+    margin-left: 17%;
 }
 
-.form-control-output {
-    border: 1px solid black;
+.ml-7{
+    margin-left: 70%;
 }
 
-.form-control-input {
-    border: 1px solid black;
+.icon{
+    height: 100px;
 }
 
-.row {
-    margin-top: 50px;
+/*Main Content*/
+form{
+    background-color: #A05E2B;
 }
 
-.switch-btn {
-    text-align: center;
-}
-:root {
---bs-body-bg: #964B00;
+.card {
+    position: relative;
+    display: flex;
+    width: 450px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
+    border-radius: .9rem;
+    border-width: .2rem;
 }
 
-.row{
-background-color: #703902;
+#card-header{
+    background-color: 
+    #5E3D2D;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1rem;
+    background-color: #EFE0BB; 
 }
 
 .navbar{
 background-color: #231709;
 
 }
-.material-symbols-outlined {
-color: yellow;
-background-color: #231709;
-border-radius: 25px;
-}
 
+/*Non-Bootstrap*/
 textarea {
     min-width: 100%; 
     background-color: white; 
@@ -54,6 +67,19 @@ textarea {
 }
 
 #translate {
-    background-color: yellow;
-    color: white;
+    background-color: #3B271D;
+    color: #F5B717;
+}
+
+.translator_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1em 0;
+    text-align: left;
+}
+
+.buttons{
+    background-color: #A05E2B;
+    text-align: right;
 }
