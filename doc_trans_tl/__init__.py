@@ -56,7 +56,7 @@ def translate(sen_poss_list, dict_source):
                 else:
                     sen_translation.append(word)
             
-            # 2. SW
+            # 2. VB
             elif word_pos == 'VB':
                 """
                 if the POS of the word is 'VB'
@@ -149,7 +149,7 @@ def translate(sen_poss_list, dict_source):
             # 7. PR
             elif word_pos == 'PR':
                 """
-                if the POS of the word is 'CC'
+                if the POS of the word is 'PR'
                 """
                 if word in dict_tl.pr_tl_list:
                     """
