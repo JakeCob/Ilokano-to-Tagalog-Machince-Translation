@@ -15,6 +15,19 @@ adv_manner_list = ['tunay', 'lubos', 'medyo', 'mabilis', 'mabuti', 'mahirap', 'd
 
 adv_freq_list = ['lagi', 'madalas', 'karaniwan', 'kung minsan', 'paminsan-minsan', 'bihira', 'madalang', 'hindi kailanman'] 
 
+adj_quantity_list = ['isang', 'kaunti', 'marami', 'maraming','ilan', 'i-ilan', 'ilang' ,'magkano', 'bahagi', 'buo']
+
+adj_quality_list = ['masama', 'malinis', 'madilim', 'mahirap', 'marumi', 'tuyo', 'madali', 'walang laman', 'mahal', 'mabilis', 'dayuhan', 'puno', 'mabuti', 'mahirap', 'mabigat', 'mura', 'liwanag', 'lokal', 'bago', 'maingay', 'luma', 'malakas', 'tahimik', 'tama', 'mabagal', 'malambot', 'tunay', 'mahina', 'basa', 'mali', 'maling', 'bata']
+
+adj_taste_list = ['mapait', 'sariwa', 'maalat', 'maasim', 'maanghang', 'matamis']
+
+adj_shape_list = ['pabilog', 'tuwid', 'parisukat', 'tryanggulo']
+
+adj_size_list = ['mahaba', 'malalim', 'makitid', 'maliit', 'matangkad', 'makapal', 'manipis', 'malawak', 'malalaking']
+
+adj_color_list = ['itim', 'asul', 'kayumanggi', 'kulay-abo', 'berde', 'kahel', 'lila', 'pula','puti', 'dilaw']
+
+
 
 """ 
     Affixes
@@ -107,7 +120,7 @@ PER_PRONOUN = [
     'kata', 'mo', 'kanila', 'kanya', 'namin', 'natin',
     'katang', 'mong', 'kanilang', 'kanyang', 'kaniyang',
     'ninyo', 'niya', 'kayoy', 'ikay', 'akoy', 'siyay', 'kamiy',
-    'ninyong', 'niyang', 'mare', 'pare', 'kumpare', 'kumare',
+    'ninyong', 'niyang', 'mare', 'pare', 'kumpare', 'kumare'
     'silay', 'inyoy', 'kanilay', 'kanyay', 'niyay',
     'tayo', 'ka'
 ]

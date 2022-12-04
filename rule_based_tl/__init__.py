@@ -114,6 +114,11 @@ def isVerb(word, prev_word, next_word, hasVerbAffixes, PREPO_SET, PER_PRONOUN, C
     isDone = False
     isVerb = False
     
+    if word in  dict_tl.verb_dict and not isDone:
+        """If word is in the verb dictionary and is not done, is a verb"""
+        isVerb = True
+        isDone = True
+    
     if word not in (PREPO_SET + PER_PRONOUN + CONJ_SET + ADV_SET):
         if prev_word not in (noun_dtmn_list + adv_dtmn_list + prepo_dtmn_list): 
             if next_word in (noun_dtmn_list): 
@@ -159,6 +164,21 @@ def isVerb(word, prev_word, next_word, hasVerbAffixes, PREPO_SET, PER_PRONOUN, C
                 if word[4] in vowels:
                     isVerb = False
                     isAdj = True
+                    isDone = True
+            if word.startswith("nag"):
+               isVerb = True
+               isDone = True
+            if word.startswith("mag"):
+               isVerb = True
+               isDone = True 
+               
+        if word[:3] in ("nag"):
+                if next_word in (PER_PRONOUN, "sa", "ni", "nang"):
+                    """
+                    if the first three characters of a word start with "mag", then it is a verb
+                    eg. nag-ayos ka
+                    """
+                    isVerb = True
                     isDone = True
 
         if not isDone:
@@ -474,6 +494,64 @@ def isAdj(word, prev_word, prev2_word, next_word, hasVerbAffixes, noun_dtmn_list
             """
             isAdj = True
             isDone = True
+            
+        if word in  lists_tl.adj_dict and not isDone:
+            """If word is in the adj dictionary and is not done, is a adj"""
+            isAdj = True
+            isDone = True
+            
+        if word[:3] in ("ika") and not isDone:
+            """If word starts with ika and is not done, is a adj"""
+            isAdj= True
+            isDone= True
+            
+        if word in lists_tl.adj_quantity_list and not isDone:
+            """
+            if the word is in the adj quantity list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True
+            
+        if word in lists_tl.adj_quality_list and not isDone:
+            """
+            if the word is in the adj quality list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True
+            
+        if word in lists_tl.adj_taste_list and not isDone:
+            """
+            if the word is in the adj taste list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True
+            
+        if word in lists_tl.adj_shape_list and not isDone:
+            """
+            if the word is in the adj shape list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True 
+              
+        if word in lists_tl.adj_size_list and not isDone:
+            """
+            if the word is in the adj size list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True
+             
+        if word in lists_tl.adj_color_list and not isDone:
+            """
+            if the word is in the adj color list, then it is an adjective
+       
+            """
+            isAdj = True
+            isDone = True
         
     return isAdj
 # end of function
@@ -543,17 +621,16 @@ def isAdv(word, prev_word, next_word, hasVerbAffixes, PER_PRONOUN, adv_time_list
                 isAdv = True
                 isDone = True
             
-        if next_word == 'ay' and not isDone: 
-            """
-            if the next word is "ay"
-            """   
-            if word.startswith('pa') and not isDone:
-                """
-                if ends with 'pa', then it is an adverb
-                eg. nang pasimula ay
-                """
-                isAdv = True
-                isDone = True
+        # if next_word == 'ay' and not isDone: 
+        #    """
+        #    """   
+        #     if word.startswith('pa') and not isDone:
+        #         """
+        #         if ends with 'pa', then it is an adverb
+        #         eg. nang pasimula ay
+        #         """
+        #         isAdv = True
+        #         isDone = True
         
     if word in adv_time_list and not isDone:
         """
