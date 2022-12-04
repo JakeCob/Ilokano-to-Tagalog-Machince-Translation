@@ -1,8 +1,7 @@
 import pandas as pd
 import string
 import re
-from rule_based_tl import dict_tl
-from rule_based_tl import lists_tl
+from rule_based_tl import dict_tl, lists_tl
 
 def remove_punct(pText):
     text_nopunct = "".join([char for char in pText if char not in string.punctuation])
@@ -495,7 +494,7 @@ def isAdj(word, prev_word, prev2_word, next_word, hasVerbAffixes, noun_dtmn_list
             isAdj = True
             isDone = True
             
-        if word in  lists_tl.adj_dict and not isDone:
+        if word in dict_tl.adj_dict and not isDone:
             """If word is in the adj dictionary and is not done, is a adj"""
             isAdj = True
             isDone = True

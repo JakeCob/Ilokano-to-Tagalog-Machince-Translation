@@ -1,3 +1,5 @@
+from rule_based_tl import dict_tl
+
 """
 Determiner Lists
 """

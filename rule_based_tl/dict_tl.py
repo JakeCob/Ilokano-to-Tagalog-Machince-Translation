@@ -6,6 +6,9 @@ verb_dict = pd.read_json('src/json data/verb_dict.json')
 # Adjective Dictionary
 adj_dict = pd.read_json('src/json data/adj_dict.json')
 
+# Tagalog to Ilokano Language Model Dictionary
+dict_tl_il_lm = pd.read_json('src/json data/Example-Based/Language Model/dict_tl_il_lang_mod.json')
+
 """"
     Tagalog to Ilokano Dictionaries
 """
@@ -58,3 +61,22 @@ pr_tfidf_tl_list = dict_pr['Tagalog Preposition TF-IDF'].tolist()
 pr_tfidf_il_list = dict_pr['Ilokano Preposition TF-IDF'].tolist()
 dt_tfidf_tl_list = dict_dt['Tagalog Determiner TF-IDF'].tolist()
 dt_tfidf_il_list = dict_dt['Ilokano Determiner TF-IDF'].tolist()
+
+"""
+    TF-IDF
+"""
+vb_tl_tf_idf_list = dict_vb['Tagalog Verb TF-IDF'].tolist()
+nn_tl_tf_idf_list = dict_nn['Tagalog Noun TF-IDF'].tolist()
+jj_tl_tf_idf_list = dict_jj['Tagalog Adjective TF-IDF'].tolist()
+rb_tl_tf_idf_list = dict_rb['Tagalog Adverb TF-IDF'].tolist()
+cc_tl_tf_idf_list = dict_cc['Tagalog Conjunction TF-IDF'].tolist()
+pr_tl_tf_idf_list = dict_pr['Tagalog Preposition TF-IDF'].tolist()
+dt_tl_tf_idf_list = dict_dt['Tagalog Determiner TF-IDF'].tolist()
+
+
+"""
+    Tagalog to Ilokano Language Model Dictionary
+"""
+tl_struct = dict_tl_il_lm['Tagalog Structure'].tolist()
+il_struct = dict_tl_il_lm['Ilokano Structure'].tolist()
+il_struct_count = dict_tl_il_lm['Ilokano Structure Count'].tolist()

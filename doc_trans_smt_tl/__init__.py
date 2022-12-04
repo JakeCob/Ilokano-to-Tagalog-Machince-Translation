@@ -1,4 +1,4 @@
-from rule_based_tl import dict_tl, remove_punct, tokenize, tag
+from rule_based_tl import dict_tl, lists_tl, remove_punct, tokenize, tag
 from doc_trans_tl import combine_tokens
 from smt import encapsulate, ngram_var
 import pandas as pd
@@ -377,4 +377,25 @@ def translate_smt(sen_poss_list, dict_source, vb_tl_tf_idf_list, nn_tl_tf_idf_li
         sen_translation_list.append(sen_translation)
     
     return sen_translation_list
+# end of function
+
+def smt_trans(source, expected_op):
+    parsed_source = source.split("\r\n")
+    cleaned_source = [remove_punct(word) for word in parsed_source]
+    toklenized_source = [tokenize(word) for word in cleaned_source]
+    dict_source = pd.DataFrame({'Tokenized': toklenized_source}) 
+    pos_sen_list = tag(dict_source['Tokenized'])
+    dict_source['POS'] = pos_sen_list
+    sen_translation_list = translate_smt(dict_source['POS'], dict_source, dict_tl.vb_tl_tf_idf_list, dict_tl.nn_tl_tf_idf_list, dict_tl.jj_tl_tf_idf_list, dict_tl.rb_tl_tf_idf_list, dict_tl.cc_tl_tf_idf_list, dict_tl.pr_tl_tf_idf_list, dict_tl.dt_tl_tf_idf_list, dict_tl.tl_struct, dict_tl.il_struct, dict_tl.il_struct_count)
+    temp_sen_list = combine_tokens(sen_translation_list)
+    # Dictionary of the system output and the expected output and their scores
+    dict_op_ex = pd.DataFrame({'System Output': temp_sen_list})
+    
+    parsed_expected_op = expected_op.split("\r\n")
+    cleaned_expected_op = [remove_punct(word) for word in parsed_expected_op]
+    toklenized_expected_op = [tokenize(word) for word in cleaned_expected_op]
+    combine_tokens_expected_op = combine_tokens(toklenized_expected_op)
+    dict_op_ex['Target Output'] = combine_tokens_expected_op
+    
+    return dict_op_ex
 # end of function
