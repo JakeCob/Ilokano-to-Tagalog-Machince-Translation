@@ -57,3 +57,17 @@ def smt_translator():
     
     return render_template('smt_translator.html', source = source , expected_op = expected_op, op_sen_list = op_sen_list, ave_bleu = ave_bleu, ave_ter = ave_ter)
 # end of function
+@views.route('/home')
+def landing_page():
+
+    return render_template('index.html')
+
+@views.route('/standard')
+def standard():
+
+    return render_template('translator.html')
+
+@views.route('/hybrid')
+def hybrid():
+
+    return render_template('smt_translator.html')
