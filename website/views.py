@@ -15,7 +15,7 @@ def home():
 # end of home()
 
 
-@views.route('/translator', methods=['GET', 'POST'])
+@views.route('/il_tag', methods=['GET', 'POST'])
 def translator():
     
     if request.method == 'POST':
@@ -33,11 +33,11 @@ def translator():
         ave_bleu = 0
         ave_ter = 0
     
-    return render_template('translator.html', source = source , expected_op = expected_op, op_sen_list = op_sen_list, ave_bleu = ave_bleu, ave_ter = ave_ter)
+    return render_template('il-tg_translator.html', source = source , expected_op = expected_op, op_sen_list = op_sen_list, ave_bleu = ave_bleu, ave_ter = ave_ter)
 # end of function
 
 
-@views.route('/smt_translator', methods=['GET', 'POST'])
+@views.route('/tag_il', methods=['GET', 'POST'])
 def smt_translator():
     
     if request.method == 'POST':
@@ -55,19 +55,19 @@ def smt_translator():
         ave_bleu = 0
         ave_ter = 0
     
-    return render_template('smt_translator.html', source = source , expected_op = expected_op, op_sen_list = op_sen_list, ave_bleu = ave_bleu, ave_ter = ave_ter)
+    return render_template('tg-il_translator.html', source = source , expected_op = expected_op, op_sen_list = op_sen_list, ave_bleu = ave_bleu, ave_ter = ave_ter)
 # end of function
 @views.route('/home')
 def landing_page():
 
     return render_template('index.html')
 
-@views.route('/standard')
+@views.route('/il_tag')
 def standard():
 
-    return render_template('translator.html')
+    return render_template('il-tg_translator.html')
 
-@views.route('/hybrid')
+@views.route('/tag_il')
 def hybrid():
 
-    return render_template('smt_translator.html')
+    return render_template('tg-il_translator.html')
