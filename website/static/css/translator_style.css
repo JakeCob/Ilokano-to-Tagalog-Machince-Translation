@@ -10,14 +10,8 @@
   margin-right: 7%;
 }
 
-h1 {
-  position: relative;
-
-  left: 10%;
-}
-
 .mr-1 {
-  margin-right: 10%;
+    margin-right: 10%
 }
 
 .mr-1 {
@@ -34,12 +28,12 @@ h1 {
 }
 
 .mt-01 {
-  margin-top: 10%;
+    margin-top: 10%;
 }
 
 /* Header */
 #header {
-  background-color: #3b271d;
+  background-color: #3B271D;
 }
 
 /*Main Content*/
@@ -47,16 +41,32 @@ form {
   background-color: #fff;
 }
 
+i {
+    font-size: 35px;
+    background-color: #3B271D;
+    background-clip: border-box;
+    border-radius: .5rem;
+    border-width: .2rem;
+    border: 0;
+    margin-top: 10px;
+}
+
+.bi {
+    color: #f5b717;
+    padding: 7px;
+}
+
 .card {
   position: relative;
   display: flex;
-  width: 600px;
+  width: 570px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border-radius: 0.5rem;
-  border-width: 0.2rem;
+  border-radius: .5rem;
+  border-width: .2rem;
   border: 0;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);hsla(0, 0%, 0%, 0.2);
 }
 
 #card-header {
@@ -71,9 +81,8 @@ form {
 }
 
 .buttons {
-  display: flex;
-  position: relative;
-  justify-content: flex-end;
+    display:flex;
+    justify-content: flex-end;
 }
 
 .btn-group {
@@ -81,7 +90,7 @@ form {
   margin: 0 auto;
 }
 
-.btn-group button {
+.btn-group button{
   background: #3b271d;
   border: 0;
   padding: 12px 34px;
@@ -90,9 +99,9 @@ form {
   border-radius: 50px;
 }
 
-.btn-group button:hover {
+.btn-group button:hover{
   background: #efe0bb;
-  color: #3b271d;
+  color: #3b271d
 }
 
 /* Non-Bootstrap */
@@ -113,18 +122,13 @@ textarea {
   justify-content: space-around;
   padding: 1em 0;
   text-align: left;
-  border-radius: 0.5rem;
-  border-width: 0.2rem;
+  border-radius: .5rem;
+  border-width: .2rem;
   border: 0;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);hsla(0, 0%, 0%, 0.2);
 }
 
 .footer {
   position: relative;
   top: 10%;
-}
-
-.logo-me {
-  position: relative;
-  max-width: 100%;
-  right: 100%;
 }
