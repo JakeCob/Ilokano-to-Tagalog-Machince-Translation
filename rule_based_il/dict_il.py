@@ -14,14 +14,14 @@ dict_tl_il_lm = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/Lan
 """
 
 # Single Words Dictionary
-dict_sw = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_sw.json')
-dict_vb = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_vb.json')
-dict_nn = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_nn.json')
-dict_jj = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_jj.json')
-dict_rb = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_rb.json')
-dict_cc = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_cc.json')
-dict_pr = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_pr.json')
-dict_dt = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_dt.json')
+dict_sw = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_sw.json')
+dict_vb = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_vb.json')
+dict_nn = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_nn.json')
+dict_jj = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_jj.json')
+dict_rb = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_rb.json')
+dict_cc = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_cc.json')
+dict_pr = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_pr.json')
+dict_dt = pd.read_json('src/json data/Ilokano to Tagalog/Example-Based/dict_il_dt.json')
 
 """
     Putting the columns in a list
