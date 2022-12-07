@@ -1,0 +1,401 @@
+Reference: genesis
+Machine Translation: genesis
+BLEU Score: 1.0
+
+Reference: nilalang ng dios ang sanglibutan
+Machine Translation: ang kaniyang ang dios na namarsua
+BLEU Score: 0.4579670370130186
+
+Reference: nang pasimula ay nilikha ng dios ang langit at ang lupa
+Machine Translation: nang punganay ang dios pinarsuana ang langit sa ang lupain
+BLEU Score: 0.5769898278147001
+
+Reference: at ang lupa ay walang anyo at walang laman at ang kadiliman ay sumasa ibabaw ng kalaliman at ang espiritu ng dios ay sumasa ibabaw ng tubig
+Machine Translation: at ang lupain adda nang na gosogoso sa jacob tumayo at ang kadiliman addada nang sa rabao ang yuyeng at ang espiritu ang dios nagtignay sa rabao ang tubig
+BLEU Score: 0.5356746578019917
+
+Reference: at sinabi ng dios magkaroon ng liwanag at nagkaroon ng liwanag 
+Machine Translation: at ang dios kinunana adda ang liwanag at nagkaroon ang liwanag 
+BLEU Score: 0.6838583259722273
+
+Reference: at nakita ng dios ang liwanag na mabuti at inihiwalay ng dios ang liwanag sa kadiliman
+Machine Translation: at ang dios nakakita na ang liwanag naimbag at inihiwalay ang dios ang liwanag sa kadiliman
+BLEU Score: 0.8227406175513935
+
+Reference: at tinawag ng dios ang liwanag na araw at tinawag niya ang kadiliman na gabi at nagkahapon at nagkaumaga ang unang araw 
+Machine Translation: at ang dios tinawag ang liwanag aldaw at ang kadiliman lupain ang gabi at nagkahapon ang hapon sa ang kinaumagahan maysa na aldaw 
+BLEU Score: 0.6572707414911699
+
+Reference: at sinabi ng dios magkaroon ng isang kalawakan sa gitna ng tubig at mahiwalay ang tubig sa kapuwa tubig 
+Machine Translation: at ang dios kinunana adda ang isa na tangatang sa gabi ang tubig na tubig ang tubig sa tubig 
+BLEU Score: 0.5240856746548013
+
+Reference: at ginawa ng dios ang kalawakan at inihiwalay ang tubig na nasa ilalim ng kalawakan sa tubig na nasa itaas ng kalawakan at nagkagayon
+Machine Translation: at ang dios ginawa ang tangatang at inihiwalay ang tubig na adda sa lupa ang tangatang sa tubig na adda sa ibabaw ang tangatang at nangyari na gayoy
+BLEU Score: 0.5166782578707354
+
+Reference: at tinawag ng dios ang kalawakan na langit at nagkahapon at nagkaumaga ang ikalawang araw
+Machine Translation: at ang dios tinawag ang tangatang langit at nagkahapon ang hapon sa ang kinaumagahan aldaw na maicadua
+BLEU Score: 0.5884563704288808
+
+Reference: at sinabi ng dios mapisan ang tubig na nasa silong ng langit sa isang dako at lumitaw ang katuyuan at nagkagayon
+Machine Translation: at ang dios kinunana mapisan ang ang tubig na adda sa lupa ang langit sa isa na dako at gaya ang ang lupain na namaga at nangyari na gayoy
+BLEU Score: 0.5460537236162869
+
+Reference: at tinawag ng dios ang katuyuan na lupa at ang kapisanan ng tubig ay tinawag niyang mga dagat at nakita ng dios na mabuti
+Machine Translation: at ang dios lupain ang namaga daga at ang nacatiponan ang tubig lupain tataaw at ang dios nakakita na nasayaatda
+BLEU Score: 0.5653494609392679
+
+Reference: at sinabi ng dios sibulan ang lupa ng damo pananim na nagkakabinhi at punong kahoy na namumunga ayon sa kaniyang pagkakahoy na taglay ang kaniyang binhi sa ibabaw ng lupa at nagkagayon
+Machine Translation: at ang dios kinunana patuboen ang ang lupain ang damo mulmula na adda bukelda sa kahoy na agbunga na ang pagkakahoy adda kanila at sa casisigudda sa ibabaw ang lupain at nangyari na gayoy
+BLEU Score: 0.5821430587400857
+
+Reference: at ang lupa ay sinibulan ng damo pananim na nagkakabinhi ayon sa kaniyang pagkapananim at ng punong kahoy na namumunga na taglay ang kaniyang binhi ayon sa kaniyang pagkakahoy at nakita ng dios na mabuti
+Machine Translation: at pinataud ang lupain ang damo mulmula na addaan bukel na makapito sa casisigudda sa kahoy na agbunga na ang kaniyang nagkaroon kanila at ang casisigudda at ang dios nakakita na nasayaatda
+BLEU Score: 0.5305697399908481
+
+Reference: at nagkahapon at nagkaumaga ang ikatlong araw
+Machine Translation: at nagkahapon ang hapon sa ang kinaumagahan aldaw na maicatlo
+BLEU Score: 0.47951127475296634
+
+Reference: at sinabi ng dios magkaroon ng mga tanglaw sa kalawakan ng langit upang maghiwalay ng araw sa gabi at maging pinakatanda at pinakabahagi ng panahon ng mga araw at ng mga taon
+Machine Translation: at ang dios kinunana adda ang ang kalawakan sa tangatang ang langit upang aglasin ang araw sa ang gabi at maipaayda ang na at pagilaslasinan sa panpanawen alaldaw sa taon
+BLEU Score: 0.5498293647148667
+
+Reference: at maging pinakatanglaw sa kalawakan ng langit upang tumanglaw sa ibabaw ng lupa at nagkagayon
+Machine Translation: at maipaayda ang na kalawakan sa tangatang ang langit na manglawag sa lupain at nangyari na gayoy
+BLEU Score: 0.5623411223160354
+
+Reference: at nilikha ng dios ang dalawang malaking tanglaw ang malaking tanglaw ay upang magpuno sa araw at ang maliit na tanglaw ay upang magpuno sa gabi nilikha rin niya ang mga bituin
+Machine Translation: at ang dios ginawa ang dalawa na kalawakan na dadackel ang ilawan na panginoon upang magpuno sa araw at ang ilawan na basbassit upang magpuno sa gabi ginawa met ang bituin
+BLEU Score: 0.5926871755192443
+
+Reference: at mga inilagay ng dios sa kalawakan ng langit upang tumanglaw sa ibabaw ng lupa
+Machine Translation: at ang dios ipinatong sila sa tangatang ang langit upang tumanglaw ang ibabaw ang lupain
+BLEU Score: 0.6017749846741761
+
+Reference: at upang magpuno sa araw at sa gabi at upang maghiwalay ng liwanag sa kadiliman at nakita ng dios na mabuti
+Machine Translation: sa upang magpuno sa araw sa sa gabi sa upang aglasin ang liwanag sa kadiliman at ang dios nakakita na nasayaatda
+BLEU Score: 0.725778553568417
+
+Reference: at nagkahapon at nagkaumaga ang ikaapat na araw
+Machine Translation: at nagkahapon ang hapon sa ang kinaumagahan aldaw na maicapat
+BLEU Score: 0.49067494506885834
+
+Reference: at sinabi ng dios bukalan ng sagana ang tubig ng mga gumagalaw na kinapal na may buhay at magsilipad ang mga ibon sa itaas ng lupa sa luwal na kalawakan ng himpapawid
+Machine Translation: at ang dios kinunana bukalan ang sa tubig ang may na may sa agtayab ang ibon sa ngato ang lupain sa tangatang ang langit
+BLEU Score: 0.4046094213658033
+
+Reference: at nilikha ng dios ang malalaking hayop sa dagat at ang bawat may buhay na kinapal na gumagalaw na ibinukal na sagana ng tubig ayon sa kanikaniyang uri at ang lahat na may pakpak na ibon ayon sa kanikaniyang uri at nakita ng dios na mabuti
+Machine Translation: at ang dios pinarsuana ang dadackel na animal ang dagat sa isuamin na kita na may na nabubuhay na nagpangenda at ang casisigudda sa tubig sa amin na ibon na nagpayac at sa casisigudda at ang dios nakakita na nasayaatda
+BLEU Score: 0.5008169307935321
+
+Reference: at mga binasbasan ng dios na sinabi kayoy magpalaanakin at magpakarami at inyong punuin ang tubig sa mga dagat at magpakarami ang mga ibon sa lupa
+Machine Translation: at ang dios binasbasan sila na panginoon magpalaanakin ang at agaducayo at punuin ang tubig ang dagat at ang ibon magpakarami ang sa lupain
+BLEU Score: 0.687385533096407
+
+Reference: at nagkahapon at nagkaumaga ang ikalimang araw
+Machine Translation: at nagkahapon ang hapon sa ang kinaumagahan aldaw na maicalima
+BLEU Score: 0.49950967187822487
+
+Reference: at sinabi ng dios bukalan ang lupa ng mga may buhay na kinapal ayon sa kanikaniyang uri ng hayop at ng mga kinapal na umuusad at ng mga ganid sa lupa ayon sa kanikaniyang uri at nagkagayon
+Machine Translation: at ang dios kinunana patauden ang ang lupain ang may na may at sa cakikitada ananimal sa agcarcarayam sa ganid sa lupain at sa cakikitada at nangyari na gayoy
+BLEU Score: 0.4350252633166825
+
+Reference: at nilikha ng dios ang ganid sa lupa ayon sa kaniyang uri at ang hayop ayon sa kaniyang uri at ang bawat umuusad sa ibabaw ng lupa ayon sa kanikaniyang uri at nakita ng dios na mabuti
+Machine Translation: at ang dios ginawa ang ganid sa lupain at sa casisigudda sa ananimal at sa cakikitada sa isuamin na aguyuyas sa lupain at sa casisigudda at ang dios nakakita na nasayaatda
+BLEU Score: 0.46447759419985435
+
+Reference: at sinabi ng dios lalangin natin ang tao sa ating larawan ayon sa ating wangis at magkaroon sila ng kapangyarihan sa mga isda sa dagat at sa mga ibon sa himpapawid at sa mga hayop at sa buong lupa at sa bawat umuusad na nagsisiusad sa ibabaw ng lupa 
+Machine Translation: at ang dios kinunana susunugin ang ang tao sa ating at caaspingtayo at iturayanda ang ang icican ang dagat sa ang ibon sa langit sa ang ananimal sa ang amin na lupain sa ang amin na agcarcarayam na aguyuyas sa ibabaw ang lupain 
+BLEU Score: 0.46532393247128273
+
+Reference: at nilalang ng dios ang tao ayon sa kaniyang sariling larawan ayon sa larawan ng dios siya nilalang nilalang niya sila na lalake at babae
+Machine Translation: at ang dios pinarsuana ang tao na kaniyang met at sa terap ang dios pinarsuana pinarsuana sila na lalake sa babae
+BLEU Score: 0.4828090210829638
+
+Reference: at silay binasbasan ng dios at sa kanilay sinabi ng dios kayoy magpalaanakin at magpakarami at kalatan ninyo ang lupa at inyong supilin at magkaroon kayo ng kapangyarihan sa mga isda sa dagat at sa mga ibon sa himpapawid at sa bawat hayop na gumagalaw sa ibabaw ng lupa 
+Machine Translation: at ang dios binasbasan sila at ang dios sinabi kanila agbungacayo at agaducayo at punuin ang lupain agbalincayo na appo kaniya at iturayanyo ang ican ang dagat sa ang ibon sa langit sa amin na parsua na panginoon na nabubuhay sa ibabaw ang lupain 
+BLEU Score: 0.5192307348648437
+
+Reference: at sinabi ng dios narito ibinigay ko sa inyo ang bawat pananim na nagkakabinhi na nasa ibabaw ng balat ng lupa at ang bawat punong kahoy na may bunga ng punong kahoy na nagkakabinhi sa inyoy magiging pagkain
+Machine Translation: at ang dios kinunana adtoy iniccancayo sa isuamin na takba na addan bukel na adda sa ibabaw ang amin na lupain sa isuamin na kahoy na addaan bunga na agpataud ang damit maipaaydanto na pagkain
+BLEU Score: 0.43107843707540155
+
+Reference: at sa bawat hayop sa lupa at sa bawat ibon sa himpapawid at sa bawat nagsisiusad sa ibabaw ng lupa na may buhay ay ibinigay ko ang lahat na pananim na sariwa na pinakapagkain at nagkagayon
+Machine Translation: sa sa isuamin na ananimal sa lupain sa amin na ibon sa langit sa amin na nabubuhay sa ibabaw ang lupain na addaan biag sino ang kanila na harap ang amin na nalasbang na damo at nangyari na gayoy
+BLEU Score: 0.46310776259644476
+
+Reference: at nakita ng dios ang lahat ng kaniyang nilikha at narito napakabuti at nagkahapon at nagkaumaga ang ikaanim na araw
+Machine Translation: at ang dios nakitana amin na inaramidna at adtoy nasayaatda unay at nagkahapon ang hapon sa ang kinaumagahan aldaw na maicanem
+BLEU Score: 0.48766800185861425
+
+Reference: nilalang ang lalake at inilagay sa eden nilalang ang babae mula sa lalake 
+Machine Translation: maaramid ang tao at maisaad doon eden maala ang babae sa tao 
+BLEU Score: 0.3566352555754474
+
+Reference: at nayari ang langit at ang lupa at ang lahat na natatanaw sa mga iyon
+Machine Translation: at nayari ang langit sa ang lupain sa amin na orornosna
+BLEU Score: 0.4923133759839472
+
+Reference: at nang ikapitong araw ay nayari ng dios ang kaniyang gawang ginawa at nagpahinga ng ikapitong araw sa madlang gawa niyang ginawa 
+Machine Translation: at sa maicapito na aldaw ang dios niyari ang kaniyang na inaramidna at nagpahinga sa maicapito na aldaw sa isuamin na kaniyang na inaramidna 
+BLEU Score: 0.5307292916732053
+
+Reference: at binasbasan ng dios ang ikapitong araw at kaniyang ipinangilin sapagkat siyang ipinagpahinga ng dios sa madlang gawang kaniyang nilikha at ginawa
+Machine Translation: at binasbasan ang dios ang araw na maicapito at sinantificarna at at kaniya ang naginanaanna sa amin na kaniyang na ang dios pinarsuana sa kaniyang 
+BLEU Score: 0.6054307863108809
+
+Reference: ito ang pinangyarihan ng langit at ng lupa nang likhain noong araw na gawin ng panginoong dios ang lupat langit 
+Machine Translation: dagitoy nagsihandog ang capupunganay ang langit sa ang lupain nang na naparsuada sa araw na kaniyang si panginoon na dios ang lupain sa ang langit 
+BLEU Score: 0.5153294931082735
+
+Reference: at wala pa sa lupang kahoy sa parang at wala pang anomang pananim na tumutubo sa parang sapagkat hindi pa pinauulanan ng panginoong dios ang lupa at wala pang taong magbukid ng lupa 
+Machine Translation: at nang awan pa la ang mula ang langalang sa lupain at awan pa ang takba na sapagkat at di pa pinagtudo si panginoon dios sa ibabaw ang lupain sa jacob pa la nang ang tao na mangtalon sa lupain 
+BLEU Score: 0.5586897051927392
+
+Reference: ngunit may isang ulap na napaitaas buhat sa lupa at dinilig ang buong ibabaw ng lupa 
+Machine Translation: ngunit napaiitaas ang isa na angep na nangagmula sa lupain at binisibisanna ang amin na ibabaw ang lupain 
+BLEU Score: 0.5119118732656465
+
+Reference: at nilalang ng panginoong dios ang tao sa alabok ng lupa at hiningahan ang kaniyang mga butas ng ilong ng hininga ng buhay at ang tao ay naging kaluluwang may buhay 
+Machine Translation: at si panginoon dios binukelna ang tao sa alabok ang lupain at hiningahan sa kaniyang ang anges ang ka at ang tao naging na kaluluwa na panginoon 
+BLEU Score: 0.6190551197886915
+
+Reference: at naglagay ang panginoong dios ng isang halamanan sa eden sa dakong silanganan at inilagay niya roon ang taong kaniyang nilalang
+Machine Translation: at si panginoon dios inilagay sa isa na halamanan sa silanganan sa eden at insaadna sa ang tao na kaniyang
+BLEU Score: 0.6015337629316204
+
+Reference: at pinatubo ng panginoong dios sa lupa ang lahat na punong kahoy na nakalulugod sa paningin at mabubuting kanin gayon din ang punong kahoy ng buhay sa gitna ng halamanan at ang punong kahoy ng pagkakilala ng mabuti at masama
+Machine Translation: at si panginoon dios pinatubona sa lupain amin na kahoy na nacaayayo na ako sa mabuti na pagkain casta met ang kahoy ang ka sa gabi ang halamanan sa ang kahoy ang pagkakilala ang kaawaan sa ang masama
+BLEU Score: 0.5918773398493781
+
+Reference: at may isang ilog na lumabas sa eden na dumilig sa halamanan at mula rooy nabahagi at nagapat na sanga
+Machine Translation: at umagos sa eden ang isa na ilog na mangsibug sa halamanan at nanipud sa nagcappat ang ayusna
+BLEU Score: 0.5610936669322981
+
+Reference: ang pangalan ng una ay pison na siyang lumiligid sa buong lupain ng havilah na dooy may ginto
+Machine Translation: ang ina ang pinaka pishon ito kaniyang ang siyang sa amin ang lupain ang havila isa na anak ang ginto
+BLEU Score: 0.46694444302539756
+
+Reference: at ang ginto sa lupang yaoy mabuti mayroon din naman doong bedelio at batong onix
+Machine Translation: at ang ginto sa kaniyang na lupain nasayaat adda sa ang bedelio na bdelio sa onix
+BLEU Score: 0.533656001750459
+
+Reference: at ang pangalan ng ikalawang ilog ay gihon na siyang lumiligid sa buong lupain ng cush
+Machine Translation: ang ina ang maicadua na ilog gijon daytoy ang siyang sa amin na lupain ang cush
+BLEU Score: 0.5084221074305809
+
+Reference: at ang pangalan ng ikatlong ilog ay hiddecel na siyang umaagos sa tapat ng asiria at ang ikaapat na ilog ay ang eufrates
+Machine Translation: at ang ina ang maicatlo na ilog hiddekel daytoy ang agturong sa tapat ang lupain na assiria at ang maicappat na ilog kaniyang ang eufrates
+BLEU Score: 0.6044814509822247
+
+Reference: at kinuha ng panginoong dios ang lalake at inilagay sa halamanan ng eden upang kaniyang alagaan at ingatan
+Machine Translation: at si panginoon dios kinuha ang tao at ipinatong sa halamanan sa eden upang talonenna sa aywananna
+BLEU Score: 0.5563482554295591
+
+Reference: at iniutos ng panginoong dios sa lalake na sinabi sa lahat ng punong kahoy sa halamanan ay makakakain ka na may kalayaan
+Machine Translation: at si panginoon dios imbilinna nang tao na panginoon sa amin na kahoy sa halamanan kakain na makakakain
+BLEU Score: 0.5372227443939549
+
+Reference: datapuwat sa kahoy ng pagkakilala ng mabuti at masama ay huwag kang kakain sapagkat sa araw na ikaw ay kumain niyaon ay walang pagsalang mamamatay ka
+Machine Translation: ngunit ang pinagbilhan sa kahoy ang pagkakilala ang kaawaan sa ang masama manata na pagkain at sa araw na kumain sa kaniyang mamamatay na kaniyang bumurong
+BLEU Score: 0.6316070197549349
+
+Reference: at sinabi ng panginoong dios hindi mabuti na ang lalake ay magisa siyay ilalalang ko ng isang katulong niya
+Machine Translation: at si panginoon dios kinunana hindi na bahay na kasama ang tao yaramidacto ang ko na pamamaga kaniya
+BLEU Score: 0.44699371904969043
+
+Reference: at nilalang ng panginoong dios sa lupa ang lahat ng hayop sa parang at ang lahat ng ibon sa himpapawid at pinagdadala sa lalake upang maalaman kung anong itatawag niya sa mga iyon at ang bawat itinawag ng lalake sa bawat kinapal na may buhay ay yaon ang naging pangalan niyaon
+Machine Translation: si panginoon dios binukelna sa lupain amin na ananimal sa lupain sa amin na ibon sa langit at dinala sila sa tao upang makitana at paanong ang panangpanaganna kanila at at ang pinangnagan ang tao sa amin na may na panginoon hinabol kaniyang ang naganna
+BLEU Score: 0.5027304200651694
+
+Reference: at pinanganlan ng lalake ang lahat ng mga hayop at ang mga ibon sa himpapawid at ang bawat ganid sa parang datapuwat sa lalake ay walang nasumpungang maging katulong niya
+Machine Translation: at pinanganlan ang lalake amin na animal na naamo sa ibon sa langit sa ang amin na hayop sa ka ngunit ang tao hindi na nacasarac ang catulongan na pamamaga kaniya
+BLEU Score: 0.5232643153149612
+
+Reference: at hinulugan ng panginoong dios ng di kawasang himbing ang lalake at siyay natulog at kinuha ang isa sa kaniyang mga tadyang at pinapaghilom ang laman sa dakong yaon
+Machine Translation: at si panginoon dios immapayna ang nargaan na lupa sa tao at nacaturog at kinuha ang isa sa kaniyang at ang nangalaanna rinipcanna ang laman
+BLEU Score: 0.5278395268692058
+
+Reference: at ang tadyang na kinuha ng panginoong dios sa lalake ay ginawang isang babae at itoy dinala niya sa lalake 
+Machine Translation: at ang paragpag na dinala si panginoon dios pinagbalinna na babae at dinala sa tao
+BLEU Score: 0.4439278478564249
+
+Reference: at sinabi ng lalake ito ngay buto ng aking mga buto at laman ng aking laman siyay tatawaging babae sapagkat sa lalake siya kinuha
+Machine Translation: at di tao kinunana daytoy ngayon kaniyang ang tulang ang aking sa laman ang laman kaniyang mapanagananto anak at sa tao ang nacaalaanna
+BLEU Score: 0.4265465734808241
+
+Reference: kayat iiwan ng lalake ang kaniyang ama at ang kaniyang ina at makikipisan sa kaniyang asawa at silay magiging isang laman
+Machine Translation: kaya ang lalake panawannanto ang kaniyang sa ang kaniyang at tumiponto sa kaniyang at mangungulila na kaniyang na laman
+BLEU Score: 0.6072469837802256
+
+Reference: at silay kapuwa hubad ang lalake at ang kaniyang asawa at silay hindi nagkakahiyaan
+Machine Translation: at nagsihandog na dalawa ang lalake sa ang kaniyang silamolamoda nang at dida nagbain
+BLEU Score: 0.5027179864336534
+
+Reference: ang tukso at ang pagsuway ni adam at ni eva
+Machine Translation: ang tukso sa supring moises naging sa kaniyang
+BLEU Score: 0.31168085119895
+
+Reference: ang ahas nga ay lalong tuso kay sa alin man sa mga hayop sa parang na nilikha ng panginoong dios
+Machine Translation: ang ahas doon eden
+BLEU Score: 0.007686037758582946
+
+Reference: at sinabi niya sa babae tunay bang sinabi ng dios huwag kayong kakain sa alin mang punong kahoy sa halamanan
+Machine Translation: itan ang ahas kaniyang nang na casisicapan sa amin na animal sa lupain na ginawa si panginoon dios
+BLEU Score: 0.3077270721599181
+
+Reference: at sinabi ng babae sa ahas sa bunga ng mga punong kahoy sa halamanan ay makakakain kami
+Machine Translation: at kaniyang sinabi sa babae pudno aya na hari ang dios saancay na taga sa amin na kahoy sa halamanan
+BLEU Score: 0.5181080122946985
+
+Reference: datapuwat sa bunga ng punong kahoy na nasa gitna ng halamanan ay sinabi ng dios huwag kayong kakain niyaon ni huwag ninyong hihipuin baka kayoy mamatay
+Machine Translation: at ang babae sinabi sa ahas sa bunga ang kahoy sa halamanan sinabi na dios
+BLEU Score: 0.22670606643602687
+
+Reference: at sinabi ng ahas sa babae tunay na hindi kayo mamamatay
+Machine Translation: ngunit sa bunga ang kahoy na adda sa gabi ang halamanan sinabi ang dios dicayto hindi sa kahit sagiden di la at at mataycayo
+BLEU Score: 0.2583090113610106
+
+Reference: sapagkat talastas ng dios na sa araw na kayoy kumain niyaon ay madidilat nga ang inyong mga mata at kayoy magiging parang dios na nakakakilala ng mabuti at masama
+Machine Translation: at ang ahas sinabi sa babae hindi na tunay na mataycayonto
+BLEU Score: 0.06713805563499745
+
+Reference: at nang makita ng babae na ang bunga ng punong kahoy ay mabuting kanin at nakalulugod sa mga mata at kahoy na mananasa upang magpapantas sa tao ay pumitas siya ng bunga niyaon at kinain at binigyan din niya ang kaniyang asawang kasama niya at itoy kumain
+Machine Translation: at ang dios ammona na sa araw na pananganyo sa monumento ang inyong maluctandanto at nakalulugod sa dios na kanilang ang mabuti sa ang masama
+BLEU Score: 0.2586061016038987
+
+Reference: at nadilat kapuwa ang kanilang mga mata at kanilang nakilalang silay mga hubad at silay tumahi ng mga dahon ng puno ng igos at kanilang ginawang panapi
+Machine Translation: at nang ang babae nakitana na ang kahoy mabuti na pagkain sa hubad na buyaen sa kahoy na macagargari na mamagsirib pimmuros sa bunga at nangan casta met nagbigay si kaniyang at kaniyang nakipagcaan met 
+BLEU Score: 0.338769545532274
+
+Reference: at narinig nila ang tinig ng panginoong dios na lumalakad sa halamanan sa kulimlim ng araw at nagtago ang lalake at ang kaniyang asawa sa harapan ng panginoong dios sa pagitan ng mga punong kahoy sa halamanan 
+Machine Translation: at ang matmatada na dalawa naluctanda at naammoanda na silalamolamoda idin nagdaitda sa bulong ang igos at ginawa na lalake
+BLEU Score: 0.22916746752967185
+
+Reference: at tinawag ng panginoong dios ang lalake at sa kaniyay sinabi saan ka naroon
+Machine Translation: at tinawag ang tinig si panginoon dios na magmagna sa halamanan sa ka ang araw at nagtago ang lalake sa ang kaniyang sa cacaycayoan sa halamanan sa imatang si panginoon dios 
+BLEU Score: 0.32142375837690146
+
+Reference: at sinabi niya narinig ko ang iyong tinig sa halamanan at akoy natakot sapagkat akoy hubad at akoy nagtago
+Machine Translation: at sinabi si panginoon dios ang lalake at sinabi kaniya saan ang paa sica
+BLEU Score: 0.2613707633040766
+
+Reference: at sinabi niya sinong nagsabi sa iyong ikaw ay hubad
+Machine Translation: at kaniyang kinunana narinig ang tinig sa halamanan at salita at silalamolamoac at naglemmengac
+BLEU Score: 0.17100713217398797
+
+Reference: nakakain ka ba ng bunga ng punong kahoy na iniutos ko sa iyong huwag mong kanin
+Machine Translation: at sinabi kaniya siasino aya ang inyo kenca na silalamolamoca
+BLEU Score: 0.15966228341548863
+
+Reference: at sinabi ng lalake ang babaing ibinigay mong aking kasamahin ay siyang nagbigay sa akin ng bunga ng punong kahoy at aking kinain
+Machine Translation: kakain sa kahoy na imbilinco kenca na mo canen
+BLEU Score: 0.05975165000368833
+
+Reference: at sinabi ng panginoong dios sa babae ano itong iyong ginawa
+Machine Translation: at ang lalake sinabi ang babae na iyong na akin nagbigay sa bunga at kinnanco
+BLEU Score: 0.3776978122550982
+
+Reference: at sinabi ng babae dinaya ako ng ahas at akoy kumain
+Machine Translation: nagising si panginoon dios sinabi sa babae ania daytoy na inaramidmo
+BLEU Score: 0.30711579722760857
+
+Reference: at sinabi ng panginoong dios sa ahas sapagkat ginawa mo ito ay sumpain ka ng higit sa lahat ng hayop at ng higit sa bawat ganid sa parang ang iyong tiyan ang ilalakad mo at alabok ang iyong kakanin sa lahat ng mga araw ng iyong buhay
+Machine Translation: at ang babae sinabi ang ahas inulbodnac at nanganac
+BLEU Score: 0.016958472180625628
+
+Reference: at papagaalitin ko ikaw at ang babae at ang iyong binhi at ang kaniyang binhi ito ang dudurog ng iyong ulo at ikaw ang dudurog ng kaniyang sakong
+Machine Translation: at si panginoon dios kinunana nang uleg dahil at inaramidmo daytoy sinumpa na nangnangrona ngunit sa isuamin na animal na naamo sa hayop na hayop sa lupain at barucongmo ang ipagnamto at ang alabok ang canemto sa isuamin na aldaw ang lupain 
+BLEU Score: 0.2430559976877073
+
+Reference: sinabi niya sa babae pararamihin kong lubha ang iyong kalumbayan at ang iyong paglilihi manganganak kang may kahirapan at sa iyong asawa ay pahihinuhod ang iyong kalooban at siyay papapanginoon sa iyo
+Machine Translation: at siac pararamihin sa babae sa ang lipi sa ang siya daytoy sugatennanto at olom at sica sugatemto ang mucodna
+BLEU Score: 0.23827175155640404
+
+Reference: at kay adam ay sinabi sapagkat iyong dininig ang tinig ng iyong asawa at kumain ka ng bunga ng punong kahoy na aking iniutos sa iyo na sinabi huwag kang kakain niyaon sumpain ang lupa dahil sa iyo kakain ka sa kaniya sa pamamagitan ng iyong pagpapagal sa lahat ng mga araw ng iyong buhay
+Machine Translation: at nang babai kinunana paaduecto unay ang ututmo sa ang panagsicugmo sa nanghihina na panginoon ipasngaymonto ang anak at sa aking magiging ang kalooban at kaniyang iturayannacanto
+BLEU Score: 0.2497041830964042
+
+Reference: ang isisibol niyaon sa iyo ay mga tinik at mga dawag at kakain ka ng pananim sa parang
+Machine Translation: at sa tao kinunana dahil at inanamungam ang panginoon si aking at kakain sa kahoy na inbilinco kenca na aking dica malinis sa kaniyang nailunod ang lupain dahil kenca babaen ang panginoon kakain kaniya sa isuamin na aldaw ang lupain 
+BLEU Score: 0.20794832419024134
+
+Reference: sa pawis ng iyong mukha ay kakain ka ng tinapay hanggang sa ikaw ay mauwi sa lupa sapagkat diyan ka kinuha sapagkat ikaw ay alabok at sa alabok ka uuwi
+Machine Translation: sisiit met sa calcalunay pataudennanto kenca at kakain sa natnateng ang lupain
+BLEU Score: 0.15429300766858683
+
+Reference: at tinawag na eva ng lalake ang kaniyang asawa sapagkat siya ang naging ina ng lahat ng mga nabubuhay
+Machine Translation: babaen ang linget at rupam kakain ang pagkain agingat dica nagbalik sa lupain kaniyang na nacabuclam at tapucca at sa alabok agsublicanto
+BLEU Score: 0.35388022374328354
+
+Reference: at iginawa ng panginoong dios si adam at ang kaniyang asawa ng mga kasuutang balat at silay dinamitan
+Machine Translation: at pinanaganan di lalake si kaniyang sa kaniyang dahil at kaniyang ang ina ang isuamin na may
+BLEU Score: 0.38685398028556384
+
+Reference: pinalayas sila sa eden
+Machine Translation: at si panginoon dios iginawa si tao sa si kaniyang sa siyay na balat at sinuutan sila
+BLEU Score: 0.11032795922967609
+
+Reference: at sinabi ng panginoong dios naritot ang taoy naging parang isa sa atin na nakakakilala ng mabuti at ng masama at baka ngayoy iunat ang kaniyang kamay at pumitas naman ng bunga ng punong kahoy ng buhay at kumain at mabuhay magpakailan man
+Machine Translation: at si panginoon dios kinunana adtoy ang lalake naging na at maysa cadatayo na ammona ang mabuti sa ang masama at ngayon di la at at igawatna ang kaniyang sa kaniyang sa kahoy ang ka sa taga sa siyay na handog
+BLEU Score: 0.5039615317260544
+
+Reference: kaya pinalayas siya ng panginoong dios sa halamanan ng eden upang kaniyang bukirin ang lupaing pinagkunan sa kaniya
+Machine Translation: sa gayoy si panginoon dios pinaruarna sa halamanan ang eden upang talonenna ang lupain na nacaalaanna
+BLEU Score: 0.5542131468575392
+
+Reference: ano pat itinaboy ang lalake at inilagay sa silanganan ng halamanan ng eden ang mga querubin at ang isang nagniningas na tabak na umiikot upang ingatan ang daang patungo sa kahoy ng buhay
+Machine Translation: at inalis ang tao at ipinatong sa silanganan ang halamanan ang eden ang querubin sa ang isa na sumilsilap na tabak na simmango sa amin na turong upang bantayanna ang kaniyang na patungo sa kahoy ang ka
+BLEU Score: 0.6199149904037866
+
+Reference: si cain at si abel
+Machine Translation: moises nilingap sa abel
+BLEU Score: 0.2245166162074563
+
+Reference: at nakilala ng lalake si eva na kaniyang asawa at siyay naglihi at ipinanganak si cain at sinabi nagkaanak ako ng lalake sa tulong ng panginoon
+Machine Translation: at ang lalake dinennaanna si kaniyang na eva at naglihi at ipinanganak si cain at kinunana nagunodco ang isa na lalake dahil sa panginoon
+BLEU Score: 0.6675877908408472
+
+Reference: at sa muli ay ipinanganak ang kaniyang kapatid na si abel
+Machine Translation: at inyanacna salita si kaniyang na abel
+BLEU Score: 0.38736353642660926
+
+Reference: at si abel ay tagapagalaga ng mga tupa datapuwat si cain ay mangbubukid ng lupa
+Machine Translation: at tumitingin si abel sa tupa ngunit si cain nagtaltalon
+BLEU Score: 0.3452496429046876
+
+Reference: at nangyari nang lumalakad ang panahon ay nagdala si cain ng isang handog na mga bunga ng lupa sa panginoon
+Machine Translation: at nangyari sa panaglasat ang pannawen na si cain kumuha sa bunga ang lupain na naghandog sa panginoon
+BLEU Score: 0.6469087818639816
+
+Reference: at nagdala rin naman si abel ng mga panganay ng kaniyang kawan at ng mga taba ng mga yaon
+Machine Translation: at si abel nangala met sa panganay na anac sa kaniyang sa ang nalucmeg
+BLEU Score: 0.4332206418138318
+
+Reference: at nilingap ng panginoon si abel at ang kaniyang handog
+Machine Translation: at si panginoon pinatpategna si abel sa ang kaniyang
+BLEU Score: 0.5986336886996766
+
+Reference: datapuwat hindi nilingap si cain at ang kaniyang handog
+Machine Translation: ngunit si cain sa ang kaniyang dina incancano
+BLEU Score: 0.4515954081301493
+
+Reference: at naginit na mainam si cain at namanglaw ang kaniyang mukha
+Machine Translation: at nagpungtot unay si cain at nagulumihanan ang kaniyang
+BLEU Score: 0.5558448229939619
+
+Reference: at sinabi ng panginoon kay cain bakit ka naginit
+Machine Translation: at si panginoon sinabi sa cain doon na agpungpungtotca
+BLEU Score: 0.49906656223735246
+
+Reference: at bakit namanglaw ang iyong mukha
+Machine Translation: at doon narupanget at rupam
+BLEU Score: 0.1106299995107764
+
+Reference: kung ikaw ay gumawa ng mabuti di ba ikaw mamarapatin
+Machine Translation: at naimbag ang bagay apay na hindi macaparagsac
+BLEU Score: 0.1311883344393261
+
+Average BLEU Score: 0.45069143098290854

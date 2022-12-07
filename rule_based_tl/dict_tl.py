@@ -1,27 +1,27 @@
 import pandas as pd
 
 # Verb Dictionary
-verb_dict = pd.read_json('src/json data/verb_dict.json')
+verb_dict = pd.read_json('src/json data/Tagalog to Ilokano/verb_dict.json')
 
 # Adjective Dictionary
-adj_dict = pd.read_json('src/json data/adj_dict.json')
+adj_dict = pd.read_json('src/json data/Tagalog to Ilokano/adj_dict.json')
 
 # Tagalog to Ilokano Language Model Dictionary
-dict_tl_il_lm = pd.read_json('src/json data/Example-Based/Language Model/dict_tl_il_lang_mod.json')
+dict_tl_il_lm = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/Language Model/dict_tl_il_lang_mod.json')
 
 """"
     Tagalog to Ilokano Dictionaries
 """
 
 # Single Words Dictionary
-dict_sw = pd.read_json('src/json data/Example-Based/dict_sw.json')
-dict_vb = pd.read_json('src/json data/Example-Based/dict_vb.json')
-dict_nn = pd.read_json('src/json data/Example-Based/dict_nn.json')
-dict_jj = pd.read_json('src/json data/Example-Based/dict_jj.json')
-dict_rb = pd.read_json('src/json data/Example-Based/dict_rb.json')
-dict_cc = pd.read_json('src/json data/Example-Based/dict_cc.json')
-dict_pr = pd.read_json('src/json data/Example-Based/dict_pr.json')
-dict_dt = pd.read_json('src/json data/Example-Based/dict_dt.json')
+dict_sw = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_sw.json')
+dict_vb = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_vb.json')
+dict_nn = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_nn.json')
+dict_jj = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_jj.json')
+dict_rb = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_rb.json')
+dict_cc = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_cc.json')
+dict_pr = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_pr.json')
+dict_dt = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/dict_dt.json')
 
 """
     Putting the columns in a list
