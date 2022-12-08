@@ -1,11 +1,10 @@
 import pandas as pd
 from flask import Blueprint, render_template, request, jsonify
 from doc_trans_tl import doc_trans
-from doc_trans_smt_tl import smt_trans, il_smt_trans 
-from scoring import scoring_bleu, scoring_ter
+from doc_trans_smt_tl import smt_trans
+from doc_trans_smt_il import il_smt_trans
 
 views = Blueprint('views', __name__)
-
 
 @views.route('/', methods=['GET', 'POST'])
 def home():
