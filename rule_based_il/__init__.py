@@ -14,9 +14,31 @@ def tokenize(text):
     tokens = re.split('\W+', text.lower())
     
     for token in tokens:
+        
+        try:
+            next_token = tokens[tokens.index(token) + 1]
+        except (ValueError, IndexError):
+            next_token = None
+        """
+        gets the next word in the sentence
+        """
+        
+        try:
+            next2_token = tokens[tokens.index(token) + 2]
+        except (ValueError, IndexError):
+            next2_token = None
+        """
+        gets the next word in the sentence
+        """
+        
+        if token == 'naaramid' and next_token == 'a' and next2_token == 'casta':
+            temp_token = token + " " + next_token + " " + next2_token
+            tokens[tokens.index(token)] = temp_token
+            tokens.remove(next_token)
+            tokens.remove(next2_token)
+            
         if token == '':
             tokens.remove(token)
-    
     return tokens
 # end of function
 
@@ -40,62 +62,28 @@ def isDtmn(word, noun_dtmn_list, adv_dtmn_list, prepo_dtmn_list, adv_time_list):
 """
     Verb Affixer Checker Function
 """
-def check_verb_affixes(word, prev2_word, prev_word, next_word, isTagged, hasVerbAffixes, PREFIX_SET, vowels, INFIX_SET, SUFFIX_SET):
+def check_verb_affixes(word, isTagged, hasVerbAffixes, PREFIX_SET, INFIX_SET, SUFFIX_SET):
     """
-    This function checks if the specific word in the sentence has an affix, and extracts it.
+    This function checks if the specific word in the sentence has a verb affix, and extracts it.
     """
     for prefix in PREFIX_SET:
         if word.startswith(prefix) and not isTagged:
-            if word.startswith("mag") or word.startswith("nag"):
-                if  word[3:5] == word[5:7] and not isTagged:
-                    """
-                    verbs starting with "mag" or "nag" always repeat the next 4 letters of the word 
-                    e.g. maglalakad, maglalaro, magbibihis | naglalakad, naglalaro, nagbibihis
-                    issue: magkakampi,
-                    """
-                    hasVerbAffixes = True
-                    isTagged = True
-
-                if word[3] in (vowels):
-                    """
-                    verbs starting with "mag" and if the next letter is a vowel, the vowel is repeated 
-                    e.g. magiikot, magaayos, maguusap | nagiikot, nag-aayos, nag-uusap
-                    """
-                    if word[3] == word[4] and not isTagged:
-                        hasVerbAffixes = True
-                        isTagged = True
-                        
-                if (word.startswith("magka") or word.startswith("nagka")) and not isTagged:
-                    """
-                    verbs starting with "magka" or "nagka"  
-                    e.g. magkaroon, magkasama, magkasundo (usually r,s, or vowels)
-                    issue: magkapatid, magkatyempo
-                    """
-                    hasVerbAffixes = True
-                    isTagged = True
-                    
-            else:
-                hasVerbAffixes = True
-                isTagged = True
-                
-    for infix in INFIX_SET:
-        if word.__contains__(infix) and not isTagged:
             hasVerbAffixes = True
             isTagged = True
             
+    for infix in INFIX_SET:
+        if word.__contains__(infix) and not isTagged:
+            """
+            eg. kinunana = sinabi
+            """
+            hasVerbAffixes = True
+            isTagged = True
+    
     for suffix in SUFFIX_SET:
         """
         words ending with 'ang' are adverbs and after the adverbs are the nouns 
         """
-        if word.endswith(suffix) and not isTagged and not word.endswith("ang") and not prev_word.endswith("ang"):
-            hasVerbAffixes = True
-            isTagged = True
-
-    if len(word) >= 4:
-        if word[:2] == word[2:4] and not isTagged:
-            """
-            if the first four characters of a word is repeated, then it is a verb
-            """
+        if word.endswith(suffix) and not isTagged:
             hasVerbAffixes = True
             isTagged = True
     
@@ -106,299 +94,295 @@ def check_verb_affixes(word, prev2_word, prev_word, next_word, isTagged, hasVerb
 """
     Verb Checker Function
 """
-def isVerb(word, prev_word, next_word, hasVerbAffixes, PREPO_SET, PER_PRONOUN, CONJ_SET, ADV_SET, noun_dtmn_list, adv_dtmn_list, prepo_dtmn_list, vowels):
+def isVerb(word, prev_word, prev2_word, next_word, hasVerbAffixes, PREPO_SET, PER_PRONOUN, CONJ_SET, noun_dtmn_list, adv_dtmn_list, prepo_dtmn_list):
     """
     This function tags if the specific word in the sentence is a verb, and extracts it.
     """
     isDone = False
     isVerb = False
     
-    if word in  dict_il.verb_dict and not isDone:
-        """If word is in the verb dictionary and is not done, is a verb"""
-        isVerb = True
-        isDone = True
+    if word not in PREPO_SET:    
+        if word == 'espiritu' and not isDone:
+            """
+            if the word is 'espiritu' then it is not a verb
+            eg. 'Esperitu' = 'spirit' (ti espiritu ti Dios)
+            issue: there might be more words that vae a previous word ti and next word ti that is not a verb
+            maybe noun database will solve this issue
+            """
+            isVerb = False
+            isDone = True
+           
+        if word == 'naimbag' and not isDone:
+            """
+            naimbag = 'maganda', 'na maganda'
+            """
+            if next_word == 'iti':
+                """
+                if the next word is 'nga' then it means
+                naimbag nga = "magandang", "maganda ang"
+                """
+            isVerb = False
+            isDone = True
+           
+        if word == 'amin' and not isDone:
+            isVerb = False
+            isDone = True
     
-    if word not in (PREPO_SET + PER_PRONOUN + CONJ_SET + ADV_SET):
-        if prev_word not in (noun_dtmn_list + adv_dtmn_list + prepo_dtmn_list): 
-            if next_word in (noun_dtmn_list): 
+        
+        if (word.find("adda") != -1) and not isDone:
+            isVerb = True
+            isDone = True
+            
+        if word == 'nagtignay' and not isDone:
+            if next_word == 'iti':
                 """
-                if the previous word is not in the noun, adverb, and preposition determiner and 
-                the next word is a noun determiner
-                eg. !(sayaw ng bata)
+                if the word is 'nagtignay' and next word is 'iti' then it is a verb
+                then it is a propositional determiner
+                eg. nagtignay iti = sumasa / ay sumasa
                 """
-                if hasVerbAffixes:
+                isVerb = False
+                isDone = True
+    
+        if word == 'ninagananna' and not isDone:
+            """
+            ninagananna = "tinawag", "tinawag + niya"
+            "pinangalan", "pinangalan + niya"
+            ninaganna = "tinawag", "tinawag + ng"
+            "pinangalan", "pinangalan + ng"
+            """
+            can2Viterbi = True
+            isVerb = True
+            isDone = True
+        
+        if word == 'naaramid a casta' and not isDone:
+            """
+            naaramid a casta = 'nagkagayon'
+            """
+            isVerb = True
+            isDone = True
+    
+        if word not in (PREPO_SET + PER_PRONOUN + CONJ_SET) and not isDone:
+            if prev_word not in (noun_dtmn_list + adv_dtmn_list + prepo_dtmn_list): # if the previous word is not a determiner
+                if next_word in (noun_dtmn_list): 
+                    """
+                    if the previous word is not in the noun, adverb, and preposition determiner and 
+                    the next word is a noun determiner
+                    """
+                    if hasVerbAffixes:
+                        """
+                        if the current word has a verb affix/es, then it is a verb
+                        """
+                        isVerb = True
+                        isDone = True
+            
+                if next_word in PER_PRONOUN and not isDone:
+                    """
+                    if the next word is a personal pronoun
+                    eg. (insert an example sentence)
+                    issue: check if there's an issue
+                    """
+                    isVerb = True
+                    isDone = True                
+        
+            if word.startswith('pa') and (word.endswith('en') or word.endswith('in')):
+                """
+                if word starts with pa and ends with en or in then it is verb
+                eg. patuboen
+                """
+                isVerb = True
+                isDone = True                
+        
+            if word.startswith('ag') and prev_word == 'nga' and next_word in ('nga', 'a'):
+                isVerb = True
+                isDone = True                
+        
+            if word.startswith('ag') and (word.endswith('kayo') or word.endswith('cayo')):
+                isVerb = True
+                isDone = True
+
+            if prev_word == 'ti' and next_word in (noun_dtmn_list) and (not next_word in ('a','iti', 'ken')) and not isDone:
+                """
+                if the previous word is 'ti' and the next word is a noun determiner
+                eg. ti aramid ti dios (Nilalang ng Dios)
+                """
+                if word == 'aramid' and next_word == 'ti':
+                    """
+                    aramid which means gawa that is a noun is being used as a verb translation of 'nilalang'
+                    """
+                    isVerb = True
+                    isDone = True
+
+                elif next_word != 'ti':
+                    isVerb = True
+                    isDone = True
+            
+            if prev_word in CONJ_SET and hasVerbAffixes and next_word in noun_dtmn_list and not isDone:
+                isVerb = True
+                isDone = True
+
+            if word.startswith("ag") and word[2:5] == word[5:8] and not isDone:
+                """
+                if the word is an adjective it repeats the next 3 letters after 'ag'
+                eg. 'agcarcaryam' = umuusad
+                """
+                isVerb = True
+                isDone = True
+
+            if prev_word == 'nga' and next_word =='a':
+                isVerb = True
+                isDone = True
+
+            if word == 'aguy' and next_word == 'uyas':
+                isVerb = True
+                isDone = True
+
+            if prev_word == 'aguy' and word == 'uyas':
+                isVerb = True
+                isDone = True
+
+            if prev_word == 'iti' and next_word == 'ken' and word.endswith('da') and hasVerbAffixes:
+                isVerb = True
+                isDone = True
+
+            if prev2_word == 'ti' and not isDone:
+                if next_word in (noun_dtmn_list) and not next_word == 'a':
+                    """
+                    if the previous of previous word is 'ti' and the next word is a noun determiner
+                    eg. ti Dios pinarsuana dagiti (ay nilikha ng Dios)
+                    """
+                    isVerb = True
+                    isDone = True
+                
+                if hasVerbAffixes and not isDone:
                     """
                     if the current word has a verb affix/es, then it is a verb
                     """
                     isVerb = True
                     isDone = True
-            
-            if next_word in PER_PRONOUN and not isDone:
-                """
-                if the next word is a personal pronoun
-                eg. sayaw ka
-                issue: if the next word is a personal pronoun, it is not always a verb
-                eg. bastos ka
-                """
-                isVerb = True
-                isDone = True
-
-        if prev_word == "ay" and hasVerbAffixes and not isDone:
-            if next_word in ("ng", "sa", "nang", "na") or next_word is None:
-                """
-                if the previous word is 'ay' and the next word is 'ng' or 'sa', then it is a verb
-                eg. ay naglalakad na bata | ay naglalakad
-                isse: ay nanay
-                """
-                isVerb = True
-                isDone = True
-                
-        if prev_word == 'na' and hasVerbAffixes and not isDone:
-            """
-            if the previous word is 'na' and the current word has a verb affix/es, then it is a verb
-            eg. na naglakad
-            issue: na mabait
-            """
-            if word.startswith("ma") and len(word) == 5:
-                if word[4] in vowels:
-                    isVerb = False
-                    isAdj = True
-                    isDone = True
-            if word.startswith("nag"):
-               isVerb = True
-               isDone = True
-            if word.startswith("mag"):
-               isVerb = True
-               isDone = True 
-               
-        if word[:3] in ("nag"):
-                if next_word in (PER_PRONOUN, "sa", "ni", "nang"):
-                    """
-                    if the first three characters of a word start with "mag", then it is a verb
-                    eg. nag-ayos ka
-                    """
-                    isVerb = True
-                    isDone = True
-
-        if not isDone:
-        #if word and not isDone:
-            if word[:5] in ("magpa", "nagka") or word[:4] in ("napa", "naka") or word[:3] in ("nag"):
-            # if hasAffixes and not isDone:
-                """
-                if the first five characters of a word start with "magpa" or "nagka" of "pagkla", then it is a verb
-                eg. magpapakain, nagkakasakit
-                """
-                isVerb = True
-                isDone = True
-            if word[:3] in ("mag"):
-                if next_word in (PER_PRONOUN, "sa", "ni", "nang"):
-                    """
-                    if the first three characters of a word start with "mag", then it is a verb
-                    eg. mag-ayos ka
-                    """
-                    isVerb = True
-                    isDone = True
-    
-        if hasVerbAffixes and prev_word == None and not isDone:
-            if next_word in PER_PRONOUN or (next_word in noun_dtmn_list and next_word not in ('ng', 'mga')):
-                """
-                Isinulat niya
-                """
-                isVerb = True
-                isDone = True
-                
-        # The Algorithm Below is for the words that are not tagged yet
-        for verb_su in dict_il.verb_dict['Salitang-ugat']:
-            """
-            for every verb in the verb dictionary salitang-ugat
-            """
-            if word == verb_su and not isDone:
-                """
-                if the current word is in the verb dictionary salitang-ugat, then it is a verb
-                """
-                isVerb = True
-                isDone = True
         
-        for verb_pn in dict_il.verb_dict['Pangnagdaan']:
+        if hasVerbAffixes and prev_word == None and not isDone:
             """
-            for every verb in the verb dictionary Pangnagdaan
+            if the current word has a verb affix/es and the previous word is None
             """
-            if word == verb_pn and not isDone:
-                """
-                if the current word is in the verb dictionary Pangnagdaan, then it is a verb
-                """
-                isVerb = True
-                isDone = True
-                
-        for verb_pk in dict_il.verb_dict['Pangkasalukuyan']:
-            """
-            for every verb in the verb dictionary Pangkasalukuyan
-            """
-            if word == verb_pk and not isDone:
-                """
-                if the current word is in the verb dictionary Pangkasalukuyan, then it is a verb
-                """
-                isVerb = True
-                isDone = True
-                
-        for verb_ph in dict_il.verb_dict['Panghinaharap']:
-            """
-            for every verb in the verb dictionary Panghinaharap
-            """
-            if word == verb_ph and not isDone:
-                """
-                if the current word is in the verb dictionary Panghinaharap, then it is a verb
-                """
-                isVerb = True
-                isDone = True
-                
-        for verb_pw in dict_il.verb_dict['Pawatas']:
-            """
-            for every verb in the verb dictionary Pawatas
-            """
-            if word == verb_pw and not isDone:
-                """
-                if the current word is in the verb dictionary Pawatas, then it is a verb
-                """
-                isVerb = True
-                isDone = True
-                
-        for verb_kt in dict_il.verb_dict['Katatapos']:
-            """
-            for every verb in the verb dictionary Katatapos
-            """
-            if word == verb_kt and not isDone:
-                """
-                if the current word is in the verb dictionary Katatapos, then it is a verb
-                """
-                isVerb = True
-                isDone = True
-            
+            isVerb = True
+            isDone = True
+    
     return isVerb
 # end of function
+
 
 """
     Noun Checker Function
 """
-def isNoun(word, prev_word, prev2_word, next_word, next2_word, noun_dtmn_list, PREPO_SET, CONJ_SET, adv_dtmn_list, PER_PRONOUN):
+def isNoun(word, prev_word, prev2_word, next_word, next2_word, noun_dtmn_list, PREPO_SET, CONJ_SET, PER_PRONOUN, hasVerbAffixes):
     """
     This function tags if the specific word in the sentence is a noun, and extracts it.
     """
     isDone = False
     isNoun = False
-    adj_prefix = ["ika", "pinaka", "pang"]
-    adj_suffix = ["ng"]
+    
+    if word in PER_PRONOUN and word not in PREPO_SET:
+        """
+        if the word is a personal pronoun, then it is a noun
+        """
+        isNoun = True
+        isDone = True
 
-    if prev_word in (noun_dtmn_list) and word not in noun_dtmn_list and not isDone:
-        """
-        if the previous word is a determiner and the word is not a determiner, then it is a noun
-        eg. !(ng mga)
-        """
-        isAdj = False
-        
-        if word.endswith("ng") and len(word.replace("ng", "")) > 3:
-            """
-            if the word ends with 'ng' and length of the word when 'ng' is removed is greater than 3, then it is an adjective
-            eg. ang mabuting tao
-            """
-            isAdj = True
-        
-        if not isAdj:
-            for prefix in adj_prefix:
-                """
-                if the word is an adjective it has an adjective prefix
-                eg. ika-ayos, pinakamahusay, pangaraw-araw
-                """
-                if not isDone:
-                    isAdj = word.startswith(prefix)
-                if not isAdj and not isDone:
-                    if prev_word == 'ang':
-                        """
-                        if the previous word is 'ang' and not an adjective, then it is a noun
-                        eg. ang espiritu
-                        """
-                        isNoun = True
-                        isDone = True
-                        
-                    if next_word != 'ng' and not isDone:
-                        isNoun = True
-                        isDone = True
-                if isAdj:  
-                    isDone = True
-    
-    if prev_word == "sa" and word not in(PREPO_SET)and not isDone:
-        """
-        if the previous word is "sa" and the word is not in the PREPO_SET then it is a noun
-        eg. sa simbahan <- tags "simbahan"
-        """
-        isNoun = True
-        isDone = True
-        
-    if prev2_word == "ay" and prev_word.endswith("ang") and word not in noun_dtmn_list and not isDone:
-        """
-        if the previous previous word is "ay" and the previous word is "ang" 
-        and the word is not a determiner then the word is a noun
-        eg. ay ang bata
-        """
-        isNoun = True
-        isDone = True
-    
-    if prev_word.endswith("ng"):
-        """
-        if the previous word ends with "ng" and the prev word is not in noun_dtmn_list/conj_set/adv_dtm_list then it is a noun
-        eg. upang magpuno sa gabi <- prevents magpuno to be tagged as noun | ikalawang araw <- tags araw
-        """
-        if prev_word not in (noun_dtmn_list + CONJ_SET + adv_dtmn_list) and not isDone:
+    if word and not isDone:
+        if prev_word in (noun_dtmn_list) and word not in (PREPO_SET + CONJ_SET + noun_dtmn_list) and not isDone:
             isNoun = True
-            isDone = True
-        
-        if prev_word.startswith("ma") and prev_word.endswith("ng") and not isDone:
-            if not word.endswith("ng"):
+            
+            if not word.startswith("maica") and not isDone:
+                """
+                if previous word is a and the word does not start with maica, then it is a noun
+                e.g. aldaw a maicadua -> nattag kasi maicadua pag wala tong condition
+                """
+                isNoun = True
+                isDone = True
+                
+            elif word.startswith("maica"):
+                isNoun = False
+                isDone = True
+
+            if next2_word.startswith("maica") and next_word == "a" and not isDone:
+                """
+                if next next word starts with maic prefix and next word is a, then it is a noun
+                e.g. aldaw a maicadua -> di nattag aldaw since wala siyang noun_dtmn before aldaw
+                """
                 isNoun = True
                 isDone = True
 
-    if prev_word == "na" and not isDone:
-        if prev2_word.startswith("ma") or prev2_word.startswith("ika") or prev2_word ==  CONJ_SET:
+            if word[:2] == word[2:4]:
+                if prev_word in (noun_dtmn_list) and next_word not in ("ti", "nga", "a"):
+                    """
+                    if the first two letters of a word is repeated and next_word is not ti/nga/a, then it is a noun
+                    e.g. dadackel -> adjective dapat
+                    """
+                    isNoun = True
+                    isDone = True
+                else:
+                    isNoun = False
+                    isDone = False
+            
+            if word[:3] == word[3:6]:
+                # untags adjs such as dacdackel
+                if prev_word in (noun_dtmn_list) and next_word not in (noun_dtmn_list):
+                    isNoun = False
+
+                elif prev_word in (noun_dtmn_list) and next_word == None:
+                    isNoun = True
+
+            isDone = True
+
+        if prev_word == 'idi' and  not hasVerbAffixes and not isDone:
+            isNoun = True
+            isDone = True           
+        
+        if (word.startswith('ka') or word.startswith('ca')) and word.endswith('tayo'):
+            """
+            if word starts with pa and ends with en or in then it is verb
+            eg. caaspingtayo = sa ating wangis
+            """
+            isNoun = True
+            isDone = True 
+
+        if next_word in CONJ_SET and not hasVerbAffixes and not isDone:
+            isNoun = True
+            isDone = True
+        
+        if prev_word in noun_dtmn_list and (next_word.find("adda") != -1):
+            isNoun = True
+            isDone = True
+        
+        if next_word =='a' and prev2_word == 'nga':
             isNoun = True
             isDone = True
 
-    if next_word == "na":
-        if next2_word.startswith("na") or next2_word.startswith("ma"):
+        if prev_word == word[:2]:
+            """
+            eg.  an-animal
+            """
             isNoun = True
             isDone = True
-    
-    if prev_word == "ng" and next_word == "na":
-        if next2_word.startswith("ma"): # nagpagawa siya ng gusali na mataas
+
+        if prev_word == 'nga' and next_word == 'ti':
             isNoun = True
             isDone = True
-        else:
-            isNoun = False
+
+        if prev2_word in noun_dtmn_list and not isDone:
+            isNoun = True
             isDone = True
 
-    if prev_word.endswith("ng") and word.endswith("ng"):
-            # untags "dalawang malaking" <- untags malaking
-            isNoun = False
-            isDone = False
-            isAdj = True
+        if word.endswith('um') or word.endswith('en'):
+            isNoun = True
+            isDone = True
 
-    if prev_word in (noun_dtmn_list) and word.endswith("ng"): 
-        # this untags words like "unang" e.g. "ang unang araw" <- untags "unang" as a noun and tags it as an adj
-        isDone = True
-        isNoun = False
-    
-    if prev_word == "sa" and next_word == "na":
-        # untags adjectives placed between "sa" and "na" e.g. "sa maliit na lamesa"
-        isNoun = False
-        isDone = False
-
-    if word in PER_PRONOUN:
-        """
-        if the word is a personal pronoun, then it is a noun
-        eg. ako, ikaw, tayo, etc.
-        """
-        isNoun = True
-        isDone = True
-    
+        if word in PER_PRONOUN:
+            """
+            if the word is a personal pronoun, then it is a noun
+            """
+            isNoun = True
+            isDone = True
     return isNoun
 # end of function
 
@@ -412,146 +396,120 @@ def isAdj(word, prev_word, prev2_word, next_word, hasVerbAffixes, noun_dtmn_list
     """
     isDone = False
     isAdj = False
-    
+        
     if word not in (noun_dtmn_list + adv_dtmn_list + prepo_dtmn_list + PREPO_SET + PER_PRONOUN + CONJ_SET):
-        if word.startswith("ma") and (next_word in noun_dtmn_list or next_word == 'na') and next_word not in ('ay', 'ng', 'mga') and  not hasVerbAffixes and not isDone:
-            """
-            if the word is an adjective it has an adjective prefix 'ma' and the next word is noun determiner
-            eg. maayos na ang kalsada
-            """
-            isAdj = True
-            isDone = True
-        
-        if word.startswith("napaka") or word.startswith("pinakama") or word.startswith("pinaka") and not hasVerbAffixes and not isDone:
-            """
-            if the word starts with 'pinakama' or 'pinaka' or 'napaka', then it is an adjective
-            eg. pinakamaganda, pinakagusto, napakaganda
-            """
-            isAdj = True
-            isDone = True
-        
-        if word.startswith("nag") and word[3:5] == word[5:7] and word.endswith("han") and not hasVerbAffixes and not isDone:
-            """
-            if the word starts with 'nag' then followed by repeating syllable then ends with 'han', then it is an adjective
-            eg. naglalakihan, naggagandahan
-            """
-            isAdj = True
-            isDone = True
-        
-        if word.startswith("ma") and word[2:4] == word[4:6] and not hasVerbAffixes and not isDone:
-            """
-            if the word starts with 'ma' then followed by repeating syllable, then it is an adjective
-            eg. malalaki, magaganda
-            """
-            isAdj = True
-            isDone = True
-        
-        if word.startswith("an") and not hasVerbAffixes and not isDone:
-            """
-            if the word starts with 'an' then it is an adjective
-            eg. anlaki, ansarap
-            """
-            isAdj = True
-            isDone = True
             
-        if prev_word == 'ang' and next_word == 'ng' and not hasVerbAffixes and not isDone:
+        if word.startswith("na") and (next_word in noun_dtmn_list or next_word == 'a' or prev_word == 'ti') and  not hasVerbAffixes and not isDone:
             """
-            if the prev word is 'ang' then the word is an adjective
-            eg. ang ganda ng bulaklak
-            """
-            isAdj = True
-            isDone = True
-            
-        if word.startswith("ma") and prev_word in noun_dtmn_list  and (next_word == 'na') and not hasVerbAffixes and not isDone:
-            """
-            if the prev word is 'ang' then the word is an adjective
-            eg. naghanda ng malamig na coke
+            if the word is an adjective it has an adjective prefix 'na' and the next word is noun determiner
+            eg. napintas ti balay (maganda ang bahay)
+            eg. naimbag a bigat (magandang umaga)
             """
             isAdj = True
             isDone = True
-            
-        if prev_word == 'mas' and not hasVerbAffixes and not isDone:
+
+        if word.startswith("na") and word[:3] != 'nag' and prev2_word in noun_dtmn_list and (next_word in noun_dtmn_list or next_word == 'ket') and not isDone:
             """
-            if the prev word is 'mas' then the word is an adjective
-            eg. mas maganda
-            """
-            isAdj = True
-            isDone = True
-        
-        if word.endswith("ng") and not hasVerbAffixes and not isDone:
-            """
-            if the word ends with 'ng', then it is an adjective
-            eg. dalawang bahay
+            if the word is sandwiched between two nouns
+            eg.
             """
             isAdj = True
             isDone = True
-        
-        if prev_word in ('ay', 'na') and not prev2_word.startswith('ika') and (not hasVerbAffixes or word.startswith('ma')) and not isDone:
+
+        if word.startswith("na") and not word.startswith("nag") and (prev_word in ("ti", "nga", "a")) and (word.find("biag") == -1) and not word.endswith('sua') and not isDone:
             """
-            if the previous word is 'ay' or 'na', then it is an adjective
-            eg. salamin na parihaba
-            """
-            isAdj = True
-            isDone = True
-            
-        if word in dict_il.adj_dict and not isDone:
-            """If word is in the adj dictionary and is not done, is a adj"""
-            isAdj = True
-            isDone = True
-            
-        if word[:3] in ("ika") and not isDone:
-            """If word starts with ika and is not done, is a adj"""
-            isAdj= True
-            isDone= True
-            
-        if word in lists_il.adj_quantity_list and not isDone:
-            """
-            if the word is in the adj quantity list, then it is an adjective
-       
-            """
-            isAdj = True
-            isDone = True
-            
-        if word in lists_il.adj_quality_list and not isDone:
-            """
-            if the word is in the adj quality list, then it is an adjective
-       
-            """
-            isAdj = True
-            isDone = True
-            
-        if word in lists_il.adj_taste_list and not isDone:
-            """
-            if the word is in the adj taste list, then it is an adjective
-       
-            """
-            isAdj = True
-            isDone = True
-            
-        if word in lists_il.adj_shape_list and not isDone:
-            """
-            if the word is in the adj shape list, then it is an adjective
-       
+            if the adjective is at the end
+            eg.
             """
             isAdj = True
             isDone = True 
-              
-        if word in lists_il.adj_size_list and not isDone:
+
+        if word.startswith("ka") and word.endswith("an") and not isDone:
             """
-            if the word is in the adj size list, then it is an adjective
-       
+            if the word is an adjective it has an adjective prefix 'ka' and adjective suffix 'an' and its a superlative adjective
+            eg. kadakkelan (pinakamalaki)
+            """
+            isAdj = True
+            isDone = True 
+    
+        if (word.find("una") != -1) and (next_word == 'a' or next_word == 'nga') and  not hasVerbAffixes and not isDone:
+            """
+            if the word is an adjective it has a word 'una' and next word is 'a' or 'nga'
+            eg. umuna a bilin (unang bilin)
+            eg. immuna nga arida (unang hari)
             """
             isAdj = True
             isDone = True
-             
-        if word in lists_il.adj_color_list and not isDone:
+
+        if word == 'awan' and next_word in noun_dtmn_list and not isDone:
             """
-            if the word is in the adj color list, then it is an adjective
-       
+            if the word is an adjective it is awan followed by noun
+            eg. awan (walang)
             """
             isAdj = True
             isDone = True
         
+        if word == 'awan' and prev_word in noun_dtmn_list and not isDone:
+            isAdj = True
+            isDone = True
+
+        if word == 'amin' and prev_word in PER_PRONOUN:
+            isAdj = True
+            isDone = True
+    
+        if word == 'maysa' and (next_word == 'a' or next_word == 'nga') and  not hasVerbAffixes and not isDone:
+            """
+            if the word is an adjective it is maysa followed by nga or a and its an ordinal adjective
+            eg. maysa (unang or isang)
+            """
+            isAdj = True
+            isDone = True 
+
+        if word.startswith("maika") or word.startswith("maica"):
+            """
+            if the word is an adjective it has an adjective prefix 'maika' or 'maica' and its an ordinal adjective
+            eg. maicadua (ikalawang)
+            """
+            isAdj = True
+            isDone = True 
+
+        if word[:3] == word[3:6] and not word.endswith('aw') and (next_word in noun_dtmn_list or prev_word == 'a') and  not hasVerbAffixes and not isDone:
+            """
+            if the word is an adjective it repeats the first 3 letters to make it comparative
+            eg. dakdakkel, basbassit
+            """
+            isAdj = True
+            isDone = True 
+
+        if word[:2] == word[2:4] and (next_word in noun_dtmn_list or prev_word in ('a', 'dagiti')) and not hasVerbAffixes and not isDone:
+            if word =='lalaki' or word == 'babai':
+                isAdj = False
+                isNoun = True 
+                isDone= False
+            else:
+                """
+                if the word is an adjective it repeats the first 2 letters
+                eg. dadakkel (malalaking), babassit (maliliit)
+                """
+                isAdj = True
+                isDone = True
+
+        if word.startswith("na") and word[2:5] == word[5:8] and not isDone:
+            """
+            if the word is an adjective it repeats the next 3 letters after 'na' to make it comparative
+            eg. nalaklaka, napinpintas
+            """
+            isAdj = True
+            isDone = True
+        
+        if word.startswith("na") and word[2:6] == word[6:10] and not isDone:
+            """
+            if the word is an adjective it repeats the next 4 letters after 'na' to make it comparative
+            eg. nasingsingpet
+            """
+            isAdj = True
+            isDone = True
+
     return isAdj
 # end of function
 
@@ -580,129 +538,89 @@ def isPalindrome(word):
 """
     Adverb Checker Function
 """
-def isAdv(word, prev_word, next_word, hasVerbAffixes, PER_PRONOUN, adv_time_list, adv_freq_list, adv_place_list, adv_manner_list):
-    """
-    This function tags if the specific word in the sentence is an adverb, and extracts it.
-    """
-    isDone = False
-    isAdv = False
-
-    if word.startswith('ma') and not word.startswith('mag') and (next_word in PER_PRONOUN or next_word == 'na') and next_word not in ('ay', 'ng', 'mga') and not isDone:
-        """
-        if the word is an adverb it has an adverb prefix 'ma' and the next word is a pronoun
-        eg. mabtlis na magsulat
-        """
-        isAdv = True
-        isDone = True
-    
-    if prev_word == 'nang' and not isDone:
-    # if prev_word == 'nang' and (not hasVerbAffixes or (word.startswith('ma') and not word.startswith('mag'))) and next_word not in ('ay', 'ng', 'mga') and not isDone:
-        """
-        if the previous word is 'nang'
-        """
-        if next_word not in ('ay', 'ng', 'mga'):
-            """
-            if the next word is not "ay, ng, or mga"
-            """
-            if not hasVerbAffixes: 
-                """
-                if word not have verb affixes, then it is an adverb
-                eg. nang husto
-                """
-                isAdv = True
-                isDone = True
-                
-            if word.startswith('ma') and not isNoun and not isDone:
-                """
-                if starts with 'ma', then it is an adverb
-                eg. nang mabtlis
-                """
-                isAdv = True
-                isDone = True
+def isAdv(word, prev_word, next_word, PER_PRONOUN, PREPO_SET, adv_time_list, adv_manner_list, adv_freq_list, adv_place_list, adv_dtmn_list, noun_dtmn_list):
+   """
+   This function tags if the specific word in the Ilokano sentences is an adverb, and extracts it.
+   """
+   isDone = False
+   isAdv = False
+   
+   if word not in PER_PRONOUN and word not in PREPO_SET:
+      if word.startswith('idi') or word.startswith('di') and not prev_word == 'nga' and not isDone:
+         """
+         If the word starts with idi and has nga as its next word it is an adverb describing an adjective
+         
+         """
+         isAdv = True
+         isDone = True
+           
+      if word in adv_time_list and not isDone:
+         """
+         If the word is in the adverb of time list, then it is an adverb
+         """ 
+         isAdv = True
+         isDone = True
+         
+      if word in adv_manner_list and not isDone:
+         """
+         If the word is in the adverb of time list, then it is an adverb
+         """ 
+         isAdv = True
+         isDone = True
+         
+      if word in adv_freq_list and not isDone:
+         """
+         If the word is in the adverb of time list, then it is an adverb
+         """ 
+         isAdv = True
+         isDone = True
+         
+      if word in adv_place_list and not isDone:
+         """
+         If the word is in the adverb of time list, then it is an adverb
+         """ 
+         isAdv = True
+         isDone = True
+         
+      if prev_word in adv_dtmn_list and not isVerb and not isNoun and not isDone:
+         """
+         If the word's previous word is in the determiner's list and not a verb or a noun, then it is n adverb
+         """
+         isAdv = True
+         isDone = True
             
-        # if next_word == 'ay' and not isDone: 
-        #    """
-        #    """   
-        #     if word.startswith('pa') and not isDone:
-        #         """
-        #         if ends with 'pa', then it is an adverb
-        #         eg. nang pasimula ay
-        #         """
-        #         isAdv = True
-        #         isDone = True
-        
-    if word in adv_time_list and not isDone:
-        """
-        if the word is an adverb of time, then it is an adverb
-        eg. aalis bukas
-        """
-        isAdv = True
-        isDone = True
-        
-    if word in adv_freq_list and not isDone:
-        """
-        if the word is an adverb of frequency, then it is an adverb
-        
-        """
-        isAdv = True
-        isDone = True
-        
-    if word in adv_place_list and not isDone:
-        """
-        if the word is an adverb of place, then it is an adverb
-        
-        """
-        isAdv = True
-        isDone = True    
-        
-    if word in adv_manner_list and not isDone:
-        """
-        if the word is an adverb of manner, then it is an adverb
-        
-        """
-        isAdv = True
-        isDone = True
-        
-    if next_word == 'na' and not hasVerbAffixes and not isDone:
-        """
-        if the next word is 'na' then the word is an adverb
-        eg. tunay na maganda
-        """
-        isAdv = True
-        isDone = True
-    
-    if prev_word.startswith('ma') and not prev_word.startswith('mag') and (hasVerbAffixes or word.startswith('mag')) and not isDone:
-        """
-        if the previous word is an adverb the word is a verb
-        eg. mabagal magpalit
-        """
-        isAdv = True
-        isDone = True
-        
-    if isPalindrome(word) and not isDone:
-        """
-        if the word is a palindrome then it is an adverb
-        eg. dahandahan (dahan-dahan) siya
-        """
-        isAdv = True
-        isDone = True
-    
-    if word.__contains__('ng') and not isDone:
-        """
-        if the word contains 'ng' then it is an adverb
-        """
-        
-        temp_word = word.replace('ng', '')
-        
-        if isPalindrome(temp_word):
-            """
-            if the temporary word is a palindrome then it is an adverb
-            eg. sobrangsobra (sobrang-sobra) siya
-            """
-            isAdv = True
-            isDone = True
-                       
-    return isAdv
+      if next_word =='nga' or next_word == 'a' and word.startswith("na") and not isDone: 
+         """
+         If the word starts with na and has nga as its next word it is an adverb describing an adjective
+         eg. napartak nga iyaadu = mabilis na pagdami, Napigsa a tudo = malakas na ulan
+         """   
+         isAdv = True
+         isDone = True 
+         
+      # if next_word == 'a' and next2_word isAdj and not hasVerbAffixes and not isDone:
+      #     """
+      #     If the next word is a and has no Verb affixes, then the word is an adverb
+      #     eg. tiyak na maganda ang kinabukasan ng mga ... =  sigurado a naraniag ti masakbayan dagidiay...
+      #     """
+      #     isAdv = True
+      #     isDone = True
+         
+      if word.startswith('na') and not next_word in noun_dtmn_list and not isDone:
+         """
+         If the next word is not a noun dtrmr and the word starts with 'a'
+         eg. mabilis na naglalaho = napartak a mapukpukaw
+         """
+         isAdv = True
+         isDone = True
+         
+      if word == "awan" and not next_word in noun_dtmn_list or isNoun and not isDone:
+         """
+         If the next word is not a noun or pronoun and if the word is Awan, then it is adverb
+         """
+         isAdv = True
+         isDone = True
+                  
+   return isAdv
 # end of function
 
 
@@ -714,10 +632,27 @@ def isPrepo(word, prev_word, prepo_dtmn_list, PREPO_SET):
     This function checks if the specific word in the sentence is a preposition, and extracts it.
     """
     isPrepo = False
+    isDone = False
+    prev_word = ""
     
-    if prev_word in (prepo_dtmn_list) and word in (PREPO_SET):
+    if prev_word in (prepo_dtmn_list) and word in (PREPO_SET) and not isDone:
         isPrepo = True
+        isDone = True
         
+    if word not in (PREPO_SET) and not isDone:
+        isPrepo = True
+        isDone = True
+        
+    if word in (PREPO_SET) and not isDone:
+        isPrepo = True
+        isDone = True
+    if (word.find("ruar") != -1):
+        """
+        eg. makinruar (dakong labas)
+        """
+        isPrepo = True
+        isDone = True
+
     return isPrepo
 # end of function
 
@@ -779,7 +714,7 @@ def tag(sentence_list):
             """
                 
             try:
-                hasVerbAffixes = check_verb_affixes(word, prev2_word, prev_word, next_word, isTagged, hasVerbAffixes, lists_il.PREFIX_SET, lists_il.vowels, lists_il.INFIX_SET, lists_il.SUFFIX_SET)
+                hasVerbAffixes = check_verb_affixes(word, isTagged, hasVerbAffixes, lists_il.PREFIX_SET, lists_il.INFIX_SET, lists_il.SUFFIX_SET)
             except (ValueError, IndexError):
                 hasVerbAffixes = False
             """
@@ -807,14 +742,14 @@ def tag(sentence_list):
                 pos_list.append('CC')
                 isTagged = True
                 
-            elif isVerb(word, prev_word, next_word, hasVerbAffixes, lists_il.PREPO_SET, lists_il.PER_PRONOUN, lists_il.CONJ_SET, lists_il.ADV_SET, lists_il.noun_dtmn_list, lists_il.adv_dtmn_list, lists_il.prepo_dtmn_list, lists_il.vowels) and not isTagged:
+            elif isVerb(word, prev_word, prev2_word, next_word, hasVerbAffixes, lists_il.PREPO_SET, lists_il.PER_PRONOUN, lists_il.CONJ_SET, lists_il.noun_dtmn_list, lists_il.adv_dtmn_list, lists_il.prepo_dtmn_list) and not isTagged:
                 """
                 checks if the word is a verb and not tagged
                 """
                 pos_list.append('VB')
                 isTagged = True
 
-            elif isNoun(word, prev_word, prev2_word, next_word, next2_word, lists_il.noun_dtmn_list, lists_il.PREPO_SET, lists_il.CONJ_SET, lists_il.adv_dtmn_list, lists_il.PER_PRONOUN) and not isTagged:
+            elif isNoun(word, prev_word, prev2_word, next_word, next2_word, lists_il.noun_dtmn_list, lists_il.PREPO_SET, lists_il.CONJ_SET, lists_il.PER_PRONOUN, hasVerbAffixes) and not isTagged:
                 """
                 checks if the word is a noun and not tagged
                 """
@@ -828,7 +763,7 @@ def tag(sentence_list):
                 pos_list.append('JJ')
                 isTagged = True
                
-            elif isAdv(word, prev_word, next_word, hasVerbAffixes, lists_il.PER_PRONOUN, lists_il.adv_time_list, lists_il.adv_freq_list, lists_il.adv_place_list, lists_il.adv_manner_list) and not isTagged:
+            elif isAdv(word, prev_word, next_word, lists_il.PER_PRONOUN, lists_il.PREPO_SET, lists_il.adv_time_list, lists_il.adv_manner_list, lists_il.adv_freq_list, lists_il.adv_place_list, lists_il.adv_dtmn_list, lists_il.noun_dtmn_list) and not isTagged:
                 """
                 checks if the word is an adverb and not tagged
                 """

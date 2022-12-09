@@ -80,3 +80,5 @@ dt_il_tf_idf_list = dict_dt['Ilokano Determiner TF-IDF'].tolist()
 il_struct = dict_il_tl_lm['Ilokano Structure'].tolist()
 tl_struct = dict_il_tl_lm['Tagalog Structure'].tolist()
 tl_struct_count = dict_il_tl_lm['Tagalog Structure Count'].tolist()
+
+print(vb_il_list[0:5])
