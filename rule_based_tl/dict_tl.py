@@ -9,6 +9,9 @@ adj_dict = pd.read_json('src/json data/Tagalog to Ilokano/adj_dict.json')
 # Tagalog to Ilokano Language Model Dictionary
 dict_tl_il_lm = pd.read_json('src/json data/Tagalog to Ilokano/Example-Based/Language Model/dict_tl_il_lang_mod.json')
 
+# Tagalog and Ilokano Famous Phrases
+f_phrases = pd.read_csv('src/csv data/f_phrases.csv')
+
 """"
     Tagalog to Ilokano Dictionaries
 """
@@ -80,3 +83,5 @@ dt_tl_tf_idf_list = dict_dt['Tagalog Determiner TF-IDF'].tolist()
 tl_struct = dict_tl_il_lm['Tagalog Structure'].tolist()
 il_struct = dict_tl_il_lm['Ilokano Structure'].tolist()
 il_struct_count = dict_tl_il_lm['Ilokano Structure Count'].tolist()
+
+tl_phrases = f_phrases['Tagalog'].to_list()
