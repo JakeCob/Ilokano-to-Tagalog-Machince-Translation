@@ -1,4 +1,5 @@
-from rule_based_il import dict_il, lists_il, remove_punct, tokenize, tag
+from rule_based_il import dict_il, remove_punct, tokenize, tag
+from rule_based_tl import dict_tl
 from doc_trans_tl import combine_tokens
 from smt import encapsulate, ngram_var
 import pandas as pd
@@ -167,7 +168,40 @@ def il_trans_lm(ngram_data, il_struct, tl_struct, tl_struct_count):
     return trans_ngram_data
 # end of function
 
+
+def inFPhrases(word, word2, word3, il_phrases):
+    inFPhrases = False
+    il_phrase = []
+    w_used = 0
+    for phrase in il_phrases:
+        length = len(phrase)
+        if length == 1:
+            if word == phrase[0]:
+                inFPhrases = True
+                il_phrase = phrase
+                w_used = 1
+        if length == 2:
+            if word == phrase[0] and word2 == phrase[1]:
+                inFPhrases = True
+                il_phrase = phrase
+                w_used = 2
+        if length == 3:
+            if word == phrase[0] and word2 == phrase[1] and word3 == phrase[2]:
+                inFPhrases = True
+                il_phrase = phrase
+                w_used = 3
+                
+    return inFPhrases, il_phrase, w_used
+# end of function
+
+
 def il_translate_smt(sen_poss_list, dict_source, vb_il_tf_idf_list, nn_il_tf_idf_list, jj_il_tf_idf_list, rb_il_tf_idf_list, cc_il_tf_idf_list, pr_il_tf_idf_list, dt_il_tf_idf_list, il_struct, tl_struct, tl_struct_count):
+    il_phrases = [remove_punct(word) for word in dict_il.il_phrases]
+    il_phrases = [tokenize(word) for word in il_phrases]
+
+    tl_phrases = [remove_punct(word) for word in dict_tl.tl_phrases]
+    tl_phrases = [tokenize(word) for word in tl_phrases]
+    
     not_in_sw = []
     not_in_vb = []
     not_in_nn = []
@@ -198,175 +232,204 @@ def il_translate_smt(sen_poss_list, dict_source, vb_il_tf_idf_list, nn_il_tf_idf
         """
         sen_translation = []
         wp_index = 0
+        cur_wp_index = 0
         
         for word_pos in sen_poss:
-            word = dict_source['Tokenized'][sp_index][wp_index]
-            # gets the word in every sentence
-            
-            # Matching Conditions    
-            # 1. SW
-            if word_pos == 'SW':
-                """
-                if the POS of the word is 'SW'
-                """
-                if word in dict_il.sw_il_list:
-                    temp_index = dict_il.sw_il_list.index(word)
-                    if dict_il.sw_tl_list[temp_index][0] == 'None':
-                        sen_translation.append(word)
-                    else:
-                        sen_translation.append(dict_il.sw_tl_list[temp_index][0])
-                else:
-                    sen_translation.append(word)
-            
-            # 2. VB
-            elif word_pos == 'VB':
-                """
-                if the POS of the word is 'VB'
-                """
-                if word in dict_il.vb_il_list:
+            if wp_index == cur_wp_index:
+                word = dict_source['Tokenized'][sp_index][wp_index]
+                # gets the word in every sentence
+                
+                try: 
+                    word2 = dict_source['Tokenized'][sp_index][wp_index+1]
+                except:
+                    word2 = None
+                try:
+                    word3 = dict_source['Tokenized'][sp_index][wp_index+2]
+                except:
+                    word3 = None
+                
+                ans = inFPhrases(word, word2, word3, il_phrases)
+                inFPDict = ans[0]
+                il_phrase = ans[1]
+                w_used = ans[2]                
+                
+                if inFPDict:
                     """
-                    if the word is in the Tagalog list of verbs
+                    if the word is in the list of Tagalog phrases
                     """
-                    il_index = dict_il.vb_il_list.index(word)
-                    max_ilidf = max(dict_il.vb_tfidf_tl_list[il_index])
-                    tl_index = dict_il.vb_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.vb_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
-                        sen_translation.append(word)
-                    else:
+                    p_index = il_phrases.index(il_phrase)
+                    tl_phrase = tl_phrases[p_index]
+                    for tl_word in tl_phrase:
                         sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-            
-            # 3. NN
-            elif word_pos == 'NN':
-                """
-                if the POS of the word is 'NN'
-                """
-                if word in dict_il.nn_il_list:
-                    """
-                    if the word is in the Tagalog list of noun
-                    """
-                    il_index = dict_il.nn_il_list.index(word)
-                    max_ilidf = max(dict_il.nn_tfidf_tl_list[il_index])
-                    tl_index = dict_il.nn_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.nn_tl_list[il_index][tl_index]
+                    cur_wp_index = wp_index + w_used
                     
-                    if tl_word == 'None':
-                        sen_translation.append(word)
+                else:
+                    cur_wp_index = wp_index + 1
+                                
+                    # Matching Conditions    
+                    # 1. SW
+                    if word_pos == 'SW':
+                        """
+                        if the POS of the word is 'SW'
+                        """
+                        if word in dict_il.sw_il_list:
+                            temp_index = dict_il.sw_il_list.index(word)
+                            if dict_il.sw_tl_list[temp_index][0] == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(dict_il.sw_tl_list[temp_index][0])
+                        else:
+                            sen_translation.append(word)
+                    
+                    # 2. VB
+                    elif word_pos == 'VB':
+                        """
+                        if the POS of the word is 'VB'
+                        """
+                        if word in dict_il.vb_il_list:
+                            """
+                            if the word is in the Tagalog list of verbs
+                            """
+                            il_index = dict_il.vb_il_list.index(word)
+                            max_ilidf = max(dict_il.vb_tfidf_tl_list[il_index])
+                            tl_index = dict_il.vb_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.vb_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                    
+                    # 3. NN
+                    elif word_pos == 'NN':
+                        """
+                        if the POS of the word is 'NN'
+                        """
+                        if word in dict_il.nn_il_list:
+                            """
+                            if the word is in the Tagalog list of noun
+                            """
+                            il_index = dict_il.nn_il_list.index(word)
+                            max_ilidf = max(dict_il.nn_tfidf_tl_list[il_index])
+                            tl_index = dict_il.nn_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.nn_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                    
+                    # 4. JJ
+                    elif word_pos == 'JJ':
+                        """
+                        if the POS of the word is 'JJ'
+                        """
+                        if word in dict_il.jj_il_list:
+                            """
+                            if the word is in the Tagalog list of adjectives
+                            """
+                            il_index = dict_il.jj_il_list.index(word)
+                            max_ilidf = max(dict_il.jj_tfidf_tl_list[il_index])
+                            tl_index = dict_il.jj_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.jj_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                            
+                    # 5. RB
+                    elif word_pos == 'RB':
+                        """
+                        if the POS of the word is 'RB'
+                        """
+                        if word in dict_il.rb_il_list:
+                            """
+                            if the word is in the Tagalog list of adverbs
+                            """
+                            il_index = dict_il.rb_il_list.index(word)
+                            max_ilidf = max(dict_il.rb_tfidf_tl_list[il_index])
+                            tl_index = dict_il.rb_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.rb_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                    
+                    # 6. CC
+                    elif word_pos == 'CC':
+                        """
+                        if the POS of the word is 'CC'
+                        """
+                        if word in dict_il.cc_il_list:
+                            """
+                            if the word is in the Tagalog list of conjunctions
+                            """
+                            il_index = dict_il.cc_il_list.index(word)
+                            max_ilidf = max(dict_il.cc_tfidf_tl_list[il_index])
+                            tl_index = dict_il.cc_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.cc_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                            
+                    # 7. PR
+                    elif word_pos == 'PR':
+                        """
+                        if the POS of the word is 'PR'
+                        """
+                        if word in dict_il.pr_il_list:
+                            """
+                            if the word is in the Tagalog list of prepositions
+                            """
+                            il_index = dict_il.pr_il_list.index(word)
+                            max_ilidf = max(dict_il.pr_tfidf_tl_list[il_index])
+                            tl_index = dict_il.pr_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.pr_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                            
+                    # 8. DT
+                    elif word_pos == 'DT':
+                        """
+                        if the POS of the word is 'DT'
+                        """
+                        if word in dict_il.dt_il_list:
+                            """
+                            if the word is in the Tagalog list of determiners
+                            """
+                            il_index = dict_il.dt_il_list.index(word)
+                            max_ilidf = max(dict_il.dt_tfidf_tl_list[il_index])
+                            tl_index = dict_il.dt_tfidf_tl_list[il_index].index(max_ilidf)
+                            tl_word = dict_il.dt_tl_list[il_index][tl_index]
+                            
+                            if tl_word == 'None':
+                                sen_translation.append(word)
+                            else:
+                                sen_translation.append(tl_word)
+                        else:
+                            sen_translation.append(word)
+                    
                     else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-            
-            # 4. JJ
-            elif word_pos == 'JJ':
-                """
-                if the POS of the word is 'JJ'
-                """
-                if word in dict_il.jj_il_list:
-                    """
-                    if the word is in the Tagalog list of adjectives
-                    """
-                    il_index = dict_il.jj_il_list.index(word)
-                    max_ilidf = max(dict_il.jj_tfidf_tl_list[il_index])
-                    tl_index = dict_il.jj_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.jj_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
                         sen_translation.append(word)
-                    else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-                    
-            # 5. RB
-            elif word_pos == 'RB':
-                """
-                if the POS of the word is 'RB'
-                """
-                if word in dict_il.rb_il_list:
-                    """
-                    if the word is in the Tagalog list of adverbs
-                    """
-                    il_index = dict_il.rb_il_list.index(word)
-                    max_ilidf = max(dict_il.rb_tfidf_tl_list[il_index])
-                    tl_index = dict_il.rb_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.rb_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
-                        sen_translation.append(word)
-                    else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-            
-            # 6. CC
-            elif word_pos == 'CC':
-                """
-                if the POS of the word is 'CC'
-                """
-                if word in dict_il.cc_il_list:
-                    """
-                    if the word is in the Tagalog list of conjunctions
-                    """
-                    il_index = dict_il.cc_il_list.index(word)
-                    max_ilidf = max(dict_il.cc_tfidf_tl_list[il_index])
-                    tl_index = dict_il.cc_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.cc_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
-                        sen_translation.append(word)
-                    else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-                    
-            # 7. PR
-            elif word_pos == 'PR':
-                """
-                if the POS of the word is 'PR'
-                """
-                if word in dict_il.pr_il_list:
-                    """
-                    if the word is in the Tagalog list of prepositions
-                    """
-                    il_index = dict_il.pr_il_list.index(word)
-                    max_ilidf = max(dict_il.pr_tfidf_tl_list[il_index])
-                    tl_index = dict_il.pr_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.pr_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
-                        sen_translation.append(word)
-                    else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-                    
-            # 8. DT
-            elif word_pos == 'DT':
-                """
-                if the POS of the word is 'DT'
-                """
-                if word in dict_il.dt_il_list:
-                    """
-                    if the word is in the Tagalog list of determiners
-                    """
-                    il_index = dict_il.dt_il_list.index(word)
-                    max_ilidf = max(dict_il.dt_tfidf_tl_list[il_index])
-                    tl_index = dict_il.dt_tfidf_tl_list[il_index].index(max_ilidf)
-                    tl_word = dict_il.dt_tl_list[il_index][tl_index]
-                    
-                    if tl_word == 'None':
-                        sen_translation.append(word)
-                    else:
-                        sen_translation.append(tl_word)
-                else:
-                    sen_translation.append(word)
-            
-            else:
-                sen_translation.append(word)
 
             wp_index += 1
         sp_index += 1
