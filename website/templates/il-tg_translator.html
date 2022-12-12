@@ -16,7 +16,7 @@
       href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet"
     />
-      
+
     <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
@@ -44,7 +44,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-      
+
     <!-- Vendor CSS Files -->
     <link href="../static/vendor/aos/aos.css" rel="stylesheet" />
     <link
@@ -79,7 +79,9 @@
     <header id="header" class="fixed-top">
       <div class="container d-flex align-items-center">
         <h1 class="logo me-auto">
-          <a href="home"><img src="../static/img/Icon.png"/>Ilokano-Tagalog Translator</a>
+          <a href="home"
+            ><img src="../static/img/Icon.png" />Ilokano-Tagalog Translator</a
+          >
         </h1>
 
         <nav id="navbar" class="navbar">
@@ -94,58 +96,85 @@
       </div>
     </header>
     <!-- End Header -->
-      
+
     <div class="section-title mt-01">
-        <h2>Hybrid Translator</h2>
+      <h2>Hybrid Translator</h2>
     </div>
-      
+
     <!-- ======= Form Section ======= -->
-        <form method="POST" action="/il_tag"> 
-            <div class="container-fluid bg-light">
-                <div class="translator_container">
-                    <div class="card bg-light border border-2 border-secondary col-4 rounded mt-3 mb-3">
-                        <div class="card-header text-white" id="card-header">
-                            <center><h1>ILOKANO</h1></center>
-                        </div>
-
-                        <div class="card-body">
-                            <textarea rows="20" class="form-control" id="id--system-input" name="source_lang">{{source}}</textarea>
-                        </div>
-                    </div>
-
-                    <div class="d-flex justify-content-center justify-content-lg-start">
-                        <a href="tag_il" class="btn-get-started scrollto mt-4"><i class="bi bi-arrow-left-right"></i></a>
-                    </div>
-                    
-                    <div class="card bg-light border border-2 border-secondary col-4 rounded mt-3 mb-3">
-                        <div class="card-header text-white" id="card-header">
-                            <center><h1>TAGALOG</h1></center>
-                        </div>
-
-                        <div class="card-body">
-                            <textarea rows="20" class="form-control" id="id--system-output" name="system-output"> {% for op_sen in op_sen_list %}{{op_sen + "\n"}}{% endfor %}</textarea>
-                        </div>
-                    </div>
-                </div>
+    <form method="POST" action="/il_tag">
+      <div class="container-fluid bg-light">
+        <div class="translator_container">
+          <div
+            class="card bg-light border border-2 border-secondary col-4 rounded mt-3 mb-3"
+          >
+            <div class="card-header text-white" id="card-header">
+              <center><h1>ILOKANO</h1></center>
             </div>
 
-            <!-- ======= Button Section ======= -->
-            <div class="buttons">
-              <div class="btn-group">
-                  <div class="ms-3 me-2"><button type="">Clear</button></div>
-                  <div class="ms-2"><button id="translate" type="submit">Translate</button></div>
-              </div>
+            <div class="card-body">
+              <textarea
+                rows="20"
+                class="form-control"
+                id="id--system-input"
+                name="source_lang"
+              >
+{{source}}</textarea
+              >
             </div>
-        </form>
-              
+          </div>
+
+          <div class="d-flex justify-content-center justify-content-lg-start">
+            <a href="tag_il" class="btn-get-started scrollto mt-4"
+              ><i class="bi bi-arrow-left-right"></i
+            ></a>
+          </div>
+
+          <div
+            class="card bg-light border border-2 border-secondary col-4 rounded mt-3 mb-3"
+          >
+            <div class="card-header text-white" id="card-header">
+              <center><h1>TAGALOG</h1></center>
+            </div>
+
+            <div class="card-body">
+              <textarea
+                rows="20"
+                class="form-control"
+                id="id--system-output"
+                name="system-output"
+                readonly="true"
+              >
+ {% for op_sen in op_sen_list %}{{op_sen + "\n"}}{% endfor %}</textarea
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ======= Button Section ======= -->
+      <div class="buttons">
+        <div class="btn-group">
+          <div class="ms-3 me-2 mt-3">
+            <a href="il_tag" class="btn-get-started scrollto">Clear</a>
+          </div>
+          <div class="ms-2 mt-1">
+            <button id="translate" type="submit">Translate</button>
+          </div>
+        </div>
+      </div>
+    </form>
+
     <!-- ======= Footer ======= -->
     <footer id="footer">
       <div class="container footer-bottom clearfix">
         <div class="copyright">
-          &copy; Copyright <strong><span>Group 3</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Group 3</span></strong
+          >. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">Group 3 & BootstrapMade</a>
+          Designed by
+          <a href="https://bootstrapmade.com/">Group 3 & BootstrapMade</a>
         </div>
       </div>
     </footer>
@@ -165,7 +194,7 @@
       type="text/javascript"
       src="{{ url_for('static', filename='translator_script.js') }}"
     ></script>
-      
+
     <!-- Vendor JS Files -->
     <script src="../static/vendor/aos/aos.js"></script>
     <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
