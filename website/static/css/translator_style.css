@@ -27,6 +27,10 @@
   margin-left: 60%;
 }
 
+.mt-002{
+    margin-top: 0.3%;
+}
+
 .mt-01 {
     margin-top: 10%;
 }
@@ -90,7 +94,7 @@ i {
   margin: 0 auto;
 }
 
-.btn-group button{
+.btn-group button, .btn-group a{
   background: #3b271d;
   border: 0;
   padding: 12px 34px;
