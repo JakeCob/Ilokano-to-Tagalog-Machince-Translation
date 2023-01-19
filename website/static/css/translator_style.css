@@ -1,0 +1,138 @@
+/* Spacings */
+.mr-03 {
+  margin-right: 3%;
+}
+
+.mr-05 {
+  margin-right: 5%;
+}
+.mr-07 {
+  margin-right: 7%;
+}
+
+.mr-1 {
+    margin-right: 10%
+}
+
+.mr-1 {
+  margin-right: 10%;
+}
+
+.ml-1 {
+  margin-left: 17%;
+  margin-top: 7%;
+}
+
+.ml-6 {
+  margin-left: 60%;
+}
+
+.mt-002{
+    margin-top: 0.3%;
+}
+
+.mt-01 {
+    margin-top: 10%;
+}
+
+/* Header */
+#header {
+  background-color: #3B271D;
+}
+
+/*Main Content*/
+form {
+  background-color: #fff;
+}
+
+i {
+    font-size: 35px;
+    background-color: #3B271D;
+    background-clip: border-box;
+    border-radius: .5rem;
+    border-width: .2rem;
+    border: 0;
+    margin-top: 10px;
+}
+
+.bi {
+    color: #f5b717;
+    padding: 7px;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  width: 570px;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: .5rem;
+  border-width: .2rem;
+  border: 0;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);hsla(0, 0%, 0%, 0.2);
+}
+
+#card-header {
+  background-color: #5e3d2d;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1rem;
+  background-color: #efe0bb;
+}
+
+.buttons {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.btn-group {
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.btn-group button, .btn-group a{
+  background: #3b271d;
+  border: 0;
+  padding: 12px 34px;
+  color: #f5b717;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.btn-group button:hover{
+  background: #efe0bb;
+  color: #3b271d
+}
+
+/* Non-Bootstrap */
+textarea {
+  min-width: 100%;
+  background-color: white;
+  resize: none;
+}
+
+#translate {
+  background-color: #3b271d;
+  color: #f5b717;
+}
+
+.translator_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 1em 0;
+  text-align: left;
+  border-radius: .5rem;
+  border-width: .2rem;
+  border: 0;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);hsla(0, 0%, 0%, 0.2);
+}
+
+.footer {
+  position: relative;
+  top: 10%;
+}
