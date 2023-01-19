@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+instance/
+.idea/
+__pycache__
+instance
+.idea
