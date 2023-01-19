@@ -1,8 +1,8 @@
 import pandas as pd
 from flask import Blueprint, render_template, request, jsonify
-from doc_trans_tl import doc_trans
-from doc_trans_smt_tl import smt_trans
-from doc_trans_smt_il import il_smt_trans
+from module.tl_il.doc_trans_tl import doc_trans
+from module.tl_il.doc_trans_smt_tl import smt_trans
+from module.il_tl.doc_trans_smt_il import il_smt_trans
 
 views = Blueprint('views', __name__)
 

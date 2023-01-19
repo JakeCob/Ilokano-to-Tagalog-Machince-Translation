@@ -1,7 +1,7 @@
-from rule_based_il import dict_il, remove_punct, tokenize, tag
-from rule_based_tl import dict_tl
-from doc_trans_tl import combine_tokens
-from smt import encapsulate, ngram_var
+from module.il_tl.rule_based_il import dict_il, remove_punct, tokenize, tag
+from module.tl_il.rule_based_tl import dict_tl
+from module.tl_il.doc_trans_tl import combine_tokens
+from module.smt import encapsulate, ngram_var
 import pandas as pd
 
 def get_sum_il(sen_poss_list, dict_source, not_in_sw, not_in_vb, not_in_nn, not_in_jj, not_in_rb, not_in_cc, not_in_pr, not_in_dt, not_tagged, sum_tf_idf_il_list, vb_il_tf_idf_list, nn_il_tf_idf_list, jj_il_tf_idf_list, rb_il_tf_idf_list, cc_il_tf_idf_list, pr_il_tf_idf_list, dt_il_tf_idf_list):

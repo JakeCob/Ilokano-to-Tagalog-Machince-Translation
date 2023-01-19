@@ -1,7 +1,7 @@
 import pandas as pd
 import string
 import re
-from rule_based_tl import dict_tl, lists_tl
+from module.tl_il.rule_based_tl import dict_tl, lists_tl
 
 def remove_punct(pText):
     text_nopunct = "".join([char for char in pText if char not in string.punctuation])

@@ -1,7 +1,7 @@
-from rule_based_tl import dict_tl, remove_punct, tokenize, tag
-from rule_based_il import dict_il
-from doc_trans_tl import combine_tokens
-from smt import encapsulate, ngram_var
+from module.tl_il.rule_based_tl import dict_tl, remove_punct, tokenize, tag
+from module.il_tl.rule_based_il import dict_il
+from module.tl_il.doc_trans_tl import combine_tokens
+from module.smt import encapsulate, ngram_var
 import pandas as pd
 
 

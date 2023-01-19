@@ -1,4 +1,4 @@
-from rule_based_tl import dict_tl, remove_punct, tokenize, tag
+from module.tl_il.rule_based_tl import dict_tl, remove_punct, tokenize, tag
 import pandas as pd
 
 

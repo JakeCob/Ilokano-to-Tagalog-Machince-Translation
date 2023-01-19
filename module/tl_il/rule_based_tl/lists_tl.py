@@ -1,4 +1,4 @@
-from rule_based_tl import dict_tl
+from module.tl_il.rule_based_tl import dict_tl
 
 """
 Determiner Lists

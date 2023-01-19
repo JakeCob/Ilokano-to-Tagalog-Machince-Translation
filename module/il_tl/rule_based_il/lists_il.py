@@ -1,4 +1,4 @@
-from rule_based_il import dict_il
+from module.il_tl.rule_based_il import dict_il
 
 """
 Determiner Lists
