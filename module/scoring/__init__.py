@@ -13,7 +13,7 @@ def scoring_bleu(dict_tl_il_result):
     system_op_list = dict_tl_il_result['System Output'].tolist()
     target_op_list = dict_tl_il_result['Target Output'].tolist()
     
-    with open("src/text data/Tagalog to Ilokano Scores/bleu_scores.txt","w", encoding="utf-8") as df:
+    with open("../src/text data/Tagalog to Ilokano Scores/bleu_scores.txt","w", encoding="utf-8") as df:
         temp_index = 0
         total_bleu_score = 0
         score_list = []
