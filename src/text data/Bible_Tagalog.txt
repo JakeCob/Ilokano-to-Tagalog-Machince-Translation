@@ -184,7 +184,6 @@ At sa bawa't nangabubuhay, sa lahat ng laman ay maglululan ka sa loob ng sasakya
 Sa mga ibon ayon sa kanikanilang uri, at sa mga hayop ayon sa kanikanilang uri, sa bawa't nagsisiusad, ayon sa kanikanilang uri, dalawa sa bawa't uri, ay isasama mo sa iyo, upang maingatan silang buhay.
 At magbaon ka ng lahat na pagkain na kinakain, at imbakin mo sa iyo; at magiging pagkain mo at nila.
 Gayon ginawa ni Noe; ayon sa lahat na iniutos sa kaniya ng Dios, ay gayon ang ginawa niya.
------Wrong-----
 At sinabi ng Panginoon kay Noe, Lumulan ka at ang iyong buong sangbahayan sa sasakyan; sapagka't ikaw ay aking nakitang matuwid sa harap ko sa panahong ito.
 Sa bawa't malinis na hayop ay kukuha ka ng tigpipito, ng lalake at ng kaniyang babae; at sa mga hayop na hindi malinis ay dalawa, ng lalake at ng kaniyang babae;
 Gayon din naman sa mga ibon sa himpapawid tigpipito, ng lalake at ng babae; upang ingatang binhing buhay sa ibabaw ng buong lupa.
@@ -7691,7 +7690,8 @@ At ang Israel ay huminang totoo dahil sa Madian; at ang mga anak ni Israel ay du
 At nangyari, nang dumaing sa Panginoon ang mga anak ni Israel, dahil sa Madian.
 Ay nagsugo ang Panginoon ng isang propeta sa mga anak ni Israel: at kaniyang sinabi sa kanila, Ganito ang sabi ng Panginoon ng Dios ng Israel, Kayo'y aking iniahon mula sa Egipto, at inilabas ko kayo sa bahay ng pagkaalipin;
 At pinapaging laya ko kayo sa kamay ng mga taga Egipto, at sa kamay ng mga pumipighati sa inyo, at aking pinalayas sila sa harap ninyo, at ibinigay ko sa inyo ang kanilang lupain;
-At aking sinabi sa inyo, Ako ang Panginoon ninyong Dios; kayo'y huwag matatakot sa mga dios ng mga Amorrheo, na siyang lupaing inyong tinatahanan: nguni't hindi ninyo dininig ang aking tinig.
+At aking sinabi sa inyo, Ako ang Panginoon ninyong Dios; kayo'y huwag matatakot sa mga dios ng mga Amorrheo, na siyang lupaing inyong tinatahanan: 
+Nguni't hindi ninyo dininig ang aking tinig.
 At ang anghel ng Panginoon ay naparoon at umupo sa ilalim ng encina na nasa Ophra, na kay Joas na Abiezerita: at ang kaniyang anak na si Gedeon ay pumapalo ng trigo sa ubasan, upang itago sa mga Madianita.
 At napakita ang anghel ng Panginoon sa kaniya, at sinabi sa kaniya, Ang Panginoo'y sumasaiyo, ikaw lalaking makapangyarihang may tapang.
 At sinabi ni Gedeon sa kaniya, Oh Panginoon ko, kung ang Panginoon ay sumasaamin, bakit nga ang lahat ng ito ay sumapit sa amin
@@ -10620,7 +10620,8 @@ At si Joab ay tumakas na napatungo sa Tolda ng Panginoon, at pumigil sa mga anyo
 At nasaysay sa haring Salomon, Si Joab ay tumakas na napatungo sa Tolda ng Panginoon, at, narito, siya'y nasa siping ng dambana
 Nang magkagayo'y sinugo niya si Benaia na anak ni Joiada, na sinasabi, Ikaw ay yumaon, daluhungin mo siya.
 At si Benaia ay naparoon sa Tolda ng Panginoon, at nagsabi sa kaniya, Ganito ang sabi ng hari, Lumabas ka
-At kaniyang sinabi, Hindi; kundi ako'y mamamatay rito, At dinala ni Benaia sa hari ang salita uli, na sinasabi, Ganito ang sinabi ni Joab, at ganito ang isinagot sa akin.
+At kaniyang sinabi, Hindi; kundi ako'y mamamatay rito, 
+At dinala ni Benaia sa hari ang salita uli, na sinasabi, Ganito ang sinabi ni Joab, at ganito ang isinagot sa akin.
 At sinabi ng hari sa kaniya, Gawin kung paano ang sinabi niya, at daluhungin mo siya, at ilibing mo siya; upang iyong maalis ang dugo na ibinubo ni Joab ng walang kadahilanan sa akin at sa sangbahayan ng aking ama.
 At ibabalik ng Panginoon ang kaniyang dugo sa kaniyang sariling ulo, sapagka't siya'y dumaluhong sa dalawang lalake, na lalong matuwid, at maigi kay sa kaniya, at mga pinatay ng tabak, at hindi nalalaman ng aking amang si David, sa makatuwid baga'y si Abner na anak ni Ner, na puno ng hukbo ng Israel, at si Amasa na anak ni Jether, na puno ng hukbo ng Juda.
 Sa gayo'y ang kanilang dugo ay mababalik sa ulo ni Joab, at sa ulo ng kaniyang binhi magpakailan man: nguni't kay David, at sa kaniyang binhi, at sa kaniyang sangbahayan, sa kaniyang luklukan ay magkakaroon ng kapayapaan magpakailan man na mula sa Panginoon.
@@ -10901,8 +10902,8 @@ Ay akin ngang itatatag ang luklukan ng iyong kaharian sa Israel magpakailan man,
 Nguni't kung kayo ay magsisihiwalay sa pagsunod sa akin, kayo o ang inyong mga anak, at hindi ingatan ang aking mga utos, at ang aking mga palatuntunan, na aking inilagay sa harap ninyo, kundi kayo'y magsisiyaon at magsisipaglingkod sa ibang mga dios, at magsisisamba sa kanila:
 Akin ngang ihihiwalay ang Israel sa lupain na aking ibinigay sa kanila; at ang bahay na ito na aking pinapaging banal sa aking pangalan, ay aking iwawaksi sa aking paningin; at ang Israel ay magiging kawikaan at kakutyaan sa gitna ng lahat ng bayan:
 At bagaman ang bahay na ito ay totoong mataas, gayon ma'y ang bawa't magdaan sa kaniya ay magtataka at susutsot at kanilang sasabihin, Bakit ginawa ng Panginoon ang ganito sa lupaing ito, at sa bahay na ito?
-At sila'y magsisisagot, Sapagka't kanilang pinabayaan ang Panginoon nilang Dios na naglabas sa kanilang mga magulang sa lupain ng Egipto, at nagsipanghawak sa ibang mga dios, at sinamba nila, at pinaglingkuran nila: at kaya't pinarating ng Panginoon sa kanila ang lahat na kasamaang ito.
 Mga bayan na ibinigay kay Hiram.
+At sila'y magsisisagot, Sapagka't kanilang pinabayaan ang Panginoon nilang Dios na naglabas sa kanilang mga magulang sa lupain ng Egipto, at nagsipanghawak sa ibang mga dios, at sinamba nila, at pinaglingkuran nila: at kaya't pinarating ng Panginoon sa kanila ang lahat na kasamaang ito.
 At nangyari sa katapusan ng dalawang pung taon, nang si Salomon ay makapagtayo ng dalawang bahay, ng bahay ng Panginoon at ng bahay ng hari
 (Si Hiram nga na hari sa Tiro ay nagpadala kay Salomon ng mga kahoy na sedro, at mga kahoy na abeto, at ng ginto, ayon sa buo niyang nasa,) na binigyan nga ng haring Salomon si Hiram ng dalawang pung bayan sa lupain ng Galilea.
 At lumabas si Hiram sa Tiro upang tingnan ang mga bayan na ibinigay ni Salomon sa kaniya; at hindi niya kinalugdan.
@@ -11651,7 +11652,8 @@ At nang siya'y pumaroon sa kaniya, sinabi niya, Kalungin mo ang iyong anak.
 Nang magkagayo'y pumasok siya at nagpatirapa sa kaniyang mga paa, at yumukod sa lupa; at kinalong niya ang kaniyang anak, at umalis.
 Ang nakakamatay na pagkain
 Tinapay at unang bunga ay dumami.
-At si Eliseo ay bumalik sa Gilgal: at may kagutom sa lupain; at ang mga anak ng mga propeta ay nangakaupo sa harap niya: at sinabi niya sa kaniyang lingkod: Isalang mo ang malaking palayok, at ipagluto mo ng lutuin ang mga anak ng mga propeta.
+At si Eliseo ay bumalik sa Gilgal: 
+At may kagutom sa lupain; at ang mga anak ng mga propeta ay nangakaupo sa harap niya: at sinabi niya sa kaniyang lingkod: Isalang mo ang malaking palayok, at ipagluto mo ng lutuin ang mga anak ng mga propeta.
 At ang isa ay lumabas sa bukid upang manguha ng mga gugulayin, at nakasumpong ng isang baging gubat, at namitas doon ng mga kalabasang gubat na ang kaniyang kandungan ay napuno, at bumalik at pinagputolputol sa palayok ng lutuin: sapagka't hindi nila nalalaman.
 Sa gayo'y kanilang ibinuhos para sa mga tao upang kanin
 At nangyari, samantalang sila'y nagsisikain ng lutuin, na sila'y nagsisigaw, at nagsipagsabi, Oh lalake ng Dios, may kamatayan sa palayok
