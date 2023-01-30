@@ -82,11 +82,9 @@ Ang isisibol niyaon sa iyo ay mga tinik at mga dawag; at kakain ka ng pananim sa
 Sa pawis ng iyong mukha ay kakain ka ng tinapay, hanggang sa ikaw ay mauwi sa lupa; sapagka't diyan ka kinuha: sapagka't ikaw ay alabok at sa alabok ka uuwi.
 At tinawag na Eva ng lalake ang kaniyang asawa, sapagka't siya ang naging ina ng lahat ng mga nabubuhay.
 At iginawa ng Panginoong Dios si Adam at ang kaniyang asawa ng mga kasuutang balat at sila'y dinamitan.
-Pinalayas sila sa Eden.
 At sinabi ng Panginoong Dios, Narito't ang tao'y naging parang isa sa atin, na nakakakilala ng mabuti at ng masama; at baka ngayo'y iunat ang kaniyang kamay at pumitas naman ng bunga ng punong kahoy ng buhay, at kumain at mabuhay magpakailan man:
 Kaya pinalayas siya ng Panginoong Dios sa halamanan ng Eden, upang kaniyang bukirin ang lupaing pinagkunan sa kaniya.
 Ano pa't itinaboy ang lalake; at inilagay sa silanganan ng halamanan ng Eden ang mga Querubin at ang isang nagniningas na tabak na umiikot, upang ingatan ang daang patungo sa kahoy ng buhay.
-^Wrong
 Si Cain at si Abel.
 At nakilala ng lalake si Eva na kaniyang asawa; at siya'y naglihi at ipinanganak si Cain, at sinabi, Nagkaanak ako ng lalake sa tulong ng Panginoon.
 At sa muli ay ipinanganak ang kaniyang kapatid na si Abel
@@ -123,8 +121,8 @@ Ada at Zilla pakinggan ninyo ang aking tinig:
 Kayong mga asawa ni Lamec ay makinig ng aking salaysay:
 Sapagka't pumatay ako ng isang tao, dahil sa ako'y sinugatan,
 At ng isang binata, dahil sa ako'y hinampas.
-Kung makapitong gagantihan si Cain, tunay na si Lamec ay makapitong pung pito.
-Panganganak kay Set.
+Kung makapitong gagantihan si Cain, 
+Tunay na si Lamec ay makapitong pung pito.
 At nakilalang muli ni Adam ang kaniyang asawa; at nanganak ng isang lalake, at tinawag ang kaniyang pangalan na Set; sapagka't aniya'y binigyan ako ng Dios ng ibang anak na kahalili ni Abel; sapagka't siya'y pinatay ni Cain.
 At nagkaanak naman si Set ng isang lalake; at tinawag ang kaniyang pangalan na Enos
 Noon ay pinasimulan ng mga tao ang pagtawag sa pangalan ng Panginoon.
@@ -187,6 +185,7 @@ At sa bawa't nangabubuhay, sa lahat ng laman ay maglululan ka sa loob ng sasakya
 Sa mga ibon ayon sa kanikanilang uri, at sa mga hayop ayon sa kanikanilang uri, sa bawa't nagsisiusad, ayon sa kanikanilang uri, dalawa sa bawa't uri, ay isasama mo sa iyo, upang maingatan silang buhay.
 At magbaon ka ng lahat na pagkain na kinakain, at imbakin mo sa iyo; at magiging pagkain mo at nila.
 Gayon ginawa ni Noe; ayon sa lahat na iniutos sa kaniya ng Dios, ay gayon ang ginawa niya.
+-----Wrong-----
 At sinabi ng Panginoon kay Noe, Lumulan ka at ang iyong buong sangbahayan sa sasakyan; sapagka't ikaw ay aking nakitang matuwid sa harap ko sa panahong ito.
 Sa bawa't malinis na hayop ay kukuha ka ng tigpipito, ng lalake at ng kaniyang babae; at sa mga hayop na hindi malinis ay dalawa, ng lalake at ng kaniyang babae;
 Gayon din naman sa mga ibon sa himpapawid tigpipito, ng lalake at ng babae; upang ingatang binhing buhay sa ibabaw ng buong lupa.
