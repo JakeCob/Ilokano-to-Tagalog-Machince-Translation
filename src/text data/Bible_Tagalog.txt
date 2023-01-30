@@ -53,11 +53,11 @@ At sinabi ng Panginoong Dios, Hindi mabuti na ang lalake ay magisa; siya'y ilala
 At nilalang ng Panginoong Dios sa lupa ang lahat ng hayop sa parang at ang lahat ng ibon sa himpapawid; at pinagdadala sa lalake upang maalaman kung anong itatawag niya sa mga iyon: at ang bawa't itinawag ng lalake sa bawa't kinapal na may buhay ay yaon ang naging pangalan niyaon.
 At pinanganlan ng lalake ang lahat ng mga hayop, at ang mga ibon sa himpapawid, at ang bawa't ganid sa parang; datapuwa't sa lalake ay walang nasumpungang maging katulong niya.
 At hinulugan ng Panginoong Dios ng di kawasang himbing ang lalake, at siya'y natulog: at kinuha ang isa sa kaniyang mga tadyang at pinapaghilom ang laman sa dakong yaon:
-At ang tadyang na kinuha ng Panginoong Dios sa lalake ay ginawang isang babae, at ito'y dinala niya sa lalake.
 At sinabi ng lalake, Ito nga'y buto ng aking mga buto at laman ng aking laman: siya'y tatawaging Babae, sapagka't sa Lalake siya kinuha.
 Kaya't iiwan ng lalake ang kaniyang ama at ang kaniyang ina, at makikipisan sa kaniyang asawa: at sila'y magiging isang laman.
 At sila'y kapuwa hubad, ang lalake at ang kaniyang asawa, at sila'y hindi nagkakahiyaan.
 Ang tukso at ang pagsuway ni Adam at ni Eva.
+-----------------------------------------------
 Ang ahas nga ay lalong tuso kay sa alin man sa mga hayop sa parang na nilikha ng Panginoong Dios
 At sinabi niya sa babae, Tunay bang sinabi ng Dios, Huwag kayong kakain sa alin mang punong kahoy sa halamanan?
 At sinabi ng babae sa ahas, Sa bunga ng mga punong kahoy sa halamanan ay makakakain kami:
@@ -86,6 +86,7 @@ Pinalayas sila sa Eden.
 At sinabi ng Panginoong Dios, Narito't ang tao'y naging parang isa sa atin, na nakakakilala ng mabuti at ng masama; at baka ngayo'y iunat ang kaniyang kamay at pumitas naman ng bunga ng punong kahoy ng buhay, at kumain at mabuhay magpakailan man:
 Kaya pinalayas siya ng Panginoong Dios sa halamanan ng Eden, upang kaniyang bukirin ang lupaing pinagkunan sa kaniya.
 Ano pa't itinaboy ang lalake; at inilagay sa silanganan ng halamanan ng Eden ang mga Querubin at ang isang nagniningas na tabak na umiikot, upang ingatan ang daang patungo sa kahoy ng buhay.
+^Wrong
 Si Cain at si Abel.
 At nakilala ng lalake si Eva na kaniyang asawa; at siya'y naglihi at ipinanganak si Cain, at sinabi, Nagkaanak ako ng lalake sa tulong ng Panginoon.
 At sa muli ay ipinanganak ang kaniyang kapatid na si Abel
@@ -93,7 +94,6 @@ At si Abel ay tagapagalaga ng mga tupa; datapuwa't si Cain ay mangbubukid ng lup
 At nangyari nang lumalakad ang panahon ay nagdala si Cain ng isang handog na mga bunga ng lupa sa Panginoon.
 At nagdala rin naman si Abel ng mga panganay ng kaniyang kawan at ng mga taba ng mga yaon
 At nilingap ng Panginoon si Abel at ang kaniyang handog:
-Datapuwa't hindi nilingap si Cain at ang kaniyang handog
 At naginit na mainam si Cain, at namanglaw ang kaniyang mukha.
 At sinabi ng Panginoon kay Cain, Bakit ka naginit
 at bakit namanglaw ang iyong mukha?
@@ -361,8 +361,6 @@ At pinagpakitaan nito ng magandang loob si Abram dahil sa kaniya: at nagkaroon s
 At sinalot ng Panginoon si Faraon at ang kaniyang sangbahayan, ng malaking pagsalot dahil kay Sarai na asawa ni Abram.
 At tinawag ni Faraon si Abram, at sinabi, Ano itong ginawa mo sa akin
 Bakit hindi mo ipinahayag sa akin na siya'y iyong asawa?
-Bakit sinabi mong siya'y aking kapatid
-na ano pa't siya'y aking kinuha upang maging asawa: ngayon nga'y nariyan ang iyong asawa; siya'y kunin mo at yumaon ka.
 At nagbilin si Faraon sa mga tao tungkol sa kaniya: at siya'y kanilang inihatid sa daan, at ang kaniyang asawa, at ang lahat ng kaniyang pagaari.
 Pagbalik sa Canaan.
 At umahon sa Timugan si Abram mula sa Egipto, siya at ang kaniyang asawa, at ang lahat ng kaniyang tinatangkilik, at si Lot na kaniyang kasama.

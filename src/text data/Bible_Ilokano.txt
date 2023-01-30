@@ -53,11 +53,11 @@ Ket ni Jehova Dios kinunana, Saan a nasayaat nga agmaymaysa ti tao: yaramidacto 
 Ni Jehova Dios binukelna iti daga amin nga an-animal iti daga, ken amin a tumatayab cadagiti langit; ket inyegna ida iti tao tapno makitana no casano ti panangpanaganna cadacuada: ket cas ti pinangnagan ti tao iti amin a parsua a sibibiag, dayta isu ti naganna.
 Ket pinanaganan ti lalaki amin nga animal a naamo, ken tumatayab iti langlangit, ken ti amin a narungsot iti away; ngem ti tao saan a nacasarac ti catulongan a maitutop kencuana.
 Ket ni Jehova Dios immapayna ti nargaan a turog iti tao, ket nacaturog; ket innalana ti maysa cadagiti paragpagna, ket ti nangalaanna rinipcanna ti lasag:
-Ket ti paragpag nga innala ni Jehova Dios pinagbalinna a babai, ket inyegna iti tao.
 Ket di tao, kinunana, Daytoy ita isu ti tulang dagiti tulangco, ken lasag ti lasagco: isu mapanagananto, Babai, ta iti Tao ti nacaalaanna.
 Gapuna ti lalaki panawannanto ti amana ken ti inana, ket tumiponto iti asawana, ket agbalindanto a maymaysa a lasag.
 Ket isuda a dua ti lalaki ken ti asawana, silamolamoda idi ket dida nagbain.
 Ti Pannacasulisog ken Supring da Adan ken Eva
+-----------------------------------------------
 Ti Pannacapagtalawda sadiay Eden.
 Itan ti uleg isu idi a casisicapan cadagiti amin nga animal iti daga nga inaramid ni Jehova Dios
 Ket isu kinunana iti babai, Pudno aya a kinuna ti Dios, Saancay a mangan iti amin a cayo iti minuyongan?
@@ -86,6 +86,7 @@ Ket ni Jehova Dios inyaramidanna ni Adan ken ni asawana cadagiti pagananay a lal
 Ket ni Jehova Dios kinunana, Adtoy, ti lalaki nagbalin a cas maysa cadatayo, nga ammona ti naimbag ken ti dakes; ket ita, di la ket ta igawatna ti imana, ken mangala iti cayo ti biag, ken mangan, ken agbiag a cancanayon.
 Iti casta ni Jehova Dios pinaruarna iti minuyongan ti Eden, tapno talonenna ti daga a nacaalaanna.
 Ket pinagtalawna ti tao; ket insaadna iti daya ti minuyongan ti Eden ti Kerubin ken ti maysa nga sumilsilap a campilan a simmango iti amin a turong, tapno bantayanna ti dalan nga agturong iti cayo ti biag.
+^Wrong
 Da Cain ken Abel
 Ket ti lalaki dinennaanna ni asawana nga Eva; ket nagsicug, ket inyanacna ni Cain, ket kinunana, Nagun-odco ti maysa a lalaki gapu ken Jehova.
 Ket inyanacna manen ni cabsatna nga Abel
@@ -93,7 +94,6 @@ Ket nagaywan ni Abel cadagiti carcarnero, ngem ni Cain nagtaltalon.
 Ket naaramid iti panaglasat dagiti pannawen a ni Cain nangala iti bunga ti daga nga indatonna ken Jehova.
 Ket ni Abel, nangala met cadagiti inauna nga anac cadagiti pangenna ken dagiti nalucmeg
 Ket ni Jehova pinatpategna ni Abel ken ti datonna.
-Ngem ni Cain ken ti datonna dina incancano
 Ket nagpungtot unay ni Cain, ket nagliday ti rupana.
 Ket ni Jehova kinunana ken Cain, Apayapay nga agpungpungtotca
 ket apayapay narupanget ta rupam?
@@ -361,8 +361,6 @@ Ket inaramidna ti naimbag ken Abram maipuon iti babai: ket adda carnerona idi, k
 Ket ni Jehova pinaricnaanna ni Faraon ken ti balayna cadagiti dadackel a didigra maipuon ken Sarai nga asawa ni Abram.
 Ket iti casta inayaban ni Faraon ni Abram, ket kinunana, Ania daytoy nga inaramidmo caniac
 Ania ti gapuna a dica inbaga caniac nga isu ti asawam?
-Apayapay kinunam, Isu cabsatco, iti casta isu ti nangalaac nga asawaen
-Ita ngarud, adtoy ti asawam, alaem, ket incan.
 Ket ni Faraon nagbilin cadagiti tattao iti pannacaalluadna ket intulodda iti dalan, isu ken ti asawana, ken amin nga adda kencuana.
 Ni Abram agsubli idiay Canaan
 Ket ni Abram simmang-at nanipud iti Egipto, isu, ken ti asawana, agraman amin nga adda kencuana, ken ni Lot a kinacuyogda, a nagpaabagatan.
