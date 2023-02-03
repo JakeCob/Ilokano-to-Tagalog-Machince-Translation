@@ -169,7 +169,7 @@ def il_trans_lm(ngram_data, il_struct, tl_struct, tl_struct_count):
 # end of function
 
 
-def inFPhrases(word, word2, word3, il_phrases):
+def inFPhrases(word, word2, word3, word4, il_phrases):
     inFPhrases = False
     il_phrase = []
     w_used = 0
@@ -190,6 +190,11 @@ def inFPhrases(word, word2, word3, il_phrases):
                 inFPhrases = True
                 il_phrase = phrase
                 w_used = 3
+        if length == 4:
+            if word == phrase[0] and word2 == phrase[1] and word3 == phrase[2] and word4 == phrase[3]:
+                inFPhrases = True
+                il_phrase = phrase
+                w_used = 4
                 
     return inFPhrases, il_phrase, w_used
 # end of function
@@ -247,8 +252,12 @@ def il_translate_smt(sen_poss_list, dict_source, vb_il_tf_idf_list, nn_il_tf_idf
                     word3 = dict_source['Tokenized'][sp_index][wp_index+2]
                 except:
                     word3 = None
+                try:
+                    word4 = dict_source['Tokenized'][sp_index][wp_index+3]
+                except:
+                    word4 = None
                 
-                ans = inFPhrases(word, word2, word3, il_phrases)
+                ans = inFPhrases(word, word2, word3, word4, il_phrases)
                 inFPDict = ans[0]
                 il_phrase = ans[1]
                 w_used = ans[2]                
