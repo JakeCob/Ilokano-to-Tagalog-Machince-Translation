@@ -5301,8 +5301,6 @@ Ket ti nagan ti babai a Madianita a napapatay isu idi ni Cozbi, nga anac a babai
 Ket ni Jehova nakisao ken Moises, a kinunana,
 Parigatem dagiti Madianitas, ket cabilem ida:
 Ta isuda pinarigatdacayo cadagiti al-allilawda a pinangulbodda cadacayo, a maipanggep ken Peor, ken iti maipanggep ken Cozbi, nga anac a babai ti pangolo ti Madian, a cabsatda a babai nga napapatay iti aldaw ti didigra iti maipanggep ken Peor.
-Bendicion ti panagtulnog
-Dusa ti panaglabsing.
 Ket naaramid calpasan ti didigra, a ni Jehova nakisao cada Moises ken Eleazar nga anac a lalaki ni Aaron a padi, a kinunana,
 Bilangenyo amin ti gimong dagiti annac ti Israel manipud agtawen iti duapulo ken agpangato, cadagiti balbalay dagiti ammada, amin nga Israel a tumutop a mapan iti gubat.
 Ket da Moises Eleazar a padi nakisaoda cadacuada iti tantanap ti Moab nga abay ti Jordan idiay Jerico a kinunada.
@@ -5338,15 +5336,19 @@ Ken Asriel, ti familia dagiti Asrielitas: ken Sechem, ti familia dagiti Sechemit
 Ken Semida, ti familia dagiti Semidaitas; ken Hepher, ti familia dagiti Hepherititas.
 Ket ni Safaad, nga anac a lalaki ni Hefer, awan anacna a lalaki, no di la babai: ket dagiti nagan dagiti annac a babbai ni Salfaad isuda idi da Maala, ken Noa, ken Hogla, ken Milca, ken Tirsa.
 Dagitoy dagiti famfamilia ni Manases: ket dagidiay a nabilang cadacuada limapulo ket dua ribu ket pito gasutda.
-Dagitoy dagiti annac a lallaki ni Efraim a mayannurot cadagiti famfamiliada; ni Sutela, ti familia dagiti Sutelaitas; ken Becquer, ti familia dagiti Bequeritas; ken Tahan, ti familia dagiti Tahanitas.
-Ket dagitoy idi dagiti annac a lallaki ni Sutela: ken Heran, ti familia dagiti Heranitas.
+Dagitoy dagiti annac a lallaki ni Efraim a mayannurot cadagiti famfamiliada; 
+ni Sutela, ti familia dagiti Sutelaitas; 
+ken Becquer, ti familia dagiti Bequeritas; 
+ken Tahan, ti familia dagiti Tahanitas.
+Ket dagitoy idi dagiti annac a lallaki ni Sutela: 
+ken Heran, ti familia dagiti Heranitas.
 Dagitoy isuda ti famfamilia dagiti annac a lallaki ni Efraim a mayannurot cadagidiay a nabilang cadacuada, tallopulo ket dua a ribu ket lima gasutda
-Dagitoy isuda idi dagiti annac a lallaki ni Jose cadagiti finamfamilia cadacuada.
 Dagiti annac a lallaki ni Benjamin a mayannurot cadagiti famfamiliada: ni Bela, ti familia dagiti Belaitas; ken Asbel, ti familia dagiti Asbelitas; ken Ahiram, ti familia dagiti Ahiramitas;
 Ken Sufan, ti familia dagiti Sufanitas: ken Hufam, ti familia dagiti Hufamitas.
 Ket dagiti annac a lallaki ni Bela isuda idi da Ard, ken Naaman: ni Ard, ti familia dagiti Arditas; ken Naaman, ti familia dagiti Naamanitas.
 Dagitoy isuda dagiti annac a lallaki ni Benjamin a mayannurot cadagiti famfamiliada: ket dagidiay a nabilang cadacuada uppat a pulo ket lima a ribu ket innem a gasutda.
-Dagitoy dagiti annac a lallaki ni Dan cas mayannurot cadagiti famfamiliada: ken Suham, ti familia dagiti Suhamitas; dagitoy isuda ti famfamilia ni Dan a mayannurot iti famfamiliada.
+Dagitoy dagiti annac a lallaki ni Dan cas mayannurot cadagiti famfamiliada: ken Suham, ti familia dagiti Suhamitas; 
+dagitoy isuda ti famfamilia ni Dan a mayannurot iti famfamiliada.
 Amin dagiti famfamilia dagiti Suhamitas a mayannurot cadagidiay a nabilang cadacuada, innem a pulo ket uppat a ribu ket uppat a gasutda.
 Dagiti annac a lallaki ni Aser cas mayannurot cadagiti famfamiliada: ni Imna, ti familia dagiti Imnaitas; ken Issui, ti familia dagiti Issuitas; ken Beria, ti familia dagiti Beriaitas.
 Dagiti annac ti lallaki ni Beria: ken Heber, ti familia dagiti Heberitas; ken Malquiel, ti familia dagiti Malquielitas.
@@ -5361,7 +5363,7 @@ Cadagitoy mabingbingayto ti daga a maipaay a maysa a tawid cas mayannurot iti bi
 Iti caaduan, itedmonto ti ad-adu a tawid, ket iti cabassitan, itedmonto ti basbassit a tawid: iti tumunggal maysa cas mayannurot cadagidiay a nabilang kencuana ti tawidna maitedto.
 Nupay casta ti daga maiburburayto iti ginasangasat: cas mayannurot cadagiti nagnagan dagiti capcaputotan dagiti amammada, isuda agtawiddanto.
 Cas mayanatup iti maipagasat, mabingbingayto ti tawidda cadagiti caaduan ken cababassitan.
-Ket dagitoy dagiti nabilang cadagiti Levitas a mayannurot cadagiti famfamiliada: ken Gerson, ti familia dagiti Gersonitas; ken Coat, ti familia dagiti Coatitas; ken Merari, ti familia dagiti Meraritas.
+dagitoy dagiti nabilang cadagiti Levitas a mayannurot cadagiti famfamiliada: ken Gerson, ti familia dagiti Gersonitas; ken Coat, ti familia dagiti Coatitas; ken Merari, ti familia dagiti Meraritas.
 Dagitoy isuda dagiti famfamilia ni Levi: ti familia dagiti Libnitas, ti familia dagiti Hebronitas, ti familia dagiti Mahalitas, ti familia dagiti Musitas, ti familia dagiti Coritas
 Ket ni Coat pinutotna ni Amram.
 Ket ti nagan ti asawa ni Amram, ni Jocabed, nga anac a babai ni Levi, a nayanac ken Levi idiay Egipto: ket isu inyanacna ken Amram da Aaron, ken Moises, ken Miriam a cabsatda a babai.
@@ -5370,14 +5372,14 @@ Ket ni Nadab ken Abiu natayda idi indatagda ti apuy a sabali iti sango ni Jehova
 Ket dagiti nabilang idi cadacuada dua pulo ket tallo a ribuda, tunggal lalaki nga agtawen manipud iti maysa a bulan ken agpangato; ta isuda saanda a naibilang idi cadagiti annac ti Israel a gapu ta awan ti tawid a naited cadacuada cadagiti annac ti Israel.
 Dagitoy dagiti binilang da Moises ken Eleazar a padi isuda a nagbilang cadagiti annac ti Israel iti tantanap ti Moab nga abay ti Jordan idiay Jerico.
 Ngem amin cadagitoy awan idi ti maysa a lalaki cadacuada cadagidi binilang da Moises ken Aaron a padi; isuda a nangbilang cadagiti annac ti Israel idiay let-ang ti Sinai.
-Ta ni Jehova sinaona cadacuada, Isuda dinto bumurong a matayda idiay let-ang ket awan ti maysa a lalaki a natda cadacuada malacsid ni Caleb, nga anac ni Jefone, ken Josue nga anac ni Nun.
+Ta ni Jehova sinaona cadacuada, Isuda dinto bumurong a matayda idiay let-ang 
+ket awan ti maysa a lalaki a natda cadacuada malacsid ni Caleb, nga anac ni Jefone, ken Josue nga anac ni Nun.
 Dagiti annac a babai ni Salfaad
-Maipacdaar ken Moises ti ipapatayna
-Ni Josue a sonona.
 Immadanida ngarud dagiti annac a babbai ni Salfaad, nga anac a lalaki ni Hefer, nga anac a lalaki ni Galaad, nga anac a lalaki ni Maquir, nga anac a lalaki ni Manases, iti familia ni Manases nga anac a lalaki ni Jose; ket dagitoy ti nagnagan dagiti annacna a babbai; da Maala, Noa, ken Hogla ken Milca, ken Tirsa.
 Ket nagyanda iti sango ni Moises, ken sango ni Eleazar a padi, ken sango dagiti pangpangolo ken amin a gimong, iti ruangan ti tolda ti gimong, a kinunada,
 Ni amami natay iti let-ang, ket isu awan idi cadagiti buyot a naguummong a maicaniwas ken Jehova a kinatipon ti buyot ni Core: ngem isu natay iti basolna met laeng; ket isu awan annacna a lallaki.
-Apayapay a maiccat coma ti nagan ni amami cadagiti familiana, gapu ta isu awan ti annacna a lallaki
+Apayapay a maiccat coma ti nagan ni amami cadagiti familiana, 
+gapu ta isu awan ti annacna a lallaki
 Iccannacami iti pakipagtagicuaanmi cadagiti cacabsat ni amami.
 Ket ni Moises impanna ti panggepda iti sango ni Jehova.
 Ket ni Jehova nagsao ken Moises, a kinunana,
@@ -5911,10 +5913,10 @@ Ngem ti maicapito nga aldaw isu ti maysa a panaginana ken Jehova a Diosmo: iti d
 Ket laglagipemto a maysaca met idi nga adipen iti daga nga Egipto, ket ni Jehova a Diosmo inaonnaca sadiay iti ima a mannacabalin ken tackiag a sitatag-ay: gapuna a ni Jehova a Diosmo imbilinna kenca a salimetmetam ti aldaw a panaginana.
 Dayawem ni amam ken ni inam, cas ni Jehova a Diosmo imbilinna kenca; tapno manayon dagiti aldawmo, ken tapno agbalincanto a naimbag iti daga nga ited kenca ni Jehova a Diosmo.
 Dica mamapatay.
-Dica met makiabig iti dica asawa.
-Dica met agtacaw.
-Dica met agsacsi iti ulbod a maibusor iti padam a tao.
-Dica met aguman ti asawa ti padam a tao; dica met aguman ti balay ti padam a tao, ti talonna, wenno ti adipenna a lalaki, wenno adipenna a babai, ti vacana, wenno ti asnona, wenno ti uray ania a cucua ti padam a tao.
+Dica makiabig iti dica asawa.
+Dica agtacaw.
+Dica agsacsi iti ulbod a maibusor iti padam a tao.
+Dica aguman ti asawa ti padam a tao; dica met aguman ti balay ti padam a tao, ti talonna, wenno ti adipenna a lalaki, wenno adipenna a babai, ti vacana, wenno ti asnona, wenno ti uray ania a cucua ti padam a tao.
 Dagitoy dagiti sasao a ni Jehova binalicasna iti natbag a timec iti dagup ti gimong idiay bantay nanipud iti tengnga ti apuy, ti ulep, ken ti napuscol a sipnget: ket awanen ti innayonna
 Ket insuratna ida iti rabaw ti dua a taptapi a bato, sana inted idi caniac.
 Ket naaramid, idi a nangngegyo ti timec nanipud iti tengnga ti sipnget, idi a sumsumged di bantay iti apuy, immasidegcayo caniac, uray amin dagiti pangpangolo ti capcaputotanyo, ken lallacayyo;
@@ -5929,7 +5931,6 @@ Inca, cunam cadacuada, Agsublicayo cadagiti toltoldayo.
 Ngem no sica, agyanca ditoy caniac, ket saoecto kenca ti dagup dagiti linlinteg, ken al-alagaden, ken bilbilin, nga isuromto cadacuada, tapno aramidendanto ida iti daga nga itedco cadacuada a tagicuaen.
 Dacayo tungpalenyonto nga aramiden ngarud ti cas imbilin cadacayo ni Jehova a Diosyo, dicayto sumiasi uray iti macanawan wenno iti macatigid.
 Magnacayto laeng iti amin a dana nga ni Jehova a Diosyo imbilinna cadacayo tapno agbiagcayo ken agbalincayo a naimbag ken tapno manayon dagiti al-aldawyo iti daga a tagicuaenyonto.
-Pammagbaga ken pammatigmaan.
 Ita daytoy ti bilin, dagiti al-alagaden, ken linlinteg, nga imbilin ni Jehova a Diosyo nga isuroc cadacayo, tapno isuda ti aramidenyo iti daga nga incayo tagicuaen;
 Tapno agamangaca ken Jehova a Diosmo, a salimetmetam amin nga al-alagadenna ken bilbilinna, nga imbilinco kenca, sica, ken ti anacmo a lalaki, ken ti anac ti anacmo, bayat dagiti al-aldaw a panagbiagmo; ken tapno dagiti al-aldawmo manayonda.
 Denggem ngarud, O Israel, ket tungpalem nga aramiden; tapno agbalinca a naimbag ken umaduca iti casta unay, cas ni Jehova a Dios dagiti ammam incarina kenca, iti maysa a daga nga agayus ti gatas ken diro.
@@ -5941,7 +5942,8 @@ Ket ibedbedmonto ida ita imam a maysa a tandaan, ket isudanto ti pannacabedbed t
 Ket isuratmonto ida cadagiti babaotec ti ruangan ti balaymo, ken cadagiti rikepmo.
 Ket maaramidto, a no ni Jehova a Diosmo yegnacanto iti daga nga insapatana cadagiti ammam, a da Abraham, Isaac ken Jacob, nga itedna kenca, dagiti dackel ken naimbag nga il-ili a dica pinatacder,
 Ken dagiti balbalay a napno cadagiti nasayaat a banbanag, a dica indulin, ken bobbobon a kinutcutan, saan a sica ti nagcutcut, cauv-uvasan ken caol-olivaan, a saan a sica ti nagmula, ket mangancanto, ket mapneccanto;
-Agaluadca ngarud di la ket ta malipatam ni Jehova, a nangaon kenca iti daga nga Egipto, nanipud iti balay ti nacaadipnan.
+a nangaon kenca iti daga nga Egipto, 
+nanipud iti balay ti nacaadipnan.
 Agamangaca ken Jehova a Diosmo; ket agservicanto kencuana, ket agsapatacanto iti naganna.
 Dica agsapul iti sabali a dios, cadagiti didios dagiti il-ili a aglawlaw cadacayo;
 Ta ni Jehova a Diosmo nga adda iti tengngam isu ti manangimun a Dios; di la ket ta ti pungtot ni Jehova a Diosmo sumged a maibusor kenca, ket isu dadaelennaca nga iccaten iti rabaw ti daga.
@@ -6333,7 +6335,6 @@ Maaramidto ngarud nga iti aldaw a panagpatawidna cadagiti annacna a lallaki iti 
 Ngem ammoennanto nga inauna nga anac, ti anac ni magurgura, iti panangitedna kencuana ti mamindua a bingay cadagiti amin nga adda kencuana; ta isu ti damo ti pigsana; calintegan ti kina-inauna nga anac a lalaki cucuana.
 No ti maysa a lalaki adda anacna a lalaki a nasungit ken nasalungasing, a dina cayat ti agtungpal iti timec ni amana wenno iti timec ni inana, ket nupay dusaenda dinanto la ipangag ida:
 Iti casta ni amana ken ni inana tengngelendanto, ket ipandanto cadagiti lallacay ti ili, ken iti ruangan ti dissona;
-Ket cunadanto cadagiti lallacay ti ciudadna, Daytoy anacmi a lalaki nasungit ken nasalungasing, dina cayat ti agtungpal iti timecmi; isu nabuclis ken managbarbartec.
 Amin dagiti lallaki ti ilina uburendanto tapno matay cadagiti batbato: casta ti panangiccatto iti dakes iti tengngayo; ket amin nga Israel dumngegto ket agbutengto.
 Ti bagina dinto mabati, nga agpatpatnag iti cayo, ngem itabonmonto a di-agcurang iti daydiay met laeng nga aldaw; ta daydiay a nabitay isu ti inlunod ti Dios; tapno dica mulitan ti dagam a ni Jehova a Diosmo intedna kenca a tawiden.
 Nadumaduma a linlinteg.
@@ -6700,7 +6701,6 @@ sica limmucmegca, bimmanegca, timmabacan;
 Iti casta binaybay-anna ti Dios a nangaramid kencuana, 
 ket parparawpaw ti pinangipategna iti Bato a salacanna.
 Isuda pinagimunda gapu cadagiti sabsabali a didios; 
-agraman macarimon ginargarida tapno agunget.
 Isuda nagidatonda cadagiti sasairo, a saan a ti Dios, 
 cadagiti didios a dida ammo idi, 
 cadagiti didios a babaro a calcaltuad, 

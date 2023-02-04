@@ -5301,7 +5301,6 @@ At ang pangalan ng babaing Madianita na napatay ay Cozbi, na anak ni Zur; siya'y
 At sinalita ng Panginoon kay Moises, na sinasabi,
 Bagabagin ninyo ang mga Madianita, at inyong saktan sila:
 Sapagka't kanilang binagabag kayo ng kanilang mga lalang na kanilang ipinangdaya sa inyo sa bagay ng Peor, at sa bagay ni Cozbi, na anak na babae ng prinsipe sa Madian, na kanilang kapatid na namatay nang kaarawan ng salot dahil sa Peor.
-Ang mga tao ay binilang.
 At nangyari, pagkatapos ng salot, na sinalita ng Panginoon kay Moises at kay Eleazar na anak ni Aaron na saserdote, na sinasabi,
 Bilangin mo ang buong kapisanan ng mga anak ni Israel mula sa dalawang pung taong gulang na patanda, ayon sa mga sangbahayan ng kanilang mga magulang, yaong lahat na makalalabas sa Israel sa pakikibaka.
 At si Moises at si Eleazar na saserdote ay nakipagsalitaan sa kanila sa mga kapatagan ng Moab sa siping ng Jordan sa Jerico, na sinasabi,
@@ -5337,15 +5336,18 @@ At kay Asriel, ang angkan ng mga Asrielita: at kay Sechem, ang angkan ng mga Sec
 At kay Semida, ang angkan ng mga Semidaita: at kay Hepher, ang angkan ng mga Hepherita.
 At si Salphaad na anak ni Hepher ay hindi nagkaanak ng lalake, kundi mga babae: at ang mga pangalan ng mga anak na babae ni Salphaad ay Maala, at Noa, Hogla, Milca, at Tirsa.
 Ito ang mga angkan ni Manases; at yaong nangabilang sa kanila, ay limang pu at dalawang libo at pitong daan.
-Ito ang mga anak ni Ephraim ayon sa kanilang mga angkan: kay Suthala, ang angkan ng mga Suthalaita: kay Becher, ang angkan ng mga Becherita: kay Tahan, ang angkan ng mga Tahanita.
-At ito ang mga anak ni Suthala: kay Heran, ang angkan ng mga Heranita.
+Ito ang mga anak ni Ephraim ayon sa kanilang mga angkan: 
+kay Suthala, ang angkan ng mga Suthalaita: 
+kay Becher, ang angkan ng mga Becherita: 
+kay Tahan, ang angkan ng mga Tahanita.
+At ito ang mga anak ni Suthala: 
+kay Heran, ang angkan ng mga Heranita.
 Ito ang mga angkan ng mga anak ni Ephraim ayon sa nangabilang sa kanila, tatlong pu't dalawang libo at limang daan
-Ito ang mga anak ni Jose, ayon sa kanilang mga angkan.
 Ang mga anak ni Benjamin ayon sa kanilang mga angkan: kay Bela, ang angkan ng mga Belaita; kay Asbel, ang angkan ng mga Asbelita: kay Achiram, ang angkan ng mga Achiramita;
 Kay Supham ang angkan ng mga Suphamita; kay Hupham, ang angkan ng mga Huphamita.
 At ang mga anak ni Bela ay si Ard at si Naaman: kay Ard, ang angkan ng mga Ardita: kay Naaman, ang angkan ng mga Naamanita.
 Ito ang mga anak ni Benjamin ayon sa kanilang mga angkan; at yaong nangabilang sa kanila ay apat na pu't limang libo at anim na raan.
-Ito ang mga anak ni Dan ayon sa kanilang mga angkan: kay Suham, ang angkan ng mga Suhamita
+Ito ang mga anak ni Dan ayon sa kanilang mga angkan: kay Suham, ang angkan ng mga Suhamita 
 Ito ang mga angkan ni Dan ayon sa kanilang mga angkan.
 Lahat ng mga angkan ng mga Suhamita, ayon sa nangabilang sa kanila, ay anim na pu't apat na libo at apat na raan.
 Ang anak ni Aser ayon sa kanilang mga angkan: kay Imna, ang angkan ng mga Imnaita: kay Issui, ang angkan ng mga Issuita, kay Beria, ang angkan ng mga Beriaita.
@@ -5373,11 +5375,11 @@ Nguni't sa mga ito ay walang tao sa kanila, na ibinilang ni Moises at ni Aaron n
 Sapagka't sinabi ng Panginoon tungkol sa kanila, Sila'y mamamatay na walang pagsala sa ilang
 At walang natira kahi't isang tao sa kanila, liban kay Caleb na anak ni Jephone, at kay Josue na anak ni Nun.
 Mga anak na babae ni Salphaad
-Si Moises ay pinagsabihan tungkol sa kaniyang pagkamatay.
 Nang magkagayo'y nagsilapit ang mga anak na babae ni Salphaad, na anak ni Hepher, na anak ni Galaad, na anak ni Machir, na anak ni Manases, sa mga angkan ni Manases, na anak ni Jose; at ito ang mga pangalan ng kaniyang mga anak: Maala, at Noa, at Hogla, at Milca, at Tirsa.
 At sila'y nagsitayo sa harap ni Moises, at sa harap ni Eleazar na saserdote, at sa harap ng mga prinsipe at ng buong kapisanan, sa pintuan ng tabernakulo ng kapisanan, na sinasabi,
 Ang aming ama ay namatay sa ilang, at siya'y hindi kasama ng nagpipisang magkakasama laban sa Panginoon, sa pulutong ni Core: kundi siya'y namatay sa kaniyang sariling kasalanan; at hindi nagkaanak ng lalake.
-Bakit ang pangalan ng aming ama ay aalisin sa angkan niya, sapagka't siya'y hindi nagkaanak ng lalake
+Bakit ang pangalan ng aming ama ay aalisin sa angkan niya, 
+sapagka't siya'y hindi nagkaanak ng lalake
 Bigyan ninyo kami ng pagaari sa gitna ng mga kapatid ng aming ama.
 At dinala ni Moises ang kanilang usap sa harap ng Panginoon.
 At sinalita ng Panginoon kay Moises, na sinasabi,
@@ -5911,10 +5913,10 @@ Nguni't ang ikapitong araw ay sabbath sa Panginoon mong Dios: sa araw na iyan ay
 At iyong aalalahanin na ikaw ay naging alipin sa lupain ng Egipto, at ikaw ay inilabas ng Panginoon mong Dios doon sa pamamagitan ng isang makapangyarihang kamay at unat na bisig: kaya't iniutos sa iyo ng Panginoon mong Dios, na ipangilin mo ang araw ng sabbath.
 Igalang mo ang iyong ama at ang iyong ina, gaya ng iniutos sa iyo ng Panginoon mong Dios: upang ang iyong mga araw ay lumawig at upang ikabuti mo sa lupain na ibinibigay sa iyo ng Panginoon mong Dios.
 Huwag kang papatay.
-Ni mangangalunya.
-Ni magnanakaw.
-Ni sasaksi sa di katotohanan laban sa iyong kapuwa.
-Ni huwag mong iimbutin ang asawa ng iyong kapuwa; ni huwag mong pagnanasaan ang bahay ng iyong kapuwa, ang kaniyang bukid, ni ang kaniyang aliping lalake, o babae, ni ang kaniyang baka, ni ang kaniyang asno, ni anomang bagay ng iyong kapuwa.
+Huwag kang mangangalunya.
+Huwag kang magnanakaw.
+Huwag kang sasaksi sa di katotohanan sa iyong kapuwa.
+Huwag mong iimbutin ang asawa ng iyong kapuwa; ni huwag mong pagnanasaan ang bahay ng iyong kapuwa, ang kaniyang bukid, ni ang kaniyang aliping lalake, o babae, ni ang kaniyang baka, ni ang kaniyang asno, ni anomang bagay ng iyong kapuwa.
 Ang mga salitang ito ay sinalita ng Panginoon sa buong kapisanan ninyo sa bundok mula sa gitna ng apoy, sa ulap, at sa salisalimuot na kadiliman, ng malakas na tinig: at hindi na niya dinagdagan pa
 At kaniyang isinulat sa dalawang tapyas na bato, at ibinigay sa akin.
 At nangyari, nang inyong marinig ang tinig mula sa gitna ng kadiliman, samantalang ang bundok ay nagliliyab sa apoy, ay lumapit kayo sa akin, sa makatuwid baga'y ang lahat ng mga pangulo sa inyong mga lipi, at ang inyong mga matanda;
@@ -5929,7 +5931,6 @@ Yumaon ka, sabihin mo sa kanila, Magsibalik kayo sa inyong mga tolda.
 Nguni't tungkol sa iyo, matira ka rito sa akin, at aking sasalitain sa iyo ang lahat ng utos, at ang mga palatuntunan, at ang mga kahatulan, na iyong ituturo sa kanila, upang kanilang gawin sa lupain na aking ibinibigay sa kanila upang ariin.
 Inyo ngang isagawa na gaya ng iniutos sa inyo ng Panginoon ninyong Dios: huwag kayong liliko sa kanan o sa kaliwa.
 Kayo'y lalakad ng buong lakad na iniutos sa inyo ng Panginoon ninyong Dios, upang kayo'y mabuhay, at upang ikabuti ninyo, at upang inyong mapalawig ang inyong mga araw sa lupain na inyong aariin.
-Ang Israel ay pinaalalahanan upang maging tapat sa Panginoon.
 Ito nga ang utos, ang mga palatuntunan, at ang mga kahatulan, na iniutos ng Panginoon ninyong Dios na ituro sa inyo, upang inyong magawa sa lupaing inyong paroroonan upang ariin:
 Na ikaw ay matakot sa Panginoon mong Dios, na iyong ingatan ang lahat niyang mga palatuntunan at ang kaniyang mga utos, na aking iniutos sa iyo, sa iyo, at sa iyong anak, at sa anak ng iyong anak sa lahat ng araw ng iyong buhay; at upang ang iyong mga araw ay lumawig.
 Dinggin mo nga, Oh Israel, at iyong isagawa upang ikabuti mo, at upang kayo'y dumaming maigi, na gaya ng ipinangako sa iyo ng Panginoon, ng Dios ng iyong mga magulang, sa lupaing binubukalan ng gatas at pulot.
@@ -5941,7 +5942,8 @@ At iyong itatali na pinakatanda sa iyong kamay at mga magiging pinakatali sa iyo
 At iyong isusulat sa itaas ng pintuan ng iyong bahay at sa iyong mga pintuan-daan.
 At mangyayari, pagka ipapasok ka ng Panginoon mong Dios sa lupain na kaniyang isinumpa sa iyong mga magulang, kay Abraham, kay Isaac, at kay Jacob, upang ibigay sa iyo; na may malalaki at mabubuting bayan na hindi mo itinayo,
 At mga bahay na puno ng lahat na mabubuting bagay, na hindi mo pinuno, at mga balong hukay na hindi mo hinukay, mga ubasan at mga puno ng olibo, na hindi mo itinanim, at iyong kakanin at ikaw ay mabubusog;
-At magingat ka nga, baka iyong malimutan ang Panginoon, na naglabas sa iyo sa lupain ng Egipto, sa bahay ng pagkaalipin.
+na naglabas sa iyo sa lupain ng Egipto, 
+sa bahay ng pagkaalipin.
 Ikaw ay matakot sa Panginoon mong Dios; at sa kaniya'y maglilingkod ka, at sa pamamagitan lamang ng kaniyang pangalan susumpa ka.
 Huwag kang susunod sa ibang mga dios, sa mga dios ng mga bansang nasa palibot mo;
 Sapagka't ang Panginoon mong Dios na nasa gitna mo, ay isang mapanibughuing Dios; baka ang galit ng Panginoon mong Dios ay magalab laban sa iyo, at ikaw ay kaniyang lipulin sa ibabaw ng lupa.
@@ -6333,7 +6335,6 @@ Ay mangyayari nga sa araw na kaniyang pagmanahin ang kaniyang mga anak ng kaniya
 Kundi kaniyang kikilalaning panganay, ang anak ng kinapopootan sa pamamagitan ng pagbibigay sa kaniya ng dalawang bahagi sa buong kaniyang tinatangkilik; sapagka't siya ang pasimula ng kaniyang lakas; ang karapatan nga ng pagkapanganay ay kaniya.
 Kung ang isang lalake ay may matigas na loob at mapanghimagsik na anak, na ayaw makinig ng tinig ng kaniyang ama, o ng tinig ng kaniyang ina, at bagaman kanilang parusahan siya ay ayaw makinig sa kanila:
 Ay hahawakan nga ng kaniyang ama at ng kaniyang ina at dadalhin sa mga matanda sa kaniyang bayan, at sa pintuang-bayan ng kaniyang pook;
-At kanilang sasabihin sa mga matanda sa kaniyang bayan
 Itong aming anak ay matigas na loob at mapanghimagsik, na ayaw niyang dinggin ang aming tinig; siya'y may masamang pamumuhay, at manglalasing.
 Ay huwag maiiwan buong gabi ang kaniyang bangkay sa punong kahoy, kundi walang pagsalang siya'y iyong ililibing sa araw ding yaon; sapagka't ang bitin ay sinumpa ng Dios; upang huwag mong ihawa ang iyong lupa na ibinibigay sa iyo ng Panginoon mong Dios, na ipinamana.
 Iba't ibang batas.
@@ -6700,7 +6701,6 @@ Ikaw ay tumataba, ikaw ay lumalapad, ikaw ay naging makinis:
 Nang magkagayo'y kaniyang pinabayaan ang Dios na lumalang sa kaniya,
 At niwalang kabuluhan ang Bato na kaniyang kaligtasan.
 Siya'y kinilos nila sa paninibugho sa ibang mga dios,
-Sa pamamagitan ng mga karumaldumal, minungkahi nila siya sa kagalitan.
 Kanilang inihain sa mga demonio, na hindi Dios,
 Sa mga dios na hindi nila nakilala,
 Sa mga bagong dios, na kalilitaw pa lamang,
