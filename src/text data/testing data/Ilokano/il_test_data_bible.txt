@@ -3435,7 +3435,8 @@ Ket naggapu iti caputotan ni Gad, ti Ramot idiay Galaad agraman cabangibangna, k
 Ken ti Hesbon agraman cabangibangna, ken ti Jacer agraman cabangibangna.
 Dagiti caputotan da Issacar
 Ket dagiti annac a lallaki ni Issacar: da Tola, ken Pua, Jabsub, ken Simron, uppatda.
-Ket dagiti annac a lallaki ni Tola: da Uzzi, Refaias, ken Jenriel, ken Jamai, Jibsam, ken Samuel, pangpangoloen dagiti balbalay dagiti ammada, ammoen, ken Tola: lallaki a mannacabalin ken mamaingel cadagiti capounanda: ti bilangda cadagidi al-aldaw ni David duapulo ket dua a ribu ket innem a gasutda idi.
+Ket dagiti annac a lallaki ni Tola: da Uzzi, Refaias, ken Jenriel, ken Jamai, Jibsam, ken Samuel, pangpangoloen dagiti balbalay dagiti ammada, ammoen, ken Tola: lallaki a mannacabalin ken mamaingel cadagiti capounanda: 
+ti bilangda cadagidi al-aldaw ni David duapulo ket dua a ribu ket innem a gasutda idi.
 Ket dagiti annac a lallaki ni Uzzi: ni Izrahias
 Ket dagiti annac a lallaki ni Izraias: da Micael, Obadias, Joel, ken Isaias, limada; isuda amin pangpangoloenda a lallaki.
 Ket mainayon cadacuada, dagiti pinounpounda, a mayannurot cadagiti balbalay dagiti ammada, adda idi pangpangen ti buyot a maipaay iti gubat, a tallopulo ket innem a ribu: ta addaanda idi iti adu nga assawa a babbai ken annac a lallaki.
@@ -3448,18 +3449,23 @@ Amin dagitoy isuda dagiti annac a lallaki ni Beker.
 Ket nabilangda iti pinounpoun, a mayannurot cadagiti capcaputotan, pangoloen dagiti balbalay dagiti ammada, lallaki a mannacabalin ken mamaingel, duapulo a ribuda ket dua gasut.
 Ket dagiti annac a lallaki ni Jediael: ni Bilhan
 Ket dagiti annac a lallaki ni Bilhan: da Jebus, Benjamin, ken Aod, ken Cenaana, Zetan, Tarsis, ken Ahisahar.
-Dagiti caputotan da Nephtali
 Amin dagitoy isuda dagiti annac a lallaki ni Jediael, a mayannurot cadagiti pangoloen dagiti balbalay dagiti ammada, lallaki a mannacabalin ken mamaingel, sangapulo ket pito a ribuda ket dua gasut, a cabaelanda ti mapan iti buyot a maipaay iti gubat.
 Ni Suppim met, ken ni Huppim, dagiti annac a lallaki ni Hir, ni Husim, dagiti annac a lallaki ni Aher.
-Dagiti annac a lallaki ni Neftali: da Jaziel, Guni, Jezer, ken Sallum, nga annac a lallaki ni Bilha.
-Dagiti annac a lallaki ni Manases: da Asriel, nga impasngay ti camalalana nga Aramita; isu impasngayna ni Makir nga ama ni Galaad.
-Ket ni Makir nangala iti maysa nga asawa cada Huppim ken Suppim, a ti nagan ti babai a cabsatda Maaca; ket ti nagan ti maicadua Salfaad; ket ni Salfaad addaan idi cadagiti annac a babbai.
-Ket ni Maaca nga asawa ni Makir nangipasngay iti maysa nga anac a lalaki, ket ninaganna iti Peres; ket ti nagan ti cabsatna a lalaki Seres; ket dagiti annacna a lallaki isuda Ulam, ken Recem.
+Dagiti caputotan da Nephtali
+Dagiti annac a lallaki ni Neftali: 
+Da Jaziel, Guni, Jezer, ken Sallum, nga annac a lallaki ni Bilha.
+Dagiti annac a lallaki ni Manases: 
+Da Asriel, nga impasngay ti camalalana nga Aramita; isu impasngayna ni Makir nga ama ni Galaad.
+Ket ni Makir nangala iti maysa nga asawa cada Huppim ken Suppim, a ti nagan ti babai a cabsatda Maaca; 
+Ket ti nagan ti maicadua Salfaad; ket ni Salfaad addaan idi cadagiti annac a babbai.
+Ket ni Maaca nga asawa ni Makir nangipasngay iti maysa nga anac a lalaki, 
+Ket ninaganna iti Peres; ket ti nagan ti cabsatna a lalaki Seres; ket dagiti annacna a lallaki isuda Ulam, ken Recem.
 Ket dagiti annac a lallaki ni Ulam: ni Bedan
 Dagitoy isuda dagiti annac a lallaki ni Galaad nga anac a lalaki ni Makir, nga anac a lalaki ni Manases.
 Ket ni Hamoleket a babai a cabsatna impasngayna da Ishod, ken Abiezer, ken Mahala.
 Dagiti il-ili ti Efraim
-Ket dagiti annac a lallaki ni Efraim: da Sutela, ken Bered anacna a lalaki, ken Tahat anacna a lalaki, ken Elada anacna a lalaki, ken Tahat anacna a lalaki,
+Ket dagiti annac a lallaki ni Efraim: 
+Da Sutela, ken Bered anacna a lalaki, ken Tahat anacna a lalaki, ken Elada anacna a lalaki, ken Tahat anacna a lalaki,
 Ken ni Zabad anacna a lalaki, ken ni Sutela anacna a lalaki, ken ni Ezer, ken ni Elad, isuda a pinatay dagiti lallaki ti Gat a nayanac idiay a daga, agsipud ta simmalogda idi a mangiccat cadagiti vacvacada.
 Ket nagdung-aw ni Efraim nga amada bayat iti adu nga aldaw, ket immay dagiti cacabsatna a mangliwliwa kencuana.
 Ket isu simrec ken ni asawana a babai, ket isu nagsicug, ken nangipasngay iti maysa nga anac a lalaki, ket ninaganna iti Beria, agsipud ta ti dakes kimmuyog idi iti balayna.
@@ -3472,7 +3478,8 @@ Ket cadagiti bedbeddeng dagiti annac ni Manases, ti Bet-sean ken dagiti il-ilina
 Cadagitoy ti nagtaengan dagiti annac ni Jose nga anac ni Israel.
 Dagiti caputotan ni Aser.
 Dagiti annac a lallaki ni Aser: da Imna, ken Isua, Isui, ken Beria, ken ni Sera a cabsatda a babai.
-Ket dagiti annac a lallaki ni Beria: da Heber, ken Malkiel, nga isu ti ama ni Birzabit.
+Ket dagiti annac a lallaki ni Beria: 
+Da Heber, ken Malkiel, nga isu ti ama ni Birzabit.
 Ket ni Heber pinutotna da Jaflet, Semer, ken Hotam, ken Sua a cabsatda a babai.
 Ket dagiti annac a lallaki ni Jaflet; da Pasac, Bimhal, ken Asvat
 Dagitoy isuda dagiti annac ni Jaflet.
@@ -3488,7 +3495,7 @@ Dagiti caputotan ni Benjamin.
 Ket ni Benjamin pinutotna ni Bela nga inaunaan nga anacna, ni Asbel ti maicadua, ket ni Aharah ti maicatlo,
 Ni Noha ti maicapat, ket ni Rafa ti maicalima.
 Ket ni Bela addaan idi annac a lallaki: da Addar, Gera, ken Abiud,
-Ken Abisua, Naaman, ken Ahoa,
+Ken ni Abisua, Naaman, ken Ahoa,
 Ken Gera, Sefufim, ken Huram.
 Ket dagitoy isuda dagiti annac a lallaki ni Ehod: dagitoy isuda dagiti pangpangoloen dagiti balbalay dagiti amma dagiti agnaed ti Gabaa, ket impanda ida a kinayawan sadi Manahat:
 Ket da Naaman, ken Ahias, ken Gera, impanna ida a kinayawan; ket isu pinutotna da Uzza, ken Ahihud.
@@ -3608,8 +3615,8 @@ Ket ni Joab nga anac ni Sarvia simmang-at nga immuna, ket naaramid a pangolo.
 Ket nagtaeng ni David idiay sarikedked; gapuna nga isu ti ninaganrikedked; gapuna nga isu ti ninaganda iti ili ni David.
 Ket binangonna ti ili iti agliclicmut, manipud Millo nga aglicmut met laeng; ket ni Joab tinarimaanna ti natda iti ili.
 Ket ni David rumang-ay la idi a rumang-ay; ta adda idi kencuana ni Jehova dagiti buybuyot.
-Ket dagitoy dagiti pangpangoloen dagiti mamaingel a lallaki nga adda idi ken David, isuda a nangiparangarang cadagiti bagbagida a napigsa agraman kencuana iti pagarianna, agraman met amin nga Israel, tapno isu ti aramidenda nga ari, a mayannurot iti sao ni Jehova iti maipapan iti Israel.
-Dagiti namaingelan nga aramid dagiti mamaingel a lallakina.
+Dagiti mamaingel a lallaki ken David, 
+Isuda a nangiparangarang cadagiti bagbagida a napigsa agraman kencuana iti pagarianna, agraman met amin nga Israel, tapno isu ti aramidenda nga ari, a mayannurot iti sao ni Jehova iti maipapan iti Israel.
 Ket daytoy isu ti bilang dagiti mamaingel a lallaki nga adda idi ken David: ni Jasobam nga anac ni Hacmoni, a pangolo dagiti tallopulo; intag-ayna ti gayangna a maibusor cadagiti tallo gasut ket pinatayna ida iti naminpinsan a daras.
 Ket ti sumaganad idi kencuana isu ni Eleazar nga anac ni Dodo, nga Ahohita, a maysa idi cadagiti tallo a mamaingel a lallaki.
 Daytoy nakicaddua ken David idiay Pasdammin, ket naurnong idi idiay dagiti Filisteos iti gubat, isu a yan idi ti sangcakelleng a daga a napno iti cebada; ket dagiti tattao ti Israel intarayanda idi ti sango dagiti Filisteos.
@@ -3857,7 +3864,8 @@ Isu ibangonannacto iti maysa a balay, ket pasingkedacto iti agnanayon ti tronona
 Siacto ti amana, ket isunto ti anacco: ket diacto iccaten kencuana ti naayat a kinaimbagco, cas iti panangiccatco iti daydi immun-una ngem sica;
 No di ket pasingkedacto kencuana iti balayco ken iti pagariac iti agnanayon; ket agtalinaedto iti agnanayon ti tronona.
 Mayannurot cadagiti amin a sasao, ken mayannurot iti amin itoy a parparmata, casta ti panangisao ni Natan ken David.
-Idin ni David nga ari simrec, ket nagtugaw iti sango ni Jehova; ket kinunana, Asinoac aya, O Jehova a Dios, ken ania aya ti balayco, tapno yegnac agingga iti castoy?
+Idin ni David nga ari simrec, ket nagtugaw iti sango ni Jehova; 
+Ket kinunana, Asinoac aya, O Jehova a Dios, ken ania aya ti balayco, tapno yegnac agingga iti castoy?
 Ti cararag ni David nga isungbatna iti Dios.
 Ket daytoy bassit pay laeng cadagita matam, O Dios; ngem saoem met ti maipapan iti balay ti adipenmo iti naunday a tiempo a sumungad; ket incancanonac a mayalubog iti casasaad ti lalaki a natan-oc, O Jehova a Dios.
 Ania pay laeng ti mabalin a saoen ni David kenca ti maipapan iti dayaw a maaramid iti adipenmo
@@ -4121,13 +4129,13 @@ Ni Helcias ti maicadua, ni Tabelias ti maicatlo, ni Zacarias ti maicapat: amin d
 Cadagitoy adda idi pannacadasdasig dagiti agbanbantay iti ruangan, cadagiti met laeng lallaki a pangoloen, nga addaan akem a cas cadagiti cacabsatna, tapno agannongda iti balay ni Jehova.
 Ket nasggiginnasanggasatda, no casano ti bassit casta met ti dackel, a mayalubog cadagiti balbalay dagiti ammada, a maipaay iti tunggal ruangan.
 Ket ti gasat iti agpadaya nagpaay ken ni Selemia
-Dagiti agaywan cadagiti gamgameng ti templo.
 Sa ti maipaay ken ni Zacarias nga anacna, a maysa a manakem a consejero, pinaggiginnasatda; ket naipagasat kencuana iti agpaamianan.
 Ket ni Obed-edom ti agpaabagatan; ken cadagiti annacna a lallaki ti balay a pagidulinan.
 Cada Suppim ken Hosa ti agpalaud, iti ruangan ti Salleket, iti lansangan a sumang-at, agbantay iti sango ti agbantay.
 Iti agpadaya innemda a Levitas, iti agpaamianan uppat iti maysa nga aldaw, iti agpaabagatan uppat iti maysa nga aldaw, ket maipaay iti balay a pagidulinan sagdudua.
 Maipaay iti Pagbantayan iti agpalaud, uppat iti lansangan, ket dua idiay Pagbantayan.
 Dagitoy idi dagiti pannacadasdasig dagiti agbanbantay iti ruangan; cadagiti annac a lallaki dagiti Coraitas, ken dagiti annac a lallaki ni Merari.
+Dagiti agaywan cadagiti gamgameng ti templo.
 Ket cadagiti Levitas, ni Ahias isu idi ti agaywan cadagiti gamgameng ti balay ti Dios, ken cadagiti gamgameng dagiti naipaay a banbanag.
 Dagiti annac a lallaki ni Ladan, dagiti annac a lallaki dagiti Gersonitas a biang ni Ladan, dagiti pangoloen dagiti balbalay dagiti amma a biang ni Ladan a Gersonita: ni Jehieli.
 Dagiti annac a lallaki ni Jehieli: da Zetan ken Joel a cabsatna, nga agaywan cadagiti gamgameng ti balay ni Jehova.
@@ -4211,11 +4219,11 @@ Maysa pay, agsipud ta insaadco ti ragragsacco iti balay ti Diosco, idinto ta add
 A tallo a ribu met laeng a talento a balitoc, ti balitoc ti Ofir, ken pito a ribu a talento a nagugoran a pirac, isuda a pangcalupcup cadagiti diding dagiti balay,
 Iti balitoc a maipaay cadagiti banbanag a binalitocan, ken iti pirac a maipaay cadagiti banbanag a piniracan, ken maipaay iti amin a kita ti aramid tapno maaramid gapu cadagiti im-ima dagiti nalaing nga agar-aramid
 Asino ngarud ti agidaton iti sibubulos a nakemna tapno iconsagrarna ti bagina ken Jehova itoy nga aldaw?
-Ti cararag ni David a maipapan kencuana
 Idin dagiti pangoloen dagiti balbalay dagiti amma, ken dagiti pangoloen dagiti caputotan ti Israel, ken dagiti capcapitan dagiti rinibu ken dagiti ginasgasut, agraman cadagiti agturturay iti aramid ti ari, nagidatonda iti sububulos a nakemda;
 Ket intedda a maipaay iti panagservi ti balay ti Dios ti balitoc lima a ribu a talento ken sangalacsa a daric, ket iti pirac sangalacsa a talento, ket ti gambang sangapulo ket walo a ribu a talento, ken iti landoc sangagasut a ribu a talento.
 Ket isuda agraman dagiti nacasaracan cadagiti napateg a batbato intedda ida a gaming ti balay ni Jehova, babaen ti ima ni Jeiel a Gersonita.
 Idi a casta nagrag-o dagiti umili, ta nagidatonda iti sibubulos a nakemda, agsipud ta nagidatonda ken Jehova a binuyog ti maysa a puso a sipapalungdo iti sibubulos a nakemda: ket ni David nga ari nagrag-o met iti dackel a rag-o.
+Ti cararag ni David a maipapan kencuana
 Gapuna a ni David binenditona ni Jehova iti sango ti amin a gimong; ket ni David kinunana, Benditoca, O Jehova, a Dios ni Israel nga amami, iti agnanayon nga awan ti inggana.
 Cucuam, O Jehova, ti kinadackel, ken ti pannacabalin, ken ti gloria, ken ti balligi, ken ti kinadayag: ta amin nga adda cadagiti langlangit, ken iti daga cucuam; cucuam ti pagarian, O Jehova, ket maitan-occa a cas olo iti rabaw ti isu-amin.
 Dagiti kinabacnang ken dayaw agpadpadada nga aggpau kenca, ket agturayca iti isu-amin; ket mannacabalin ken maingel ta imam; ket ita imam ti yan ti mamadackel ken mamapigsa iti isu-amin.
@@ -4490,10 +4498,6 @@ Saoem ken Roboam nga anac ni Salomon, nga ari ti Juda, ken iti amin nga Israel i
 Castoy ti cuna ni Jehova, Dicayto sumang-at ken dicayo met gubaten dagiti cacabsatyo: agsubli ti tunggal lalaki iti balayna; ta daytoy a banag gapu caniac
 Iti casta isuda impangagda dagiti sasao ni Jehova, ket nagsublida manipud iti ipapanda a maibusor ken Jeroboam.
 Ket ni Roboam nagnaed idiay Jerusalem, ket binangonna dagiti il-ili a pagsalacniban idiay Juda.
-Binangonna ti Bet-lehem, Etam, ken Tecoa,
-Ken Bet-sur, Soco, ken Adullam,
-Ken Gat, Maresa, ken Zif,
-Ken Adoraim, ken Lakis, ken Acek,
 Ken Sora, Ajalon, ken Hebron, nga adda idiay Juda ken idiay Benjamin, il-ilida a nasarikedkedan.
 Ket pinalagdana dagiti sarikedked, ket incabilna dagiti capitan cadacuada, ken balbalonda a canen, ken lana, ken arac.
 Ket iti tumunggal ili incabilna dagiti calcalasag ken gaygayang, ket pinatibkerna ida iti napalalo
@@ -4650,7 +4654,6 @@ Ket ti ari ti Israel ken ni Josafat nga ari ti Juda agtutugawda a maysa ken mays
 Ket ni Sedekias nga anac a lalaki ni Kenaana nangaramid cadagiti sinan-sara a landoc, ket kinunana, Castoy ti kinuna ni Jehova, Iti pannacaaramat dagitoy sica sunsunemto dagiti Siros, agpapan maibusda.
 Ket amin dagiti mammadto impadtoda ti casta, a kinunada, Sumang-atca sadi Ramot-galaad, ket agrangayca; ta ni Jehova isu ti yawatnanto iti ima ti ari.
 Ket ti babaonen a napan nangayab ken Mikeas nagsao kencuana, a kinunana, Adtoy, dagiti sasao dagiti mammadto ipalawagda ti naimbag iti ari iti maymaysa a ngiwat: agdawatac kenca, ti saom coma cas la iti sao ti maysa cadacuada, ket agsaoca iti naimbag.
-Ket ni Mikeas kinunana, Cas sibibiag ni Jehova, ti ibaga ti Diosco caniac, isunto ti saoec.
 Ket idi isu nacagteng iti ari, ti ari kinunana kencuana, Mikeas, mapancaminto sadi Ramot-galaad a gumubat, wenno baybay-acto
 Ket isu kinunana, Sumang-atca ket agrangayca; ket mayawatdanto iti imam.
 Ket ti ari kinunana kencuana, Mamin-ano a daras a sapata-acto kenca tapno awan ibagam caniac no saan a ti pudno iti nagan ni Jehova?
@@ -5140,7 +5143,7 @@ Cadagit amin nga al-aldaw na saanda a simmina iti isusurotda ken Jehova a Dios d
 Ket ni Josias nangsalimetmet iti maysa a pascua ken Jehova idiay Jerusalem: ket pinartida ti pascua iti maicasangapulo ket uppat nga aldaw ti umuna a bulan.
 Ket insaadna dagiti papadi cadagiti akemda, ket pinabilegna ida iti panagannong iti balay ni Jehova.
 Ket kinunana cadagiti amin a Levitas a nangisuro iti amin nga Israel, a nasantoanda idi ken Jehova, Icabilyo ti nasantoan a lacasa iti balay a binangon idi ni Salomon nga anac ni David nga ari ti Israel; awanton ti awit cadagiti ababagayo
-Agservicayo ken Jehova a Diosyo, ken iti ilina nga Israel;
+Agservicayo ken Jehova a Diosyo, ken iti ilina nga dadackel Israel;
 Ket agsaganacayo a mayannurot cadagiti balbalay dagiti ammayo cadagiti pannacadasdasigyo, a mayhannurot iti insurat ni David nga ari ti Israel, ken mayannurot iti insurat ni Salomon nga anacna.
 Ket agtacdercayo iti nasantoan a disso a mayannurot iti pannacabingbingay dagiti balbalay dagiti ammayo cadagiti cacabsatyo a dagiti annac ti umili, ket adda coma maipaay iti tunggal maysa, maysa nga apag ti balay dagiti amma dagiti Levitas.
 Ket partienyo ti pascua, ket santificarenyo dagiti bagiyo met laeng, ket isaganayo a maipaay cadagiti cacabsatyo, tapno aramidenyo a mayannurot iti sao ni Jehova iti pannacaaramat ni Moises.
