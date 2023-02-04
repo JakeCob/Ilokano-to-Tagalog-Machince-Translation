@@ -3676,7 +3676,7 @@ At kung mahulugan ng kanilang bangkay ang alin mang binhing panhasik na ihahasik
 Nguni't kung nabasa ang binhi at mahulugan ng bangkay ng mga yaon, ay magiging karumaldumal sa inyo.
 At kung ang anomang hayop na inyong makakain ay mamatay; ang makahipo ng bangkay niyaon ay magiging karumaldumal hanggang sa hapon.
 At ang kumain ng bangkay niyaon ay maglalaba ng kaniyang suot, at magiging karumaldumal hanggang sa hapon: gayon din ang bumuhat ng bangkay niyaon, ay maglalaba ng kaniyang suot, at magiging karumaldumal hanggang sa hapon.
-Ang bawa't umuusad ay hindi dapat kanin.
+Ang bawa't umuusad ay hindi kanin.
 At bawa't umuusad na nagsisiusad sa ibabaw ng lupa, ay karumaldumal; hindi kakanin.
 Lahat ng lumalakad ng kaniyang tiyan, at lahat ng lumalakad ng apat na paa o mayroong maraming paa, sa lahat ng bagay na umuusad sa ibabaw ng lupa, ay huwag ninyong kakanin; sapagka't mga karumaldumal nga.
 Huwag kayong magpakarumal sa anomang umuusad, o huwag kayong magpakalinis man sa mga iyan, na anopa't huwag kayong mangahawa riyan,
@@ -3725,7 +3725,6 @@ At titingnan siya ng saserdote sa ikapitong araw: kung kumalat sa balat, ay ipak
 At kung ang pantal na makintab ay tumigil sa kaniyang kinaroroonan at hindi kumalat sa balat, kungdi pumutla, ay pamamaga ng paso yaon, at ipakikilala ng saserdote na malinis: sapagka't piklat ng paso yaon.
 At kung ang sinomang lalake o babae ay mayroong tila salot sa ulo o sa baba,
 Ay titingnan nga ng saserdote ang tila salot: at, narito, kung makitang tila malalim kaysa balat, at yao'y may buhok na naninilaw na manipis, ay ipakikilala ng saserdote na karumaldumal: tina nga, ketong nga yaon sa ulo o sa baba.
-At kung makita ng saserdote ang tila salot na tina, at, narito, tila hindi malalim kaysa balat, at walang buhok na maitim yaon
 At titingnan ng saserdote ang tina sa ikapitong araw: at, narito, kung makitang hindi kumalat ang tina sa balat, at tila hindi malalim kaysa balat; ay ipakikilala nga ng saserdote na malinis at siya'y maglalaba ng kaniyang suot at magiging malinis.
 Nguni't kung ang tina ay kumalat sa balat, pagkatapos ng kaniyang paglilinis;
 Ay titingnan nga ng saserdote: at, narito, kung makitang kumalat sa balat ang tina ay hindi hahanapin ng saserdote ang buhok na maninilaw; siya'y karumaldumal.
@@ -3739,7 +3738,8 @@ Kung magkagayo'y titingnan siya ng saserdote: at, narito, kung ang pamamaga ng t
 Ay ketongin siya, siya'y karumaldumal ipakikilala siya ng saserdote na tunay na karumaldumal; nasa kaniyang ulo ang salot niya.
 At pupunitin ng may ketong na kinaroroonan ng salot, ang kaniyang mga suot at ang buhok ng kaniyang ulo ay ilulugay, at siya'y magtatakip ng kaniyang nguso, at maghihihiyaw, Karumaldumal, karumaldumal.
 Sa buong panahong siya'y karoonan ng salot, ay magiging karumaldumal; siya'y karumaldumal: siya'y tatahang bukod; sa labas ng kampamento malalagay ang kaniyang tahanan.
-Ang suot na kinaroroonan ng ketong, maging kasuutang balahibo ng tupa o kasuutang lino;
+Ang suot na kinaroroonan ng ketong, 
+maging kasuutang balahibo ng tupa o kasuutang lino;
 Maging nasa paayon o maging nasa pahalang; ng lino o ng balahibo ng tupa; maging sa balat o sa alin mang yaring balat;
 Kung ang tila salot ay namemerde o namumula sa kasuutan, o sa balat, maging sa paayon, o maging sa pahalang, o sa alin mang kasangkapang balat; ay salot na ketong nga at ipakikita sa saserdote,
 At titingnan ng saserdote ang tila salot, at ipatatago ng pitong araw ang bagay na may tila salot:
@@ -3941,7 +3941,9 @@ At kung kanin sa anomang paraan sa ikatlong araw, ay karumaldumal nga; ito'y hin
 Kundi yaong kumain ay siyang magtataglay ng kaniyang kasamaan; sapagka't nilapastangan niya ang banal na bagay ng Panginoon: at ihihiwalay ang gayong tao sa kaniyang bayan.
 At pagka gagapas kayo ng mga uhay sa inyong lupain, ay huwag ninyong pakakagapasin ang mga sulok ng inyong bukid, ni huwag ninyong pamulutan ang inyong lupang ginapasan.
 At huwag ninyong sisimutin ang inyong ubasan, ni huwag ninyong pupulutin ang bungang nahulog sa inyong ubasan; sa dukha at sa taga ibang bayan, pababayaan ninyo: ako ang Panginoon ninyong Dios.
-Huwag kayong magnanakaw; ni magdadaya, ni magsisinungaling ang sinoman sa iba.
+Huwag kayong magnanakaw; 
+ni magdadaya, 
+ni magsisinungaling ang sinoman sa iba.
 At huwag kayong susumpa ng di totoo sa aking pangalan, na anopa't lapastanganin ninyo ang pangalan ng inyong Dios; ako ang Panginoon.
 Huwag kayong pipighati sa inyong kapuwa, o magnanakaw man sa kaniya: ang bayad ng isang mag-aaraw ay huwag matitira sa inyo ng buong gabi hanggang sa umaga.
 Huwag ninyong lalaitin ang bingi, ni maglalagay ng katitisuran sa harap ng bulag, kundi katatakutan ninyo ang inyong Dios: ako ang Panginoon.
@@ -3994,18 +3996,15 @@ At kung ang isang lalake ay sumiping sa isang babaing may karumalan, at ilitaw a
 At huwag mong ililitaw ang kahubaran ng kapatid na babae ng iyong ina, ni ng kapatid na babae ng iyong ama: sapagka't hinubdan niya ang kaniyang kamaganak na malapit: kapuwa magtataglay ng kanilang kasamaan.
 At kung ang isang lalake ay sumiping sa asawa ng kaniyang amain ay kaniyang inilitaw ang kahubaran ng kaniyang amain: tataglayin nila ang kanilang kasalanan; mamamatay silang walang anak.
 At kung ang isang lalake ay makisama sa asawa ng kaniyang kapatid na lalake, ay kahalayan: kaniyang inilitaw ang kahubaran ng kaniyang kapatid na lalake; mabubuhay silang walang anak.
-Utos upang tuparin ang batas ng kalinisan.
 Ingatan nga ninyo ang lahat ng aking mga palatuntunan at ang lahat ng aking mga kahatulan, at inyong isasagawa: upang huwag kayong iluwa ng lupain na aking pinagdadalhan sa inyo na inyong tatahanan.
 At huwag kayong lalakad ng ayon sa mga kaugalian ng mga bansang aking palalayasin sa harap ninyo: sapagka't ang lahat ng kasamaang ito ay ginawa nila, at kaya ko kinapopootan.
 Datapuwa't sa inyo'y aking sinabi, Mamanahin ninyo ang lupain nila, at ibibigay ko sa inyo upang inyong manahin, na isang lupaing binubukalan ng gatas at pulot: ako ang Panginoon ninyong Dios na ibinukod ko kayo sa mga bayan.
 Inyo ngang lalagyan ng pagkakaiba ang hayop na malinis at ang karumaldumal, at ang ibong karumaldumal at ang malinis: at huwag ninyong gagawing karumaldumal ang inyong pagkatao, sa hayop o sa ibon, o sa anomang bagay na umuusad sa lupa, na inihiwalay ko sa inyo palibhasa'y mga karumaldumal.
 At kayo'y magpapakabanal sa akin: sapagka't akong, Panginoon, ay banal, at kayo'y ibinukod ko sa mga bayan, upang kayo'y maging akin.
 Ang isang lalake rin naman o kaya'y ang isang babae na inaalihan ng masamang espiritu, o mangkukulam, ay papatayin na walang pagsala, sila'y babatuhin ng mga bato: mabububo ang kanilang dugo sa kanila.
-Tungkol sa mga saserdote.
 At sinabi ng Panginoon kay Moises, Salitain mo sa mga saserdote na mga anak ni Aaron, at sabihin mo sa kanila, Sinoman ay huwag magpakahawa ng dahil sa patay, sa gitna ng kaniyang bayan,
 Maliban sa kamaganak na malapit, sa kaniyang ina at sa kaniyang ama at sa kaniyang anak na lalake at babae, at sa kaniyang kapatid na lalake,
 At sa kaniyang kapatid na dalaga, na malapit sa kaniya, na walang asawa, ay maaring magpakahawa siya.
-Yamang puno sa kaniyang bayan, ay huwag siyang magpapakahawa na magpapakarumi.
 Huwag nilang kakalbuhin ang kanilang ulo, o gugupitin man ang dulo ng kanilang balbas, o kukudlitan man ang kanilang laman.
 Sila'y magpakabanal sa kanilang Dios, at huwag nilang lalapastanganin ang pangalan ng kanilang Dios: sapagka't sila ang naghahandog ng mga handog sa Panginoon na pinaraan sa apoy, na tinapay ng kanilang Dios, kaya't sila'y magpapakabanal.
 Huwag silang makikisama sa patutot o lapastangan, ni makikisama sa babaing inihiwalay ng kaniyang asawa: sapagka't ang saserdote ay banal sa kaniyang Dios.
@@ -4986,7 +4985,8 @@ At ako, narito, aking pinili ang inyong mga kapatid na mga Levita sa gitna ng mg
 At iingatan mo at ng iyong mga anak na kasama mo at ang inyong pagkasaserdote sa bawa't bagay ng dambana; at doon sa nasa loob ng tabing; at kayo'y maglilingkod: aking ibinibigay sa inyo ang pagkasaserdote na parang isang paglilingkod na kaloob: at ang taga ibang lupa na lumapit ay papatayin.
 At sinalita ng Panginoon kay Aaron, At ako'y, narito, aking ibinigay sa iyo ang katungkulan sa mga handog na itinaas sa aking, lahat ng mga banal na bagay ng mga anak ni Israel; aking ibinigay sa iyo dahil sa pagpapahid, at sa iyong mga anak na marapat na bahagi ninyo, magpakailan man.
 Ito'y magiging iyo sa mga pinakabanal na bagay, na hindi pinaraan sa apoy: bawa't alay nila, bawa't handog na harina nila, at bawa't handog nila dahil sa kasalanan, at bawa't handog nila dahil sa pagkakasala na kanilang ihahandog sa akin, ay magiging pinaka banal sa iyo at sa iyong mga anak.
-Gaya ng mga kabanalbanalang bagay ay kakain ka ng mga iyan: bawa't lalake ay kakain niyaon magiging banal na bagay sa iyo.
+Gaya ng mga kabanalbanalang bagay ay kakain ka ng mga iyan: 
+bawa't lalake ay kakain niyaon magiging banal na bagay sa iyo.
 At ito ay iyo; ang handog na itinaas na kanilang kaloob, sa makatuwid baga'y ang lahat ng mga handog na inalog ng mga anak ni Israel: aking ibinigay sa iyo, at sa iyong mga anak na lalake at babae na kasama mo na marapat na bahagi magpakailan man: bawa't malinis sa iyong bahay ay kakain niyaon.
 Lahat ng pinakamainam sa langis, at lahat ng pinakamainam sa alak, at sa trigo, ang mga pinakaunang bunga ng mga yaon na kanilang ibibigay sa Panginoon, ay ibibigay ko sa iyo.
 Ang mga unang hinog na bunga ng lahat na nasa kanilang lupain, na kanilang dinadala sa Panginoon, ay magiging iyo; bawa't malinis sa iyong bahay ay kakain niyaon.
@@ -5208,7 +5208,6 @@ Ni panghuhula laban sa Israel:
 Ngayo'y sasabihin tungkol sa Jacob at sa Israel,
 Anong ginawa ng Dios!
 Narito, ang bayan ay tumitindig na parang isang leong babae,
-At parang isang leon na nagpakataas:
 Siya'y hindi mahihiga hanggang sa makakain ng huli,
 At makainom ng dugo ng napatay.
 At sinabi ni Balac kay Balaam, Ni huwag mo silang pakasumpain ni pakapagpalain.
@@ -5432,7 +5431,6 @@ At ang handog na harina ng mga yaon, na mainam na harina na hinaluan ng langis, 
 Isang ikasangpung bahagi sa bawa't kordero sa pitong kordero;
 Isang kambing na lalake upang itubos sa inyo.
 Bukod pa sa palaging handog na susunugin, at sa handog na harina niyaon, ay inyong ihahandog ang mga yaon (yaong mga walang kapintasan sa inyo), at ang mga inuming handog ng mga yaon.
-Handog sa kapistahan ng mga isang linggo; ng pagsisisi; at ng kapistahan ng tabernakulo.
 At sa ikapitong buwan, sa unang araw ng buwan, ay magkakaroon kayo ng isang banal na pagpipisan; huwag kayong gagawa ng anomang gawang paglilingkod; isang araw ngang sa inyo'y paghihip ng mga pakakak.
 At kayo'y maghahandog ng isang handog na susunugin na pinakamasarap na amoy sa Panginoon, ng isang guyang toro, isang tupang lalake, pitong korderong lalake ng unang taon na walang kapintasan;
 At ang handog na harina ng mga yaon, na mainam na harina, na hinaluan ng langis, ay tatlong ikasangpung bahagi sa toro, dalawang ikasangpung bahagi sa lalaking tupa,
@@ -5862,8 +5860,10 @@ At kaniyang ipinahayag sa inyo ang kaniyang tipan, na kaniyang iniutos sa inyong
 At iniutos sa akin ng Panginoon nang panahong yaon, na turuan ko kayo ng mga palatuntunan at mga kahatulan, upang inyong mangagawa sa lupaing inyong paroroonan upang ariin.
 Ingatan nga ninyong mabuti ang inyong sarili; sapagka't wala kayong nakitang anomang anyo nang araw na magsalita ang Panginoon sa inyo sa Horeb mula sa gitna ng apoy:
 Baka kayo'y mangagpakasama, at kayo'y gumawa sa inyo ng isang larawang inanyuan na kawangis ng alin mang larawan, na kahawig ng lalake o babae,
-Na kahawig ng anomang hayop na nasa lupa, na kahawig ng anomang ibong may pakpak na lumilipad sa himpapawid,
-Na kahawig ng anomang bagay na umuusad sa lupa, na kahawig ng anomang isda na nasa tubig sa ilalim ng lupa:
+Na kahawig ng anomang hayop na nasa lupa, 
+na kahawig ng anomang ibong may pakpak na lumilipad sa himpapawid,
+Na kahawig ng anomang bagay na umuusad sa lupa, 
+na kahawig ng anomang isda na nasa tubig sa ilalim ng lupa:
 At baka iyong itingin ang iyong mga mata sa langit, at kung iyong makita ang araw at ang buwan, at ang mga bituin, sangpu ng buong natatanaw sa langit, ay mabuyo ka at iyong sambahin, at paglingkuran, na binahagi ng Panginoon ninyong Dios sa lahat ng mga bayan na nasa silong ng buong langit.
 Nguni't kinuha kayo ng Panginoon, at hinango kayo sa hurnong bakal, sa Egipto, upang kayo'y maging sa kaniya'y isang bayang mana, gaya sa araw na ito.
 Bukod dito'y nagalit sa akin ang Panginoon dahil sa inyo, at sumumpa na ako'y hindi tatawid sa Jordan, at hindi ako papasok sa mabuting lupaing yaon, na ibinigay ng Panginoon mong Dios sa iyo na pinakamana:
@@ -6157,7 +6157,6 @@ Gayon ma'y ang mga ito ay hindi kakanin sa mga ngumunguya, o sa baak ang paa: an
 At ang baboy, sapagka't may hating paa, nguni't hindi ngumunguya, ito'y marumi sa inyo: ang laman nila'y huwag ninyong kakanin, at ang kanilang bangkay ay huwag hihipuin.
 At ang mga ito'y inyong makakain sa lahat ng nasa tubig: anomang may mga kaliskis at mga palikpik, ay inyong makakain:
 At anomang walang kaliskis at palikpik, ay huwag ninyong kakanin; marumi nga ito sa inyo.
-Sa lahat ng ibong malinis ay makakakain kayo.
 Nguni't ang mga ito'y hindi ninyo makakain: ang aguila, at ang aguilang dumudurog ng mga buto, at ang aguilang dagat;
 At ang ixio, at ang halkon, at ang lawin ayon sa kaniyang pagkalawin;
 At lahat na uwak ayon sa kanilang pagkauwak;
@@ -6269,7 +6268,8 @@ Nguni't ang propeta na magsasalita ng salitang may pagpapalalo sa aking pangalan
 At kung iyong sasabihin sa iyong puso: Paanong malalaman namin ang salita na hindi sinalita ng Panginoon?
 Pagka ang isang propeta ay nagsasalita sa pangalan ng Panginoon, kung ang bagay na sinasabi ay hindi sumunod ni mangyari, ay hindi sinalita ng Panginoon ang bagay na yaon: ang propetang yaon ay nagsalita ng kahambugan, huwag mong katatakutan siya.
 Ang bayan na tanggulan.
-Batas tungkol sa lindero at sa saksi.
+Batas tungkol sa lindero 
+at sa saksi.
 Pagka ihihiwalay ng Panginoon mong Dios ang mga bansa, na lupaing ibinibigay sa iyo ng Panginoon mong Dios, at hahalili ka sa kanila, at iyong tatahanan ang kanilang mga bayan, at ang kanilang mga bahay;
 Ay maghihiwalay ka para sa iyo ng tatlong bayan sa gitna ng iyong lupain, na ibinibigay sa iyo ng Panginoon mong Dios upang ariin.
 Ikaw ay maghahanda sa iyo ng daan, at pagtatluhin mong bahagi ang mga hangganan ng iyong lupain, na ipinamamana sa iyo ng Panginoon mong Dios, upang matakasan ng bawa't nakamatay tao.
@@ -6658,10 +6658,8 @@ At gaya ng mahinang ambon sa gugulayin:
 Sapagka't aking ihahayag ang pangalan ng Panginoon:
 Dakilain ninyo ang ating Dios.
 Siya ang Bato, ang kaniyang gawa ay sakdal;
-Sapagka't lahat niyang daan ay kahatulan:
 Isang Dios na tapat at walang kasamaan,
 Matuwid at banal siya.
-Sila'y nagpakasamá, sila'y hindi kaniyang mga anak, itong kanilang kapintasan;
 Mga tampalasan at likong lahi.
 Ganyan ba ninyo ginaganti ang Panginoon,
 O mangmang na bayan at hindi pantas?
@@ -6697,7 +6695,9 @@ At ng mga tupang lalake sa Basan, at mga kambing,
 Na may taba ng mga butil ng trigo;
 At sa katas ng ubas ay uminom ka ng alak.
 Nguni't tumaba si Jeshurun, at tumutol:
-Ikaw ay tumataba, ikaw ay lumalapad, ikaw ay naging makinis:
+Ikaw ay tumataba, 
+ikaw ay lumalapad, 
+ikaw ay naging makinis:
 Nang magkagayo'y kaniyang pinabayaan ang Dios na lumalang sa kaniya,
 At niwalang kabuluhan ang Bato na kaniyang kaligtasan.
 Siya'y kinilos nila sa paninibugho sa ibang mga dios,
@@ -6718,7 +6718,6 @@ Kanilang minungkahi ako sa galit sa kanilang mga walang kabuluhan:
 At akin silang kikilusin sa paninibugho sa mga hindi bayan:
 Aking ipamumungkahi sila sa galit, sa pamamagitan ng isang mangmang na bansa.
 Sapagka't may apoy na nagalab sa aking galit,
-At nagniningas hanggang sa Sheol,
 At lalamunin ang lupa sangpu ng tubo nito,
 At paniningasan ng apoy ang mga tungtungan ng mga bundok.
 Aking dadaganan sila ng mga kasamaan;
@@ -6739,7 +6738,8 @@ Baka kanilang sabihin, Ang aming kamay ay tanghal,
 At hindi ginawa ng Panginoon ang lahat ng ito.
 Sapagka't sila'y bansang salat sa payo,
 At walang kaalaman sa kanila.
-Oh kung sila'y mga pantas, na kanilang tinalastas ito,
+Oh kung sila'y mga pantas, 
+kanilang tinalastas ito,
 Kung nababatid nila ang kanilang wakas!
 Kung paanong hahabulin ng isa ang isang libo,
 At ang dalawa'y magpapatakas sa sangpung libo,
