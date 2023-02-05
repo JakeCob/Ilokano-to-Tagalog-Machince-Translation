@@ -82,7 +82,9 @@ Dagiti camelloda, uppat a gasut tallopuloda ket lima, dagiti as-asnoda, innem a 
 Ket ti dadduma cadagiti pangoloen dagiti balbalay dagiti amma, idi immayda iti balay ni Jehova nga adda idiay Jerusalem, nagidatonda a sibubulos ti nakemda maipaay iti balay ti Dios tapno isu ti bangonenda iti daydi saadna:
 Intedda a mayannurot iti cabaelanda idiay paggamengan ti aramid ti innem a pulo ket maysa a ribu a daric a balitoc, ken limaribu a libra a pirac, ken sangagasut a cawes ti sacerdote.
 Iti casta dagiti papadi, ken dagiti Levitas, ken dadduma cadagiti tattao, ken dagiti cumacanta, ken dagiti agaywan iti ruangan, ken dagiti Nethineos nagnaedda cadagiti il-ilida, ken amin nga Israel cadagiti il-ilida.
-Ket idi nadanon iti maicapito a bulan, ket addan dagiti annac ti Israel cadagiti il-ili, naguornong dagiti tattao a cas maysa a tao idiay Jerusalem.
+Ket idi nadanon iti maicapito a bulan, 
+ket addan dagiti annac ti Israel cadagiti il-ili, 
+naguornong dagiti tattao a cas maysa a tao idiay Jerusalem.
 Idin nagtacder ni Jesua nga anac ni Josadec, ken dagiti cacabsatna a papadi, ken ni Zorobabel nga anac ni Sealtiel, ken cadagiti cacabsatna a lallaki, ket binangonda ti altar ti Dios ti Israel, tapno idatagda iti rabawna dagiti datdaton a mapuuran, cas naisurat iti linteg ni Moises a lalaki ti Dios.
 Ket insaadda ti altar iti rabaw ti pagbatayanna; ta adda buteng idi cadacuada a gapu cadagiti tattao dagiti dagdagada: ket indatagda iti rabawna dagiti datdaton a mapuuran ken Jehova, a datdaton a mapuuran met laeng iti bigat ken iti malem.
 Ket nginilinda ti fiesta dagiti tabernaculo, a cas naisurat, ken indatagda dagiti datdaton a mapuuran iti inaldaw a binilang, a mayalubog iti linteg, cas sapulen ti rebbeng ti inaldaw;
@@ -1017,14 +1019,12 @@ dung-awanna ti pannacayanacna.
 Calpasan daytoy nangrugi a nagsao ni Job, ket inlunodna ti aldawna.
 Ket ni Job simmungbat ket kinunana:
 Mapucaw coma ti aldaw a nacayanacac, 
-ken ti rabii a nagcuna, Adda maysa nga ubing a lalaki a naisicug.
-Dayta nga aldaw agsipnget coma; 
-ti Dios manipud ngato isu ti dina coma biruken, 
-uray ti silaw di coma aglawag kencuana.
+ken ti rabii a nagcuna, 
+Adda maysa nga ubing a lalaki a naisicug.
+Dayta nga aldaw agsipnget coma;  
 Ti kinasipnget ken aniniwan ni patay isu ti dawatenda coma a maipaay a bucodda
 Maysa nga ulep agraeng coma iti rabawna; 
-amin a mangpasipnget iti aldaw mangkigtot coma kencuana.
-Ti maipapan idi a rabii, 
+amin a mangpasipnget iti aldaw mangkigtot coma kencuana. Ti maipapan idi a rabii,
 nacaro a kinasipnget ti agtalinaed coma kencuana: 
 di coma agrag-o iti tengnga dagiti aldaw ti tawen; 
 di coma umay iti bilang dagiti bulbulan.
@@ -1051,7 +1051,8 @@ Wenno cas iti maysa a mailemmeng a nasapa a nayanac awanac idin,
 cas cadagiti maladaga a di-nacakita iti lawag uray caano.
 Idiay dagiti nadangcoc pagsardengenda ti panangriribuc; 
 ket idiay aginana dagiti nabannog,
-Idiay dagiti balbalud agtalnada, dida mangngeg ti timec ti mangdagdag.
+Idiay dagiti balbalud agtalnada, 
+dida mangngeg ti timec ti mangdagdag.
 Ti bassit man ken dackel adda idiay: 
 ket ti adipen mawayawayaan ken apona.
 Apay aya a maited ti lawag iti adda iti kinaay-ay-ay, 
@@ -1747,8 +1748,6 @@ Ti Dios inyawatnac iti nadangkes,
 ket impalladawnac cadagiti ima ti nadangcoc.
 Addaac idi iti talna, ket binuracnac a pinutputed; 
 wen, pinatengngedannac, ket indumudumnac a nagisaygisay: 
-insaadnac met a pagpuntaan.
-Dagiti pagpanpanaenna licmutendac; 
 dudugenna dagiti beckelco, ket dina pinacawan; 
 ibucbocna ti aproc iti rabaw ti daga.
 Binuracnac a nayon ti naburac: 
@@ -1871,9 +1870,10 @@ ket gabsuonanda ti dalanda a maibusor caniac,
 ket agpacarsoda iti aglicmut iti toldac.
 Isu inyadayuna caniac dagiti cacabsatco, 
 ket dagiti amammoc matalipupusda a maisina caniac.
-Dagiti cacabagiac binaybayandac, 
-dagiti casimpungalac linipatdac.
-Dagiti nagnaed iti balayco, ken dagiti babbalasangco, imbilangdac a maysa a gangannaet: 
+Dagiti cacabagiac binaybayandac,
+Dagiti nagnaed iti balayco, 
+ken dagiti babbalasangco, 
+imbilangdac a maysa a gangannaet: 
 maysaac a sangsangaili iti imatangda.
 Ayabac ti adipenco, ket dinac sungbatan, 
 nupay agdawatac kencuana a maaramat toy ngiwatco.
@@ -1885,8 +1885,9 @@ Amin a caingongotco a gagayyemco caguradac,
 ken amin nga inayatco maibusorda caniac.
 Ti tulangco dumket iti cudilco ken lasagco, 
 ket ti nangisalacan laeng caniac ti cudil dagiti ngipenco.
-Mangaasicayo caniac, mangaasicayo caniac, 
-O dacayo a gagayyemco; ta ti ima ti Dios sinagidnac.
+Mangaasicayo caniac, 
+mangaasicayo caniac, 
+O dacayo a gagayyemco; 
 Apay nga idadanesdac a cas ti Dios, 
 ket dicayo mapnec iti lasagco.
 O sapay coma ta dagiti sasaoc maisuratda
@@ -2374,7 +2375,6 @@ Ti dayagco nasalibucag caniac,
 ket ti ba-ic mapabaro iti imac.
 Dagiti tattao agimdengda caniac ken nagurayda, 
 ket nagulimecda gapu iti pammalacadco.
-Calpasan dagiti sasaoc dida nagsaon 
 ket ti bitlac timmedted cadacuada.
 Ket inuraydac a cas iti tudo; 
 ket nginangada a nalawa dagiti ngiwatda a cas aguray iti maudi a tudo.
