@@ -2326,7 +2326,8 @@ Upang bigyan ng timbang ang hangin;
 Oo, kaniyang tinatakal ang tubig sa takalan.
 Nang siya'y gumawa ng pasiya sa ulan,
 At ng daan sa kidlat ng kulog:
-Nang magkagayo'y nakita niya ito, at inihayag;
+Nang magkagayo'y nakita niya ito, 
+at inihayag;
 Kaniyang itinatag ito, oo, at siniyasat.
 At sa tao ay sinabi niya,
 Narito, ang pagkatakot sa Dios ay siyang karunungan;
@@ -2364,7 +2365,8 @@ Ako'y naging ama sa mapagkailangan;
 At ang usap niyaong hindi ko nakikilala ay aking sinisiyasat.
 At aking binali ang mga pangil ng liko,
 At inagaw ko ang huli sa kaniyang mga ngipin.
-Nang magkagayo'y sinabi ko, Mamamatay ako sa aking pugad,
+Nang magkagayo'y sinabi ko, 
+Mamamatay ako sa aking pugad,
 At aking pararamihin ang aking mga kaarawan na gaya ng buhangin:
 Ang aking ugat ay nakalat sa tubig,
 At ang hamog ay lumalapag buong gabi sa aking sanga:
@@ -2376,7 +2378,8 @@ Pagkatapos ng aking mga salita ay hindi na sila nagsasalita pa uli;
 At ang aking pananalita ay tumutulo sa kanila.
 At kanilang hinihintay ako, na gaya ng paghihintay sa ulan,
 At kanilang ibinubuka ang kanilang bibig na maluwang na gaya sa huling ulan.
-Ako'y ngumingiti sa kanila pagka sila'y hindi nanganiniwala:
+Ako'y ngumingiti sa kanila 
+pagka sila'y hindi nanganiniwala:
 At ang liwanag ng aking mukha ay hindi nila hinahamak.
 Ako'y namimili sa kanilang daan, at nauupong gaya ng puno,
 At tumatahang gaya ng hari sa hukbo,
@@ -2387,7 +2390,6 @@ Oo, ang kalakasan ng kanilang kamay, sa ano ko mapapakinabangan?
 Mga taong ang kalusugan ng gulang ay lumipas na.
 Sila'y lata sa pangangailangan at sa kagutom;
 Kanilang nginangata ang tuyong lupa, sa kadiliman ng kasalatan at kapahamakan.
-Sila'y nagsisibunot ng mga malvas sa tabi ng mabababang punong kahoy;
 At ang mga ugat ng enebro ay siyang kanilang pinakapagkain.
 Sila'y pinalayas mula sa gitna ng mga tao;
 Sila'y sumisigaw sa likuran nila, na gaya ng sa likuran ng isang magnanakaw.
@@ -2399,7 +2401,6 @@ Mga anak ng mga mangmang, oo, mga anak ng mga walang puring tao;
 Sila'y mga itinapon mula sa lupain.
 At ngayon ay naging kantahin nila ako,
 Oo, ako'y kasabihan sa kanila.
-Kanilang kinayayamutan ako, nilalayuan nila ako,
 At hindi sila nagpipigil ng paglura sa aking mukha.
 Sapagka't kinalag niya ang kaniyang panali, at pinighati ako,
 At kanilang inalis ang paningkaw sa harap ko.
@@ -2453,7 +2454,6 @@ Hindi ba kasakunaan sa liko,
 At kasawiang palad sa mga manggagawa ng kasamaan?
 Hindi ba niya nakikita ang aking mga lakad,
 At binibilang ang lahat ng aking mga hakbang?
-Kung ako'y lumakad na walang kabuluhan,
 At ang aking paa ay nagmadali sa pagdaraya;
 (Timbangin ako sa matuwid na timbangan,
 Upang mabatid ng Dios ang aking pagtatapat;)
@@ -2555,7 +2555,7 @@ Magbawa nga kayo, baka kayo'y magsabi, Kami ay nakasumpong ng karunungan;
 Madadaig ng Dios siya, hindi ng tao;
 Sapagka't hindi itinukoy ang kaniyang mga salita sa akin;
 Ni hindi ko sasagutin siya ng inyong mga pananalita.
-Sila'y nangalito, sila'y hindi na nagsisagot pa;
+Sila'y nangalito,
 Sila'y walang salitang masabi,
 At ako ba'y maghihintay, sapagka't sila'y hindi nangagsasalita,
 Sapagka't sila'y nangakatigil, at hindi na nagsisisagot?
@@ -2638,7 +2638,7 @@ Upang ibalik ang kaniyang kaluluwa mula sa hukay,
 Upang siya'y maliwanagan ng liwanag ng buhay.
 Pansinin mong mabuti, Oh Job, dinggin mo ako:
 Tumahimik ka, at ako'y magsasalita.
-Kung ikaw ay may anomang bagay na sasabihin, sagutin mo ako:
+sagutin mo ako:
 Ikaw ay magsalita, sapagka't ibig kong ariin kang ganap.
 Kung hindi, dinggin mo ako:
 Tumahimik ka, at tuturuan kita ng karunungan.
@@ -2790,7 +2790,8 @@ Nguni't ikaw ay puspos ng kahatulan ng masama:
 Kahatulan at kaganapan ang humahawak sa iyo.
 Sapagka't may poot, magingat ka baka ikaw ay iligaw ng iyong kasiyahan;
 Ni mailigaw ka man ng kalakhan ng katubusan.
-Mapapaari ba ang iyong sigaw na ikaw ay hindi mapapasa kapanglawan,
+Mapapaari ba ang iyong sigaw 
+na ikaw ay hindi mapapasa kapanglawan,
 O ang madlang lakas man ng iyong kalakasan?
 Huwag mong nasain ang gabi,
 Pagka ang mga bayan ay nangahiwalay sa kanilang kinaroroonang dako.
@@ -2933,7 +2934,6 @@ Ang mga tubig ay nakukubling gaya ng bato,
 At ang ibabaw ng kalaliman ay namumuno.
 Matatalian mo ba ang pagkakaumpukan ng mga bituin na Pleyade,
 O makakalagan ang tali ng mga bituin na Orion?
-Mailalabas mo ba ang mga bituin na mga tanda ng Zodiaco sa kanilang kapanahunan?
 O mapapatnubayan mo ba ang Oso na kasama ng kaniyang mga anak?
 Nalalaman mo ba ang mga alituntunin ng langit?
 Maitatatag mo ba ang kapangyarihan niyaon sa lupa?
@@ -3139,8 +3139,7 @@ Dinggin mo, isinasamo ko sa iyo, at ako'y magsasalita;
 Ako'y magtatanong sa iyo, at magpahayag ka sa akin.
 Narinig kita sa pakikinig ng pakinig;
 Nguni't ngayo'y nakikita ka ng aking mata,
-Kaya't ako'y nayayamot sa sarili, at nagsisisi ako
-Sa alabok at mga abo.
+Kaya't ako'y nayayamot sa sarili
 At nangyari, na pagkatapos na masalita ng Panginoon ang mga salitang ito kay Job, sinabi ng Panginoon kay Eliphaz na Temanita, Ang aking poot ay nagaalab laban sa iyo, at laban sa iyong dalawang kaibigan: sapagka't hindi kayo nangagsalita tungkol sa akin ng bagay na matuwid, na gaya ng ginawa ng aking lingkod na si Job.
 Kaya't magsikuha kayo sa inyo ngayon ng pitong guyang baka, at pitong lalaking tupa, at magsiparoon kayo sa aking lingkod na kay Job, at ihandog ninyo sa ganang inyo na pinakahandog na susunugin: at idadalangin kayo ng aking lingkod na si Job: sapagka't siya'y aking tatanggapin, baka kayo'y aking gawan ng ayon sa inyong kamangmangan; sapagka't hindi kayo nangagsasalita tungkol sa akin ng bagay na matuwid, na gaya ng aking lingkod na si Job.
 Sa gayo'y nagsiyaon si Eliphaz na Temanita, at si Bildad na Suhita, at si Sophar na Naamatita, at ginawa ang ayon sa iniutos sa kanila ng Panginoon: at nilingap ng Panginoon si Job.
@@ -3410,7 +3409,6 @@ At sa mga anak ni Aaron ay kanilang ibinigay ang mga bayang ampunan, ang Hebron;
 At ang Hilem pati ng mga nayon niyaon, ang Debir pati ng mga nayon niyaon;
 At ang Asan pati ng mga nayon niyaon, at ang Beth-semes pati ng mga nayon niyaon:
 At mula sa lipi ni Benjamin; ang Geba pati ng mga nayon niyaon, at ang Alemeth pati ng mga nayon niyaon, at ang Anathoth pati ng mga nayon niyaon
-Ang lahat na kanilang bayan sa lahat na kanilang angkan ay labing tatlong bayan.
 At sa nalabi sa mga anak ni Coath ay nabigay sa pamamagitan ng sapalaran, sa angkan ng lipi, sa kalahating lipi, na kalahati ng Manases, sangpung bayan.
 At sa mga anak ni Gerson, ayon sa kanilang mga angkan, sa lipi ni Issachar, at sa lipi ni Aser, at sa lipi ni Nephtali, at sa lipi ni Manases sa Basan, labing tatlong bayan.
 Sa mga anak ni Merari ay nabigay sa pamamagitan ng sapalaran, ayon sa kanilang mga angkan sa lipi ni Ruben, at sa lipi ni Gad, at sa lipi ni Zabulon, labing dalawang bayan.

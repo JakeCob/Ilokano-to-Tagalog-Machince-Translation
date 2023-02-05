@@ -2326,7 +2326,8 @@ A mangtimbeng iti angin;
 wen; dagiti dandanum sucatenna iti pagsucatan.
 Idi nangaramid iti maysa a pangngeddeng a maipaay iti tudo, 
 ken maysa a dalan a maipaay iti kimat ti gurrood;
-Idin isu kinitana, ken impalawagna; 
+Idin isu kinitana, 
+ken impalawagna; 
 isu pinasingkedanna, wen, ket isu pinalutputna.
 Ket kinunana iti tao, 
 adtoy, ti panagbuteng iti Apo, dayta isu ti sirib; 
@@ -2364,7 +2365,8 @@ Amaac idi ti macasapul:
 ket ti panggep ti diac am-ammo idi pinalutpotco.
 Ket binuracco dagiti sangi dagiti nakillo, 
 ket rinabsutco ti tinucmaan dagiti ngipenna.
-Idin kinunac, Matayacto idiay umocco, 
+Idin kinunac, 
+Matayacto idiay umocco, 
 ken paaduecto a cas darat dagiti al-aldawco:
 Ti ramutco agsacnap agingga cadagiti dandanum, 
 ket ti linnaaw agyan nga agpatnag iti rabaw ti sangac:
@@ -2376,7 +2378,8 @@ Calpasan dagiti sasaoc dida nagsaon
 ket ti bitlac timmedted cadacuada.
 Ket inuraydac a cas iti tudo; 
 ket nginangada a nalawa dagiti ngiwatda a cas aguray iti maudi a tudo.
-Inisemac ida, idi awan ti panagtalecda; 
+Inisemac ida, 
+idi awan ti panagtalecda; 
 ket ti lawag ti rupac dida inwacsi.
 Pinilic ti dalanda, ket nagsaadac a cas pangolo, 
 ken nagnaedac a cas maysa nga ari ti buyot, 
@@ -2387,7 +2390,6 @@ Wen, ti pigsa dagiti im-imada, ania ti maigungunada coma caniac
 Lallaki a cadacuada mapukaw ti naluom a tawen.
 Isuda nakidditda iti masapul ken bisin; 
 curibanda ti namaga a daga, iti kinatalipungaw ti panagputputong ken panaglangalang.
-Alaenda dagiti malbas cadagiti cayona; 
 ket dagiti ramut ti enebro isuda ti taraonda.
 Maparuarda manipud nagtengngaan dagiti tattao, 
 umkisda iti licudanda a cas iti licudan ti maysa a mannanacaw;
@@ -2399,7 +2401,6 @@ Isuda dagiti annac dagiti maag, wen, annac dagiti nacas-ang a tattao;
 nabaotda a naparuar iti daga.
 Ket ita agbalinac a daniwda, 
 wen, maysaac a balicas a barengbareng cadacuada.
-Caguradac, ket agtacderda iti adayu caniac, 
 ket dida liclican a tupraan ti rupac.
 Ta pinalucayanna ti lubidna ket pinarigatnac; 
 ket linapsutda ti pacagat iti sangoc.
@@ -2452,8 +2453,7 @@ ken ti tawiden nga aggapu iti Mannacabalin idiay ngato?
 Saan aya a kinadacsangasat nga agpaay iti nakillo, 
 ken ladingit nga agpaay cadagiti managaramid ti kinadangkes?
 Saanna aya a makita dagiti dalanco 
-ken bilangen dagiti addangco?
-No nakicuyogac iti kinaulbod, 
+ken bilangen dagiti addangco? 
 ken nagdaras ti sacac a mangallilaw;
 (Matimbangac coma iti apag-isu a timbengan, 
 tapno ammoen coma ti Dios ti kinatarnawco);
@@ -2555,7 +2555,7 @@ Agannadcayo di la ket ta cunayo, nacasaraccami iti sirib;
 ti Dios ti mangabac coma kencuana, saan a ti tao:
 Ta isu dina inturong dagiti sasaona a maibusor caniac; 
 uray siac diacto sungbatan cas cadagiti bitbitlayo.
-Isuda masdaawda, dida sumungbaten uray caano: 
+Isuda masdaawda,
 isuda awananda ti balicas nga isao.
 Ket agurayacto aya, agsipud ta dida agsao, 
 agsipud ta agtalnada, ket dida sumungbaten?
@@ -2638,7 +2638,7 @@ Tapno isublina ti cararuana manipud iti dariwangwang,
 tapno isu malawagan iti lawag dagiti agbiag.
 Tandaanam a naimbag, O Job, ipangagnac: 
 agulimecca, ket agsaoacto.
-No addaanca iti aniaman nga isao, sungbatannac: 
+sungbatannac: 
 agsaoca, ta calicagumanca a palintegen.
 No saan, ipangagnac; 
 agulimecca, ket isurocto kenca ti sirib.
@@ -2790,7 +2790,8 @@ Ngem sica napnoca iti panangipato ti nadangcoc:
 pannacaocom ken kinajusticia gemgemandaca.
 Ta ti pungtot dinaca coma tignayen a maibusor cadagiti dusdusa; 
 uray ti kinadackel ti subbot dinaca coma isiasi.
-Macatulongto aya ta asugmo, tapno awanca coma iti pacarigatan, 
+Macatulongto aya ta asugmo, 
+tapno awanca coma iti pacarigatan, 
 wenno amin dagiti pigsa ta bilegmo?
 Dica calicaguman ti rabii, 
 no dagiti tattao mapucasda iti yanda.
@@ -2933,7 +2934,6 @@ Dagiti dandanum aglemmengda ket agbalinda a cas bato,
 ket iti rabaw ti taaw agbalay.
 Mareppetmo aya ti rummuoc dagiti Pleiades, 
 wenno mapalucayam dagiti patapat ti Orion?
-Maidalanmo aya dagiti Mazzaroth iti pannawenda
 Wenno maiturongmo aya ti Osa agraman cadagiti bunggoyna?
 Ammom aya dagiti al-alagaden dagiti langlangit
 Mapasingkedam aya ti pagturayan ti daga?
@@ -3139,8 +3139,7 @@ Umararawac kenca, denggem, ket agsaoacto;
 agkiddawacto kenca, ket ipalawagmo caniac.
 Nangngeganca idi gapu iti panagdengngeg ti lapayag; 
 ngem ita ti matac makitanaca:
-Gapuna a guraec ti bagic, 
-ket agbabawiac iti tapoc ken dapdapo.
+Gapuna a guraec ti bagic,
 Ket napasamac, a calpasan ti panangisao idi ni Jehova cadagitoy a sasao ken Job, ni Jehova kinunana ken Elifaz a Temanita, Ti ungetco bumara a maibusor kenca, ken maibusor cadagiti dua a gagayyemmo; ta dicayo insao ti maipanpan caniac iti banag a nalinteg, cas insao ni adipenco a Job.
 Ita ngarud mangalacayo cadagiti pito a vaca, ken pito a carnero, ket incayo ken adipenco a Job, ket idatagyo gapu cadacayo ti daton a mapuuran; ket ni adipenco a Job icararagannacayonto; ta isu awatecto, tapno diac aramiden cadacayo cas iti kinamaagyo: ta dicayo insao ti maipapan caniac iti banag a nalinteg, cas inaramid ni adipenco a Job:
 Iti casta da Elifaz a Temanita ken Bildad a Suhita ken Sofar a Naamatita napanda, ket inaramidda ti cas imbilin ni Jehova cadacuada: ket ni Jehova inawatna ni Job,
@@ -3410,7 +3409,6 @@ Ket cadagiti annac a lallaki ni Aaron intedda dagiti il-il a pagcamangan, ti Heb
 Ken ti Hilem agraman cabangibangna, ti Debir agraman cabangibangna,
 Ken ti Asan agraman cabangibangna, ken ti Bet-semes agraman cabangibangna;
 Ket naggapu iti caputotan ni Benjamin, ti Geba agraman cabangibangna, ken ti Alemet agraman cabangibangna, ken ti Anatot agraman cabangibangna
-Isu-amin nga il-ili cadagiti famfamiliada sangapuloda ket tallo nga il-ili.
 Ket cadagiti matda cadagiti annac a lallaki ni Coath naited idi gapu iti gasat, a naggapu iti familia ti caputotan, naggapu iti caguddua ti caputotan, ti guddua ti Manases, dagiti sangapulo nga il-ili.
 Ket cadagiti annac ni Gerson, a mayannurot cadagiti famfamiliada, naggapu iti caputotan ni Issacar, ken naggapu iti caputotan ni Aser, ken naggapu iti caputotan ni Neftali, ken naggapu iti caputotan ni Manases idiay Basan, dagiti sangapulo ket tallo nga il-ili.
 Cadagiti annac a lallaki ni Merari naited idi gapu iti gasat, a mayannurot cadagiti famfamiliada, naggapu iti caputotan ni Ruben, ken naggpu ti caputotan ni Gad, ken naggapu iti caputotan ni Zabulon, dagiti sangapulo ket dua nga il-ili.
