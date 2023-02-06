@@ -13812,7 +13812,7 @@ ken kigtotennac cadagiti parparmata:
 Iti casta ti cararuac pinilina ti pannacalmes, 
 ken ti patay a naimimbag ngem dagitoy tultulangco.
 Caumac ti biagco; diac cayat ti agbiag iti agnanayon; 
-bay-annac; dagiti al-aldawco ubbawda,
+bay-annac;
 Ania aya ti tao, tapno isu itan-ocmo, 
 ket ta panunutmo ipaaymo kencuana,
 Ken isu sarungcaram iti tunggal bigat, 
@@ -14001,7 +14001,7 @@ Ket ti tao a mannanao mapalinteg aya?
 Dagiti pasindayawmo pagtalnaenda aya dagiti tao
 Ket no mangrabrabacca, awan aya ti tao a mangbabain kenca?
 Ta cunaem, Ti pannursuroc nadalus, 
-ken nadalusac cadagita matam, napalongdo a lalaki isu ti maysa a catcatawaan.
+ken nadalusac cadagita matam
 Ngem; O sapay coma ta agsao ti Dios, 
 ken luctanna dagiti bibigna a maibusor kenca,
 Ket iparangarangna coma kenca dagiti palimed ti kinasiribna
@@ -14023,7 +14023,6 @@ No paglintegem ta pusom,
 ken dagita imam yunnatmo kencuana;
 No adda kinadangkes ita imam, 
 isu ti yadayum, ket dica palubosan nga agnaed ti kinakillo cadagita toldam.
-Pudno ngarud nga itangadmo ta rupam nga awan mulitna; 
 wen, natibkercanto, ket dicanto agbuteng:
 Ta malipatamto ti kinaay-ay-aymo; 
 isu ti malagipmonto a cas dandanum a naglabasen.
@@ -14655,7 +14654,6 @@ ket agsubliac, ngem isu diac masaripatpatan;
 Iti makatigid, no agaramid, ngem isu diac makita; 
 isu aglemmeng iti macanawan, tapno isu diac makita.
 Ngem ammona ti dalan a papanac; intono masuutnac, 
-rumuaracto a cas balitoc.
 Ti sacac simmurot cadagiti tugtugutna
 Sinalimetmetac ti dalanna, ket diac simmiasi.
 Diac naglicudan dagiti bilin dagiti bibigna; 
@@ -16046,20 +16044,23 @@ Dagitoy isuda idi dagiti annacna a lallaki; pangoloen dagiti balbalay dagiti amm
 Ket ken Husim pinutotna da Abitob, ken Elfaal.
 Ket dagiti annac a lallaki ni Elfaal: da Heber, Misam, ken Semed, isu a nangbangon iti Ono ken iti Lot agraman il-ilida;
 Ken da Berias ken Sema, isuda a pangoloen idi dagiti balbalay dagiti ama dagiti naed, ti Ajalon, a namagtalaw cadagiti naed ti Gat;
-Ken da Ahio, Sesac, ken Jerimot,
-Ken Zebadias, Arad, ken Heder,
-Ken Micael, Isfa, ken Joa, nga annac a lallaki ni Berias,
-Ken Zebadias, Mesullam, ken Hizki, ken Heber.
-Ken Ismari, Izlia, ken Jobab, dagiti annac a lallaki ni Elfaal,
-Ken Jacim, Zicri, ken Zabdi,
-Ken Elioenai, Silitai, ken Eliel.
-Ken Adaias, Baraias, ken Simrat, dagiti annac a lallaki ni Simi,
-Ken Isfan, Heber, ken Eliel,
-Ken Abdon, Zecri, ken Hanan,
-Ken Hanaia, Elam, ken Anatotias,
+Ken da Ahio, ken Sesac, ken Jerimot,
+Ken Zebadias, ken Arad, ken Heder,
+Ken Micael, ken Isfa, ken Joa, nga annac a lallaki ni Berias,
+Ken Zebadias, ken Mesullam, ken Hizki, ken Heber.
+Ken Ismari, ken Izlia, ken Jobab, 
+dagiti annac a lallaki ni Elfaal,
+Ken Jacim, ken Zicri, ken Zabdi,
+Ken Elioenai, ken Silitai, ken Eliel.
+Ken Adaias, ken Baraias, ken Simrat, 
+dagiti annac a lallaki ni Simi,
+Ken Isfan, ken Heber, ken Eliel,
+Ken Abdon, ken Zecri, ken Hanan,
+Ken Hanaia, ken Elam, ken Anatotias,
 Ken Ifodaias, ken Penuel, dagiti annac a lallaki ni Sesac,
-Ken Samseri, Seharias, ken Otalia,
-Ken Jaarsias, Elias, ken Zecri, dagiti annac a lallaki ni Jeroham.
+Ken Samseri, ken Seharias, ken Otalia,
+Ken Jaarsias, ken Elias, ken Zecri, 
+dagiti annac a lallaki ni Jeroham.
 Dagitoy isuda idi dagiti pangoloen dagiti balbalay dagiti amma cadagiti capcapounanda, lallaki a pangoloen: dagitoy nagnaedda idiay Jerusalem.
 Ket idiay Gabaon nagnaed ti ama ni Gabaon, ni Jeiel, a ti nagan ti babai nga asawana Maaca;
 Ket ti inaunaan nga anacna a lalaki ni Abdon, ken Sur, Kis, Baal, ken Nadab,

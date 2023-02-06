@@ -13223,7 +13223,7 @@ Si Amarias; si Malluch, si Hartus;
 Si Sechanias, si Rehum, si Meremoth;
 Si Iddo, si Ginetho, si Abias;
 Si Miamin, si Maadias, si Bilga;
-Si Semaias, at si Joiarib, si Jedaias;
+Si Semaias, si Joiarib, si Jedaias;
 Si Sallum, si Amoc, si Hilcias, si Jedaias
 Ang mga ito'y ang mga pinuno sa mga saserdote at sa kanilang mga kapatid sa mga kaarawan ni Jesua.
 Bukod dito'y ang mga Levita: si Jesua, si Binnui, si Cadmiel, si Serebias, si Juda, at si Mathanias, na namamahala sa pagpapasalamat, siya at ang kaniyang mga kapatid.
@@ -13812,7 +13812,7 @@ At pinangingilabot mo ako sa mga pangitain:
 Na anopa't pinipili ng aking kaluluwa ang pagkainis,
 At ang kamatayan kay sa aking mga butong ito.
 Aking kinayayamutan ang aking buhay; di ko na ibig mabuhay magpakailan man:
-Bayaan akong magisa; sapagka't ang aking mga kaarawan ay walang kabuluhan.
+Bayaan akong magisa;
 Ano ang tao, na iyong palalakhin siya,
 At iyong ilalagak ang iyong puso sa kaniya,
 At iyong dadalawin siya tuwing umaga,
@@ -14023,7 +14023,6 @@ Kung iyong ihahanda ang iyong puso,
 At iuunat mo ang iyong kamay sa kaniya;
 Kung ang kasamaan ay sumaiyong kamay, ilayo mo,
 At huwag manahan ang kalikuan sa iyong mga tolda;
-Walang pagsala ngang iyong itataas ang iyong mukha na walang kapintasan;
 Oo, ikaw ay matatatag, at hindi matatakot:
 Sapagka't iyong malilimutan ang iyong karalitaan;
 Iyong aalalahaning parang tubig na umaagos:
@@ -14655,7 +14654,6 @@ At sa dakong likuran, nguni't hindi ko siya mamataan:
 Sa kaliwa pagka siya'y gumagawa, nguni't hindi ko mamasdan siya:
 Siya'y nagkukubli sa kanan, na hindi ko makita siya.
 Nguni't nalalaman niya ang daang aking nilalakaran;
-Pagka kaniyang nasubok ako ay lalabas akong parang ginto.
 Ang aking paa ay sumunod na lubos sa kaniyang mga hakbang.
 Ang kaniyang daan ay aking iningatan, at hindi ako lumiko.
 Ako'y hindi humiwalay sa utos ng kaniyang mga labi;
@@ -16050,16 +16048,19 @@ At si Ahio, si Sasac, at si Jeremoth;
 At si Zebadias, at si Arad, at si Heder;
 At si Michael, at si Ispha, at si Joa, na mga anak ni Berias;
 At si Zebadias, at si Mesullam, at si Hizchi, at si Heber.
-At si Ismari, at si Izlia, at si Jobab, na mga anak ni Elphaal;
+At si Ismari, at si Izlia, at si Jobab, 
+na mga anak ni Elphaal;
 At si Jacim, at si Zichri, at si Zabdi;
 At si Elioenai, at si Silithai, at si Eliel;
-At si Adaias, at si Baraias, at si Simrath, na mga anak ni Simi;
+At si Adaias, at si Baraias, at si Simrath, 
+na mga anak ni Simi;
 At si Isphan, at si Heber, at si Eliel;
 At si Adon, at si Zichri, at si Hanan;
 At si Hanania, at si Belam, at si Anthothias;
 At si Iphdaias, at si Peniel, na mga anak ni Sasac;
 At si Samseri, at si Seharias, at si Atalia;
-At si Jaarsias, at si Elias, at si Ziri, na mga anak ni Jeroham.
+At si Jaarsias, at si Elias, at si Ziri, 
+na mga anak ni Jeroham.
 Ang mga ito ang mga pangulo sa mga sangbahayan ng mga magulang ayon sa kanilang lahi, na mga pinunong lalake: ang mga ito'y nagsitahan sa Jerusalem.
 At sa Gabaon ay tumahan ang ama ni Gabaon, si Jeiel, na ang pangalan ng asawa ay Maacha:
 At ang kaniyang anak na panganay si Abdon, at si Sur, at si Cis, at si Baal, at si Nadab;
